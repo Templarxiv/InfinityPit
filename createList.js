@@ -1,5 +1,5 @@
 var asset_url = "src/assets";
-var json = asset_url + '/all_units.json';
+var json = 'all_units.json';
 var fs = require('fs');
 
 //return an array of objects according to key, value, or key and value matching
@@ -57,7 +57,7 @@ var parseJSON = function (data) {
       var mods = JSON.parse(fs.readFileSync(asset_url + "/mods.json", 'utf8'));
       mods.forEach(function (element) {
         if (abSplit.length > 0 && abSplit.includes(element.Id + "")) {
-          newUnit.AbilityText += element.Name;
+          newUnit.AbilityText += " " + element.Name;
           modbs += element.Value;
           newUnit.RealCost -= element.Value;
         }
