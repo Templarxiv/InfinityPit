@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>InfinityMeta</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="all_units.js"></script>
+  <script src="simulate.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <h3 class="text-center">Input units name from the list</h3>
+    <br>
+    <div class="center-block" style="width: 100%">
+      <input id="first_unit" style="width: 45%"> vs
+      <input id="second_unit" style="width: 45%">
+    </div>
+    <h4 class="text-center" id="status"> </h4>
+    <br>
+    <button class="btn btn-primary center-block" onclick="startSimulation()" style="width: 100px">Start</button>
+  </div>
+</body>
+
+</html>
