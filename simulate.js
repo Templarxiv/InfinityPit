@@ -54,12 +54,15 @@ var weaponClass = (name, range, dmg, burst) => {
 }
 var weapons = [];
 weapons.push(weaponClass("Spitfire", [0, 3, 3, -3, -6, -6], 14, 4));
-weapons.push(weaponClass("Shotgun", [3, 0, -3], 14, 2));
+weapons.push(weaponClass("Shotgun", [3, 0, -3, -100, -100, -100], 14, 2));
+weapons.push(weaponClass("BoardingShotgun", [6, 0, -3, -100, -100, -100], 14, 2));
 weapons.push(weaponClass("Rifle", [0, 3, -3, -3, -6, -6], 13, 3));
+weapons.push(weaponClass("CombiRifle", [3, 3, -3, -3, -6, -6], 13, 3));
 weapons.push(weaponClass("HMG", [-3, 0, 3, 3, -3, -3], 15, 4));
 weapons.push(weaponClass("Sniper", [-3, 0, 3, 3, 3, 3, -3, -3], 15, 2));
-weapons.push(weaponClass("Submachine", [3, 0, -3, -6], 13, 3));
+weapons.push(weaponClass("Submachine", [3, 0, -3, -6, -100, -100], 13, 3));
 weapons.push(weaponClass("Mk12", [0, 3, 3, -3, -6, -6], 15, 3));
+
 
 var activeUnit;
 var reactiveUnit;
@@ -156,21 +159,30 @@ var addWAb = (u) => {
   if (u.AbilityText.includes("Symbiont Armor")) u.W += 1;
 }
 
-var simulate = (u1, u2) => {
+var simulate = (u1, u2, ranges) => {
   var winsU1 = 0;
   var winsU2 = 0;
 
   var text = u1.Name + " cost=" + u1.COST + " vs " + u2.Name + " cost=" + u2.COST;
+
+  var i_ranges = [];
+  for (var b = 0; b < ranges.length; b++) {
+    if (ranges[b])
+      i_ranges.push(b);
+  }
+
+  var curRange = 0;
   for (var i = 0; i < 1000; i++) {
     activeUnit = Object.create(u1);
     reactiveUnit = Object.create(u2);
     addWAb(activeUnit);
     addWAb(reactiveUnit);
     while (activeUnit.W > 0 && reactiveUnit.W > 0) {
-      turn(1);
-      turn(2);
-      turn(3);
+      turn(i_ranges[curRange]);
     }
+    curRange++;
+    if (curRange == i_ranges.length) curRange = 0;
+
     if (activeUnit.W <= 0)
       winsU2++;
     if (reactiveUnit.W <= 0)
@@ -183,10 +195,10 @@ var simulate = (u1, u2) => {
     addWAb(reactiveUnit);
 
     while (activeUnit.W > 0 && reactiveUnit.W > 0) {
-      turn(1);
-      turn(2);
-      turn(3);
+      turn(i_ranges[curRange]);
     }
+    curRange++;
+    if (curRange == i_ranges.length) curRange = 0;
     if (activeUnit.W <= 0)
       winsU1++;
     if (reactiveUnit.W <= 0)
@@ -200,11 +212,12 @@ var simulate = (u1, u2) => {
 // var data = fs.readFileSync(json, 'utf8')
 var jsonData = all_units;
 var startSimulation = () => {
+  var ranges = [document.getElementById("8").checked, document.getElementById("16").checked, document.getElementById("24").checked, document.getElementById("32").checked, document.getElementById("48").checked];
   var u1 = jsonData.find(x => x.Name == document.getElementById("first_unit").value);
   var u2 = jsonData.find(x => x.Name == document.getElementById("second_unit").value);
   document.getElementById("stats_first").innerHTML = "BS: " + u1.BS + "\nW: " + u1.W + "\nARM: " + u1.ARM + "\nBTS: " + u1.BTS + "\nAbility: " + u1.AbilityText + "\nCost: " + u1.COST;
   document.getElementById("stats_second").innerHTML = "BS: " + u2.BS + "\nW: " + u2.W + "\nARM: " + u2.ARM + "\nBTS: " + u2.BTS + "\nAbility: " + u2.AbilityText + "\nCost: " + u2.COST;
-  document.getElementById("status").innerHTML = simulate(u1, u2);
+  document.getElementById("status").innerHTML = simulate(u1, u2, ranges);
 }
 
 var finalData = $.map(jsonData, function (item) {
