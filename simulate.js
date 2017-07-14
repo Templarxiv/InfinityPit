@@ -72,14 +72,14 @@ var bsMod = (u1, u2) => {
   var bs = 0;
   if (u1.AbilityText.includes("Optical Disruption") || u1.Name.includes("Optical Disruption")) bs -= 6;
   if (u1.AbilityText.includes("Sapper") || u1.Name.includes("Sapper")) bs -= 3;
-  if (u1.AbilityText.includes("MIMETISM") || u1.Name.includes("MIMETISM")) bs -= 3;
-  if (u1.AbilityText.includes("TO CAMOUFLAGE") || u1.Name.includes("TO CAMOUFLAGE")) bs -= 6;
+  if (u1.AbilityText.includes("MIMETISM") || u1.Name.toUpperCase().includes("MIMETISM")) bs -= 3;
+  if (u1.AbilityText.includes("TO CAMOUFLAGE") || u1.Name.toUpperCase().includes("TO CAMOUFLAGE")) bs -= 6;
   if (u1.AbilityText.includes("Nanoscreen") || u1.Name.includes("Nanoscreen")) bs -= 3;
 
-  if (u2.AbilityText.includes("MULTISPECTRAL VISOR L2") || u2.Name.includes("MULTISPECTRAL VISOR L2") || u2.Name.includes("MULTISPECTRAL VISOR L3")) {
+  if (u2.AbilityText.includes("MULTISPECTRAL VISOR L2") || u2.Name.toUpperCase().includes("MULTISPECTRAL VISOR L2") || u2.Name.toUpperCase().includes("MULTISPECTRAL VISOR L3")) {
     bs = 0;
   }
-  if (u2.AbilityText.includes("MULTISPECTRAL VISOR L1") || u2.Name.includes("MULTISPECTRAL VISOR L1")) {
+  if (u2.AbilityText.includes("MULTISPECTRAL VISOR L1") || u2.Name.toUpperCase().includes("MULTISPECTRAL VISOR L1")) {
     bs += 3;
   }
   if (bs > 0) bs = 0;
