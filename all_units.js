@@ -13,7 +13,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 6.49
+  "Effectivity": 6.49,
+  "P": "42.91"
 }, {
   "Id": 2,
   "RaceID": 101,
@@ -29,7 +30,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 8.18
+  "Effectivity": 8.18,
+  "P": "51.89"
 }, {
   "Id": 3,
   "RaceID": 101,
@@ -45,7 +47,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.10"
 }, {
   "Id": 4,
   "RaceID": 101,
@@ -61,7 +64,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "40.64"
 }, {
   "Id": 5,
   "RaceID": 101,
@@ -77,7 +81,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "49.33"
 }, {
   "Id": 6,
   "RaceID": 101,
@@ -93,7 +98,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 11.69
+  "Effectivity": 11.69,
+  "P": "43.35"
 }, {
   "Id": 7,
   "RaceID": 101,
@@ -109,7 +115,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 7.79
+  "Effectivity": 7.79,
+  "P": "43.31"
 }, {
   "Id": 8,
   "RaceID": 101,
@@ -125,7 +132,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 7.79
+  "Effectivity": 7.79,
+  "P": "43.30"
 }, {
   "Id": 9,
   "RaceID": 101,
@@ -141,7 +149,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 6.49
+  "Effectivity": 6.49,
+  "P": "43.58"
 }, {
   "Id": 10,
   "RaceID": 101,
@@ -157,7 +166,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 4.5,
   "Power": 3,
-  "Effectivity": 7.33
+  "Effectivity": 7.33,
+  "P": "46.40"
 }, {
   "Id": 11,
   "RaceID": 101,
@@ -173,7 +183,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 4.5,
   "Power": 3,
-  "Effectivity": 7
+  "Effectivity": 7,
+  "P": "29.92"
 }, {
   "Id": 12,
   "RaceID": 101,
@@ -189,7 +200,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 5.5,
   "Power": 3.24,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "53.51"
 }, {
   "Id": 13,
   "RaceID": 101,
@@ -205,7 +217,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 4.5,
   "Power": 3,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "46.30"
 }, {
   "Id": 14,
   "RaceID": 101,
@@ -221,7 +234,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 4.5,
   "Power": 3,
-  "Effectivity": 8
+  "Effectivity": 8,
+  "P": "46.72"
 }, {
   "Id": 15,
   "RaceID": 101,
@@ -237,7 +251,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "55.28"
 }, {
   "Id": 16,
   "RaceID": 101,
@@ -253,7 +268,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 8,
   "Power": 4.16,
-  "Effectivity": 8.17
+  "Effectivity": 8.17,
+  "P": "63.21"
 }, {
   "Id": 17,
   "RaceID": 101,
@@ -269,7 +285,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 9,
   "Power": 4.42,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "61.17"
 }, {
   "Id": 18,
   "RaceID": 101,
@@ -285,7 +302,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 11.24
+  "Effectivity": 11.24,
+  "P": "55.48"
 }, {
   "Id": 19,
   "RaceID": 101,
@@ -301,7 +319,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 9.47
+  "Effectivity": 9.47,
+  "P": "54.88"
 }, {
   "Id": 20,
   "RaceID": 101,
@@ -317,7 +336,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "55.38"
 }, {
   "Id": 21,
   "RaceID": 101,
@@ -333,7 +353,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 10.19
+  "Effectivity": 10.19,
+  "P": "46.08"
 }, {
   "Id": 22,
   "RaceID": 101,
@@ -349,7 +370,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 11.57
+  "Effectivity": 11.57,
+  "P": "46.02"
 }, {
   "Id": 23,
   "RaceID": 101,
@@ -365,7 +387,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "29.93"
 }, {
   "Id": 24,
   "RaceID": 101,
@@ -381,7 +404,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "52.36"
 }, {
   "Id": 25,
   "RaceID": 101,
@@ -397,7 +421,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 4,
   "Power": 2.88,
-  "Effectivity": 9.38
+  "Effectivity": 9.38,
+  "P": "29.57"
 }, {
   "Id": 26,
   "RaceID": 101,
@@ -413,7 +438,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "53.57"
 }, {
   "Id": 27,
   "RaceID": 101,
@@ -429,7 +455,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "29.64"
 }, {
   "Id": 28,
   "RaceID": 101,
@@ -445,7 +472,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "46.63"
 }, {
   "Id": 29,
   "RaceID": 101,
@@ -461,7 +489,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 10.19
+  "Effectivity": 10.19,
+  "P": "46.40"
 }, {
   "Id": 30,
   "RaceID": 101,
@@ -477,7 +506,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "64.75"
 }, {
   "Id": 31,
   "RaceID": 101,
@@ -493,7 +523,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "64.99"
 }, {
   "Id": 32,
   "RaceID": 101,
@@ -509,7 +540,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 3,
   "Power": 5.71,
-  "Effectivity": 7.71
+  "Effectivity": 7.71,
+  "P": "74.30"
 }, {
   "Id": 33,
   "RaceID": 101,
@@ -525,7 +557,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0,
   "Power": 4.28,
-  "Effectivity": 8.18
+  "Effectivity": 8.18,
+  "P": "43.51"
 }, {
   "Id": 34,
   "RaceID": 101,
@@ -541,7 +574,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 0,
   "Power": 4.28,
-  "Effectivity": 8.41
+  "Effectivity": 8.41,
+  "P": "64.60"
 }, {
   "Id": 35,
   "RaceID": 101,
@@ -557,7 +591,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 0,
   "Power": 4.28,
-  "Effectivity": 9.81
+  "Effectivity": 9.81,
+  "P": "64.53"
 }, {
   "Id": 36,
   "RaceID": 101,
@@ -573,7 +608,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "64.87"
 }, {
   "Id": 37,
   "RaceID": 101,
@@ -589,7 +625,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 3,
   "Power": 5.71,
-  "Effectivity": 7.71
+  "Effectivity": 7.71,
+  "P": "74.16"
 }, {
   "Id": 3071,
   "RaceID": 101,
@@ -605,7 +642,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "64.68"
 }, {
   "Id": 38,
   "RaceID": 101,
@@ -621,7 +659,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2,
   "Power": 5.24,
-  "Effectivity": 7.06
+  "Effectivity": 7.06,
+  "P": "64.83"
 }, {
   "Id": 39,
   "RaceID": 101,
@@ -637,7 +676,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2,
   "Power": 5.24,
-  "Effectivity": 7.25
+  "Effectivity": 7.25,
+  "P": "64.88"
 }, {
   "Id": 40,
   "RaceID": 101,
@@ -653,7 +693,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4,
   "Power": 6.19,
-  "Effectivity": 6.62
+  "Effectivity": 6.62,
+  "P": "74.09"
 }, {
   "Id": 41,
   "RaceID": 101,
@@ -669,7 +710,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 6.93
+  "Effectivity": 6.93,
+  "P": "43.47"
 }, {
   "Id": 42,
   "RaceID": 101,
@@ -685,7 +727,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 6.93
+  "Effectivity": 6.93,
+  "P": "65.00"
 }, {
   "Id": 43,
   "RaceID": 101,
@@ -701,7 +744,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 4.76,
-  "Effectivity": 7.77
+  "Effectivity": 7.77,
+  "P": "64.84"
 }, {
   "Id": 44,
   "RaceID": 101,
@@ -717,7 +761,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2,
   "Power": 5.24,
-  "Effectivity": 7.06
+  "Effectivity": 7.06,
+  "P": "64.97"
 }, {
   "Id": 45,
   "RaceID": 101,
@@ -733,7 +778,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2,
   "Power": 5.24,
-  "Effectivity": 7.25
+  "Effectivity": 7.25,
+  "P": "64.78"
 }, {
   "Id": 3205,
   "RaceID": 101,
@@ -749,7 +795,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 2,
   "Power": 5.24,
-  "Effectivity": 7.82
+  "Effectivity": 7.82,
+  "P": "65.16"
 }, {
   "Id": 46,
   "RaceID": 101,
@@ -765,7 +812,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 8.21
+  "Effectivity": 8.21,
+  "P": "65.92"
 }, {
   "Id": 47,
   "RaceID": 101,
@@ -781,7 +829,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 8.02
+  "Effectivity": 8.02,
+  "P": "44.76"
 }, {
   "Id": 48,
   "RaceID": 101,
@@ -797,7 +846,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 4.5,
   "Power": 6.89,
-  "Effectivity": 7.11
+  "Effectivity": 7.11,
+  "P": "63.14"
 }, {
   "Id": 49,
   "RaceID": 101,
@@ -813,7 +863,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 2.5,
   "Power": 5.86,
-  "Effectivity": 8.53
+  "Effectivity": 8.53,
+  "P": "73.34"
 }, {
   "Id": 50,
   "RaceID": 101,
@@ -829,7 +880,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "66.24"
 }, {
   "Id": 51,
   "RaceID": 101,
@@ -845,7 +897,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 8.58
+  "Effectivity": 8.58,
+  "P": "66.09"
 }, {
   "Id": 52,
   "RaceID": 101,
@@ -861,7 +914,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 8.21
+  "Effectivity": 8.21,
+  "P": "66.24"
 }, {
   "Id": 53,
   "RaceID": 101,
@@ -877,7 +931,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 2.5,
   "Power": 5.86,
-  "Effectivity": 8.53
+  "Effectivity": 8.53,
+  "P": "73.30"
 }, {
   "Id": 3089,
   "RaceID": 101,
@@ -893,7 +948,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 1.5,
   "Power": 5.36,
-  "Effectivity": 8.21
+  "Effectivity": 8.21,
+  "P": "44.62"
 }, {
   "Id": 54,
   "RaceID": 101,
@@ -909,7 +965,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 3.5,
   "Power": 6.43,
-  "Effectivity": 9.02
+  "Effectivity": 9.02,
+  "P": "69.68"
 }, {
   "Id": 55,
   "RaceID": 101,
@@ -925,7 +982,8 @@ all_units = [{
   "RealCost": 40,
   "modBS": 5.5,
   "Power": 7.38,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "79.39"
 }, {
   "Id": 56,
   "RaceID": 101,
@@ -941,7 +999,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 3.5,
   "Power": 6.43,
-  "Effectivity": 9.02
+  "Effectivity": 9.02,
+  "P": "70.09"
 }, {
   "Id": 57,
   "RaceID": 101,
@@ -957,7 +1016,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 5,
   "Power": 7.65,
-  "Effectivity": 8.37
+  "Effectivity": 8.37,
+  "P": "75.47"
 }, {
   "Id": 58,
   "RaceID": 101,
@@ -973,7 +1033,8 @@ all_units = [{
   "RealCost": 43.5,
   "modBS": 7,
   "Power": 8.67,
-  "Effectivity": 7.84
+  "Effectivity": 7.84,
+  "P": "81.42"
 }, {
   "Id": 59,
   "RaceID": 101,
@@ -989,7 +1050,8 @@ all_units = [{
   "RealCost": 44.5,
   "modBS": 7,
   "Power": 8.67,
-  "Effectivity": 7.96
+  "Effectivity": 7.96,
+  "P": "52.29"
 }, {
   "Id": 60,
   "RaceID": 101,
@@ -1005,7 +1067,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 5,
   "Power": 7.65,
-  "Effectivity": 9.15
+  "Effectivity": 9.15,
+  "P": "75.39"
 }, {
   "Id": 61,
   "RaceID": 101,
@@ -1021,7 +1084,8 @@ all_units = [{
   "RealCost": 60,
   "modBS": 4.5,
   "Power": 12.53,
-  "Effectivity": 7.42
+  "Effectivity": 7.42,
+  "P": "87.03"
 }, {
   "Id": 62,
   "RaceID": 101,
@@ -1037,7 +1101,8 @@ all_units = [{
   "RealCost": 62,
   "modBS": 4.5,
   "Power": 12.53,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "87.45"
 }, {
   "Id": 63,
   "RaceID": 101,
@@ -1053,7 +1118,8 @@ all_units = [{
   "RealCost": 60,
   "modBS": 4.5,
   "Power": 12.53,
-  "Effectivity": 7.42
+  "Effectivity": 7.42,
+  "P": "87.17"
 }, {
   "Id": 64,
   "RaceID": 101,
@@ -1069,7 +1135,8 @@ all_units = [{
   "RealCost": 69,
   "modBS": 0.5,
   "Power": 9.07,
-  "Effectivity": 10.36
+  "Effectivity": 10.36,
+  "P": "76.92"
 }, {
   "Id": 65,
   "RaceID": 101,
@@ -1085,7 +1152,8 @@ all_units = [{
   "RealCost": 78.5,
   "modBS": 9,
   "Power": 16.42,
-  "Effectivity": 7
+  "Effectivity": 7,
+  "P": "89.63"
 }, {
   "Id": 66,
   "RaceID": 101,
@@ -1101,7 +1169,8 @@ all_units = [{
   "RealCost": 78.5,
   "modBS": 9,
   "Power": 16.42,
-  "Effectivity": 7
+  "Effectivity": 7,
+  "P": "89.25"
 }, {
   "Id": 67,
   "RaceID": 101,
@@ -1117,7 +1186,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "55.35"
 }, {
   "Id": 68,
   "RaceID": 101,
@@ -1133,7 +1203,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 9.76
+  "Effectivity": 9.76,
+  "P": "37.29"
 }, {
   "Id": 69,
   "RaceID": 101,
@@ -1149,7 +1220,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 10.5,
   "Power": 3.85,
-  "Effectivity": 9.87
+  "Effectivity": 9.87,
+  "P": "58.96"
 }, {
   "Id": 70,
   "RaceID": 101,
@@ -1165,7 +1237,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "55.30"
 }, {
   "Id": 71,
   "RaceID": 101,
@@ -1181,7 +1254,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 10.77
+  "Effectivity": 10.77,
+  "P": "55.24"
 }, {
   "Id": 72,
   "RaceID": 101,
@@ -1197,7 +1271,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "55.58"
 }, {
   "Id": 73,
   "RaceID": 101,
@@ -1213,7 +1288,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 10.44
+  "Effectivity": 10.44,
+  "P": "55.25"
 }, {
   "Id": 74,
   "RaceID": 101,
@@ -1229,7 +1305,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.63"
 }, {
   "Id": 75,
   "RaceID": 101,
@@ -1245,7 +1322,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.33"
 }, {
   "Id": 76,
   "RaceID": 101,
@@ -1261,7 +1339,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 9.41
+  "Effectivity": 9.41,
+  "P": "40.96"
 }, {
   "Id": 77,
   "RaceID": 101,
@@ -1277,7 +1356,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "49.09"
 }, {
   "Id": 78,
   "RaceID": 101,
@@ -1293,7 +1373,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "39.94"
 }, {
   "Id": 79,
   "RaceID": 101,
@@ -1309,7 +1390,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.56"
 }, {
   "Id": 80,
   "RaceID": 101,
@@ -1325,7 +1407,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 8.5,
   "Power": 9.44,
-  "Effectivity": 5.19
+  "Effectivity": 5.19,
+  "P": "75.79"
 }, {
   "Id": 81,
   "RaceID": 101,
@@ -1341,7 +1424,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 8.5,
   "Power": 9.44,
-  "Effectivity": 5.3
+  "Effectivity": 5.3,
+  "P": "75.69"
 }, {
   "Id": 82,
   "RaceID": 101,
@@ -1357,7 +1441,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 8.5,
   "Power": 9.44,
-  "Effectivity": 5.19
+  "Effectivity": 5.19,
+  "P": "75.72"
 }, {
   "Id": 83,
   "RaceID": 101,
@@ -1373,7 +1458,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 8.5,
   "Power": 9.44,
-  "Effectivity": 5.3
+  "Effectivity": 5.3,
+  "P": "75.80"
 }, {
   "Id": 84,
   "RaceID": 101,
@@ -1389,7 +1475,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.5,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "42.66"
 }, {
   "Id": 86,
   "RaceID": 101,
@@ -1405,7 +1492,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.7,
-  "Effectivity": 9.41
+  "Effectivity": 9.41,
+  "P": "49.95"
 }, {
   "Id": 87,
   "RaceID": 101,
@@ -1421,7 +1509,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.5,
-  "Effectivity": 7.33
+  "Effectivity": 7.33,
+  "P": "42.44"
 }, {
   "Id": 88,
   "RaceID": 101,
@@ -1437,7 +1526,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4.5,
   "Power": 2.3,
-  "Effectivity": 9.57
+  "Effectivity": 9.57,
+  "P": "54.41"
 }, {
   "Id": 89,
   "RaceID": 101,
@@ -1453,7 +1543,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0.5,
   "Power": 1.5,
-  "Effectivity": 15.33
+  "Effectivity": 15.33,
+  "P": "42.69"
 }, {
   "Id": 90,
   "RaceID": 101,
@@ -1469,7 +1560,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 1.5,
   "Power": 1.7,
-  "Effectivity": 8.24
+  "Effectivity": 8.24,
+  "P": "42.44"
 }, {
   "Id": 91,
   "RaceID": 101,
@@ -1485,7 +1577,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.5,
-  "Effectivity": 8
+  "Effectivity": 8,
+  "P": "42.70"
 }, {
   "Id": 92,
   "RaceID": 101,
@@ -1501,7 +1594,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.5,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "42.49"
 }, {
   "Id": 93,
   "RaceID": 101,
@@ -1517,7 +1611,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.19"
 }, {
   "Id": 94,
   "RaceID": 101,
@@ -1533,7 +1628,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "41.68"
 }, {
   "Id": 95,
   "RaceID": 101,
@@ -1549,7 +1645,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.46"
 }, {
   "Id": 97,
   "RaceID": 101,
@@ -1565,7 +1662,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "55.53"
 }, {
   "Id": 98,
   "RaceID": 101,
@@ -1581,7 +1679,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "60.32"
 }, {
   "Id": 99,
   "RaceID": 101,
@@ -1597,7 +1696,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 8,
   "Power": 3.3,
-  "Effectivity": 9.7
+  "Effectivity": 9.7,
+  "P": "58.79"
 }, {
   "Id": 100,
   "RaceID": 101,
@@ -1613,7 +1713,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 13.22
+  "Effectivity": 13.22,
+  "P": "55.03"
 }, {
   "Id": 2780,
   "RaceID": 101,
@@ -1629,7 +1730,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 11.16
+  "Effectivity": 11.16,
+  "P": "55.62"
 }, {
   "Id": 101,
   "RaceID": 101,
@@ -1645,7 +1747,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "43.07"
 }, {
   "Id": 102,
   "RaceID": 101,
@@ -1661,7 +1764,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 8.3
+  "Effectivity": 8.3,
+  "P": "49.05"
 }, {
   "Id": 103,
   "RaceID": 101,
@@ -1677,7 +1781,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 10.16
+  "Effectivity": 10.16,
+  "P": "50.39"
 }, {
   "Id": 104,
   "RaceID": 101,
@@ -1693,7 +1798,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "43.22"
 }, {
   "Id": 105,
   "RaceID": 101,
@@ -1709,7 +1815,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 12.73
+  "Effectivity": 12.73,
+  "P": "43.52"
 }, {
   "Id": 106,
   "RaceID": 101,
@@ -1725,7 +1832,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 12.83
+  "Effectivity": 12.83,
+  "P": "52.42"
 }, {
   "Id": 107,
   "RaceID": 101,
@@ -1741,7 +1849,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 14.44
+  "Effectivity": 14.44,
+  "P": "55.79"
 }, {
   "Id": 108,
   "RaceID": 101,
@@ -1757,7 +1866,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 13.04
+  "Effectivity": 13.04,
+  "P": "58.91"
 }, {
   "Id": 2781,
   "RaceID": 101,
@@ -1773,7 +1883,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 8.02
+  "Effectivity": 8.02,
+  "P": "40.87"
 }, {
   "Id": 2782,
   "RaceID": 101,
@@ -1789,7 +1900,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.31"
 }, {
   "Id": 2783,
   "RaceID": 101,
@@ -1805,7 +1917,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 8.02
+  "Effectivity": 8.02,
+  "P": "40.51"
 }, {
   "Id": 110,
   "RaceID": 101,
@@ -1821,7 +1934,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.64
+  "Effectivity": 7.64,
+  "P": "51.75"
 }, {
   "Id": 111,
   "RaceID": 101,
@@ -1837,7 +1951,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 7.22
+  "Effectivity": 7.22,
+  "P": "59.56"
 }, {
   "Id": 112,
   "RaceID": 101,
@@ -1853,7 +1968,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.72
+  "Effectivity": 9.72,
+  "P": "51.85"
 }, {
   "Id": 113,
   "RaceID": 101,
@@ -1869,7 +1985,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "51.56"
 }, {
   "Id": 114,
   "RaceID": 101,
@@ -1885,7 +2002,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.64
+  "Effectivity": 7.64,
+  "P": "52.00"
 }, {
   "Id": 115,
   "RaceID": 101,
@@ -1901,7 +2019,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 6.6
+  "Effectivity": 6.6,
+  "P": "33.97"
 }, {
   "Id": 116,
   "RaceID": 101,
@@ -1917,7 +2036,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 6.86
+  "Effectivity": 6.86,
+  "P": "57.09"
 }, {
   "Id": 117,
   "RaceID": 101,
@@ -1933,7 +2053,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 1,
   "Power": 4.86,
-  "Effectivity": 8.85
+  "Effectivity": 8.85,
+  "P": "66.18"
 }, {
   "Id": 118,
   "RaceID": 101,
@@ -1949,7 +2070,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 1,
   "Power": 4.86,
-  "Effectivity": 9.26
+  "Effectivity": 9.26,
+  "P": "73.74"
 }, {
   "Id": 120,
   "RaceID": 101,
@@ -1965,7 +2087,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "72.18"
 }, {
   "Id": 121,
   "RaceID": 101,
@@ -1981,7 +2104,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 6.76
+  "Effectivity": 6.76,
+  "P": "43.56"
 }, {
   "Id": 122,
   "RaceID": 101,
@@ -1997,7 +2121,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "72.25"
 }, {
   "Id": 123,
   "RaceID": 101,
@@ -2013,7 +2138,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 7.13
+  "Effectivity": 7.13,
+  "P": "64.59"
 }, {
   "Id": 2790,
   "RaceID": 101,
@@ -2029,7 +2155,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 7.5
+  "Effectivity": 7.5,
+  "P": "64.88"
 }, {
   "Id": 124,
   "RaceID": 101,
@@ -2045,7 +2172,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 2,
   "Power": 4.86,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "63.80"
 }, {
   "Id": 125,
   "RaceID": 101,
@@ -2061,7 +2189,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 3,
   "Power": 5.3,
-  "Effectivity": 9.43
+  "Effectivity": 9.43,
+  "P": "70.81"
 }, {
   "Id": 126,
   "RaceID": 101,
@@ -2077,7 +2206,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 2,
   "Power": 4.86,
-  "Effectivity": 9.88
+  "Effectivity": 9.88,
+  "P": "63.64"
 }, {
   "Id": 127,
   "RaceID": 101,
@@ -2093,7 +2223,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 2,
   "Power": 4.86,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "63.57"
 }, {
   "Id": 2792,
   "RaceID": 101,
@@ -2109,7 +2240,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 3,
   "Power": 5.3,
-  "Effectivity": 9.43
+  "Effectivity": 9.43,
+  "P": "63.71"
 }, {
   "Id": 2793,
   "RaceID": 101,
@@ -2125,7 +2257,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 3,
   "Power": 5.3,
-  "Effectivity": 9.43
+  "Effectivity": 9.43,
+  "P": "71.16"
 }, {
   "Id": 128,
   "RaceID": 101,
@@ -2141,7 +2274,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 1.5,
   "Power": 5,
-  "Effectivity": 10.2
+  "Effectivity": 10.2,
+  "P": "64.81"
 }, {
   "Id": 129,
   "RaceID": 101,
@@ -2157,7 +2291,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 10.24
+  "Effectivity": 10.24,
+  "P": "72.05"
 }, {
   "Id": 130,
   "RaceID": 101,
@@ -2173,7 +2308,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 1.5,
   "Power": 5,
-  "Effectivity": 10.2
+  "Effectivity": 10.2,
+  "P": "64.82"
 }, {
   "Id": 131,
   "RaceID": 101,
@@ -2189,7 +2325,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 10.24
+  "Effectivity": 10.24,
+  "P": "72.07"
 }, {
   "Id": 132,
   "RaceID": 101,
@@ -2205,7 +2342,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2.5,
   "Power": 5.08,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "64.02"
 }, {
   "Id": 133,
   "RaceID": 101,
@@ -2221,7 +2359,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2.5,
   "Power": 5.08,
-  "Effectivity": 7.09
+  "Effectivity": 7.09,
+  "P": "63.89"
 }, {
   "Id": 134,
   "RaceID": 101,
@@ -2237,7 +2376,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2.5,
   "Power": 5.08,
-  "Effectivity": 7.28
+  "Effectivity": 7.28,
+  "P": "71.67"
 }, {
   "Id": 135,
   "RaceID": 101,
@@ -2253,7 +2393,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2.5,
   "Power": 5.08,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "63.76"
 }, {
   "Id": 136,
   "RaceID": 101,
@@ -2269,7 +2410,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 2.5,
   "Power": 4.2,
-  "Effectivity": 5.24
+  "Effectivity": 5.24,
+  "P": "38.16"
 }, {
   "Id": 138,
   "RaceID": 101,
@@ -2285,7 +2427,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 2.5,
   "Power": 4.2,
-  "Effectivity": 5.48
+  "Effectivity": 5.48,
+  "P": "38.14"
 }, {
   "Id": 139,
   "RaceID": 101,
@@ -2301,7 +2444,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4.5,
   "Power": 5.08,
-  "Effectivity": 6.3
+  "Effectivity": 6.3,
+  "P": "55.93"
 }, {
   "Id": 140,
   "RaceID": 101,
@@ -2317,7 +2461,8 @@ all_units = [{
   "RealCost": 69,
   "modBS": 6,
   "Power": 12.29,
-  "Effectivity": 8.06
+  "Effectivity": 8.06,
+  "P": "85.20"
 }, {
   "Id": 141,
   "RaceID": 101,
@@ -2333,7 +2478,8 @@ all_units = [{
   "RealCost": 52,
   "modBS": 8,
   "Power": 13.82,
-  "Effectivity": 6.15
+  "Effectivity": 6.15,
+  "P": "88.02"
 }, {
   "Id": 142,
   "RaceID": 101,
@@ -2349,7 +2495,8 @@ all_units = [{
   "RealCost": 51,
   "modBS": 3,
   "Power": 10.61,
-  "Effectivity": 7.35
+  "Effectivity": 7.35,
+  "P": "84.32"
 }, {
   "Id": 144,
   "RaceID": 101,
@@ -2365,7 +2512,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 6.72
+  "Effectivity": 6.72,
+  "P": "36.54"
 }, {
   "Id": 145,
   "RaceID": 101,
@@ -2381,7 +2529,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 8.36
+  "Effectivity": 8.36,
+  "P": "60.34"
 }, {
   "Id": 146,
   "RaceID": 101,
@@ -2397,7 +2546,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "27.13"
 }, {
   "Id": 147,
   "RaceID": 101,
@@ -2413,7 +2563,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 11.62
+  "Effectivity": 11.62,
+  "P": "50.28"
 }, {
   "Id": 149,
   "RaceID": 101,
@@ -2429,7 +2580,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.37"
 }, {
   "Id": 150,
   "RaceID": 101,
@@ -2445,7 +2597,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.35"
 }, {
   "Id": 151,
   "RaceID": 101,
@@ -2461,7 +2614,8 @@ all_units = [{
   "RealCost": 122,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.71"
 }, {
   "Id": 152,
   "RaceID": 101,
@@ -2477,7 +2631,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.56,
-  "Effectivity": 13.46
+  "Effectivity": 13.46,
+  "P": "41.99"
 }, {
   "Id": 153,
   "RaceID": 101,
@@ -2493,7 +2648,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 5.5,
   "Power": 3.24,
-  "Effectivity": 10.8
+  "Effectivity": 10.8,
+  "P": "45.99"
 }, {
   "Id": 154,
   "RaceID": 101,
@@ -2509,7 +2665,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 10.6
+  "Effectivity": 10.6,
+  "P": "72.36"
 }, {
   "Id": 155,
   "RaceID": 101,
@@ -2525,7 +2682,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 10.6
+  "Effectivity": 10.6,
+  "P": "72.07"
 }, {
   "Id": 158,
   "RaceID": 101,
@@ -2541,7 +2699,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 9.5,
   "Power": 8.62,
-  "Effectivity": 5.92
+  "Effectivity": 5.92,
+  "P": "80.81"
 }, {
   "Id": 159,
   "RaceID": 101,
@@ -2557,7 +2716,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 9.5,
   "Power": 8.62,
-  "Effectivity": 6.15
+  "Effectivity": 6.15,
+  "P": "80.94"
 }, {
   "Id": 160,
   "RaceID": 101,
@@ -2573,7 +2733,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 9.5,
   "Power": 8.62,
-  "Effectivity": 5.92
+  "Effectivity": 5.92,
+  "P": "80.95"
 }, {
   "Id": 161,
   "RaceID": 101,
@@ -2589,7 +2750,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "47.43"
 }, {
   "Id": 162,
   "RaceID": 101,
@@ -2605,7 +2767,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 10.9
+  "Effectivity": 10.9,
+  "P": "56.08"
 }, {
   "Id": 163,
   "RaceID": 101,
@@ -2621,7 +2784,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 10.68
+  "Effectivity": 10.68,
+  "P": "30.38"
 }, {
   "Id": 164,
   "RaceID": 101,
@@ -2637,7 +2801,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 2.6,
-  "Effectivity": 11.92
+  "Effectivity": 11.92,
+  "P": "46.70"
 }, {
   "Id": 2787,
   "RaceID": 101,
@@ -2653,7 +2818,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 2.6,
-  "Effectivity": 12.31
+  "Effectivity": 12.31,
+  "P": "54.41"
 }, {
   "Id": 165,
   "RaceID": 101,
@@ -2669,7 +2835,8 @@ all_units = [{
   "RealCost": 68,
   "modBS": 5,
   "Power": 14.4,
-  "Effectivity": 7.15
+  "Effectivity": 7.15,
+  "P": "89.75"
 }, {
   "Id": 166,
   "RaceID": 101,
@@ -2685,7 +2852,8 @@ all_units = [{
   "RealCost": 68,
   "modBS": 5,
   "Power": 14.4,
-  "Effectivity": 7.15
+  "Effectivity": 7.15,
+  "P": "89.47"
 }, {
   "Id": 167,
   "RaceID": 101,
@@ -2701,7 +2869,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "51.49"
 }, {
   "Id": 168,
   "RaceID": 101,
@@ -2717,7 +2886,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "51.83"
 }, {
   "Id": 169,
   "RaceID": 101,
@@ -2733,7 +2903,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 11.76
+  "Effectivity": 11.76,
+  "P": "44.23"
 }, {
   "Id": 170,
   "RaceID": 101,
@@ -2749,7 +2920,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 5.5,
   "Power": 3,
-  "Effectivity": 9.67
+  "Effectivity": 9.67,
+  "P": "52.43"
 }, {
   "Id": 171,
   "RaceID": 101,
@@ -2765,7 +2937,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 5.5,
   "Power": 3,
-  "Effectivity": 11.33
+  "Effectivity": 11.33,
+  "P": "52.22"
 }, {
   "Id": 172,
   "RaceID": 101,
@@ -2781,7 +2954,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.87,
-  "Effectivity": 8.56
+  "Effectivity": 8.56,
+  "P": "45.52"
 }, {
   "Id": 173,
   "RaceID": 101,
@@ -2797,7 +2971,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.53,
-  "Effectivity": 9.49
+  "Effectivity": 9.49,
+  "P": "54.63"
 }, {
   "Id": 174,
   "RaceID": 101,
@@ -2813,7 +2988,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0.5,
   "Power": 1.87,
-  "Effectivity": 12.83
+  "Effectivity": 12.83,
+  "P": "45.91"
 }, {
   "Id": 175,
   "RaceID": 101,
@@ -2829,7 +3005,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.87,
-  "Effectivity": 9.63
+  "Effectivity": 9.63,
+  "P": "45.49"
 }, {
   "Id": 176,
   "RaceID": 101,
@@ -2845,7 +3022,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.87,
-  "Effectivity": 8.56
+  "Effectivity": 8.56,
+  "P": "45.77"
 }, {
   "Id": 177,
   "RaceID": 101,
@@ -2861,7 +3039,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.87,
-  "Effectivity": 11.76
+  "Effectivity": 11.76,
+  "P": "45.73"
 }, {
   "Id": 178,
   "RaceID": 101,
@@ -2877,7 +3056,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 4.5,
   "Power": 2.75,
-  "Effectivity": 9.82
+  "Effectivity": 9.82,
+  "P": "51.94"
 }, {
   "Id": 179,
   "RaceID": 101,
@@ -2893,7 +3073,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.73"
 }, {
   "Id": 180,
   "RaceID": 101,
@@ -2909,7 +3090,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.60"
 }, {
   "Id": 181,
   "RaceID": 101,
@@ -2925,7 +3107,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.30"
 }, {
   "Id": 182,
   "RaceID": 101,
@@ -2941,7 +3124,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.02"
 }, {
   "Id": 183,
   "RaceID": 101,
@@ -2957,7 +3141,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "33.34"
 }, {
   "Id": 184,
   "RaceID": 101,
@@ -2973,7 +3158,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.83"
 }, {
   "Id": 185,
   "RaceID": 101,
@@ -2989,7 +3175,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.79"
 }, {
   "Id": 186,
   "RaceID": 101,
@@ -3005,7 +3192,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.12"
 }, {
   "Id": 2417,
   "RaceID": 101,
@@ -3021,7 +3209,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.65"
 }, {
   "Id": 2418,
   "RaceID": 101,
@@ -3037,7 +3226,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.06"
 }, {
   "Id": 2687,
   "RaceID": 101,
@@ -3053,7 +3243,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.66"
 }, {
   "Id": 2688,
   "RaceID": 101,
@@ -3069,7 +3260,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.56"
 }, {
   "Id": 2689,
   "RaceID": 101,
@@ -3085,7 +3277,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "40.76"
 }, {
   "Id": 2690,
   "RaceID": 101,
@@ -3101,7 +3294,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.92"
 }, {
   "Id": 3196,
   "RaceID": 101,
@@ -3117,7 +3311,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.84"
 }, {
   "Id": 2799,
   "RaceID": 101,
@@ -3133,7 +3328,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 11.64
+  "Effectivity": 11.64,
+  "P": "55.79"
 }, {
   "Id": 2800,
   "RaceID": 101,
@@ -3149,7 +3345,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 12
+  "Effectivity": 12,
+  "P": "55.73"
 }, {
   "Id": 2801,
   "RaceID": 101,
@@ -3165,7 +3362,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 10.91
+  "Effectivity": 10.91,
+  "P": "37.38"
 }, {
   "Id": 2802,
   "RaceID": 101,
@@ -3181,7 +3379,8 @@ all_units = [{
   "RealCost": 31.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 13.82
+  "Effectivity": 13.82,
+  "P": "55.61"
 }, {
   "Id": 2803,
   "RaceID": 101,
@@ -3197,7 +3396,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 12
+  "Effectivity": 12,
+  "P": "55.70"
 }, {
   "Id": 2813,
   "RaceID": 101,
@@ -3213,7 +3413,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 6.5,
   "Power": 3.48,
-  "Effectivity": 8.62
+  "Effectivity": 8.62,
+  "P": "54.99"
 }, {
   "Id": 2814,
   "RaceID": 101,
@@ -3229,7 +3430,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 3.5,
   "Power": 2.76,
-  "Effectivity": 10.14
+  "Effectivity": 10.14,
+  "P": "47.88"
 }, {
   "Id": 3226,
   "RaceID": 101,
@@ -3245,7 +3447,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.28"
 }, {
   "Id": 3329,
   "RaceID": 101,
@@ -3261,7 +3464,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.34"
 }, {
   "Id": 3352,
   "RaceID": 101,
@@ -3277,7 +3481,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "37.64"
 }, {
   "Id": 3393,
   "RaceID": 101,
@@ -3293,7 +3498,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "38.03"
 }, {
   "Id": 3413,
   "RaceID": 101,
@@ -3309,7 +3515,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "44.87"
 }, {
   "Id": 3514,
   "RaceID": 101,
@@ -3325,7 +3532,8 @@ all_units = [{
   "RealCost": 99,
   "modBS": -10,
   "Power": -0.8,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.81"
 }, {
   "Id": 3515,
   "RaceID": 101,
@@ -3341,7 +3549,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0,
   "Power": 1.2,
-  "Effectivity": 4.17
+  "Effectivity": 4.17,
+  "P": "37.90"
 }, {
   "Id": 3523,
   "RaceID": 101,
@@ -3357,7 +3566,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "58.64"
 }, {
   "Id": 2353,
   "RaceID": 101,
@@ -3373,7 +3583,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 6.49
+  "Effectivity": 6.49,
+  "P": "43.27"
 }, {
   "Id": 2354,
   "RaceID": 101,
@@ -3389,7 +3600,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 6.49
+  "Effectivity": 6.49,
+  "P": "43.36"
 }, {
   "Id": 2355,
   "RaceID": 101,
@@ -3405,7 +3617,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 8.44
+  "Effectivity": 8.44,
+  "P": "43.04"
 }, {
   "Id": 402,
   "RaceID": 201,
@@ -3421,7 +3634,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "41.60"
 }, {
   "Id": 403,
   "RaceID": 201,
@@ -3437,7 +3651,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 9.6
+  "Effectivity": 9.6,
+  "P": "49.44"
 }, {
   "Id": 404,
   "RaceID": 201,
@@ -3453,7 +3668,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "41.21"
 }, {
   "Id": 405,
   "RaceID": 201,
@@ -3469,7 +3685,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 4,
   "Power": 2.2,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "47.17"
 }, {
   "Id": 406,
   "RaceID": 201,
@@ -3485,7 +3702,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "38.65"
 }, {
   "Id": 407,
   "RaceID": 201,
@@ -3501,7 +3719,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 14.39
+  "Effectivity": 14.39,
+  "P": "41.47"
 }, {
   "Id": 408,
   "RaceID": 201,
@@ -3517,7 +3736,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "40.98"
 }, {
   "Id": 409,
   "RaceID": 201,
@@ -3533,7 +3753,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.31"
 }, {
   "Id": 410,
   "RaceID": 201,
@@ -3549,7 +3770,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "41.27"
 }, {
   "Id": 411,
   "RaceID": 201,
@@ -3565,7 +3787,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 14.58
+  "Effectivity": 14.58,
+  "P": "43.95"
 }, {
   "Id": 412,
   "RaceID": 201,
@@ -3581,7 +3804,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "52.48"
 }, {
   "Id": 413,
   "RaceID": 201,
@@ -3597,7 +3821,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 14.06
+  "Effectivity": 14.06,
+  "P": "44.12"
 }, {
   "Id": 414,
   "RaceID": 201,
@@ -3613,7 +3838,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.26"
 }, {
   "Id": 415,
   "RaceID": 201,
@@ -3629,7 +3855,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 16.67
+  "Effectivity": 16.67,
+  "P": "44.09"
 }, {
   "Id": 416,
   "RaceID": 201,
@@ -3645,7 +3872,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 13.02
+  "Effectivity": 13.02,
+  "P": "44.25"
 }, {
   "Id": 417,
   "RaceID": 201,
@@ -3661,7 +3889,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "53.19"
 }, {
   "Id": 418,
   "RaceID": 201,
@@ -3677,7 +3906,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 13.54
+  "Effectivity": 13.54,
+  "P": "44.07"
 }, {
   "Id": 3213,
   "RaceID": 201,
@@ -3693,7 +3923,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 13.54
+  "Effectivity": 13.54,
+  "P": "44.01"
 }, {
   "Id": 3215,
   "RaceID": 201,
@@ -3709,7 +3940,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "28.21"
 }, {
   "Id": 419,
   "RaceID": 201,
@@ -3725,7 +3957,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.64,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "52.14"
 }, {
   "Id": 420,
   "RaceID": 201,
@@ -3741,7 +3974,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3,
   "Power": 2.64,
-  "Effectivity": 9.47
+  "Effectivity": 9.47,
+  "P": "34.46"
 }, {
   "Id": 421,
   "RaceID": 201,
@@ -3757,7 +3991,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 7,
   "Power": 3.6,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "57.98"
 }, {
   "Id": 422,
   "RaceID": 201,
@@ -3773,7 +4008,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4,
   "Power": 2.88,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "58.94"
 }, {
   "Id": 423,
   "RaceID": 201,
@@ -3789,7 +4025,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 3,
   "Power": 2.64,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "52.44"
 }, {
   "Id": 424,
   "RaceID": 201,
@@ -3805,7 +4042,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3,
   "Power": 2.64,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "52.35"
 }, {
   "Id": 425,
   "RaceID": 201,
@@ -3821,7 +4059,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.64,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "52.42"
 }, {
   "Id": 426,
   "RaceID": 201,
@@ -3837,7 +4076,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 7.18
+  "Effectivity": 7.18,
+  "P": "61.34"
 }, {
   "Id": 427,
   "RaceID": 201,
@@ -3853,7 +4093,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 7.98
+  "Effectivity": 7.98,
+  "P": "61.39"
 }, {
   "Id": 428,
   "RaceID": 201,
@@ -3869,7 +4110,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 6.89
+  "Effectivity": 6.89,
+  "P": "70.76"
 }, {
   "Id": 429,
   "RaceID": 201,
@@ -3885,7 +4127,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 6.91
+  "Effectivity": 6.91,
+  "P": "41.05"
 }, {
   "Id": 430,
   "RaceID": 201,
@@ -3901,7 +4144,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1.5,
   "Power": 4.2,
-  "Effectivity": 7.38
+  "Effectivity": 7.38,
+  "P": "61.28"
 }, {
   "Id": 431,
   "RaceID": 201,
@@ -3917,7 +4161,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 7.09
+  "Effectivity": 7.09,
+  "P": "40.28"
 }, {
   "Id": 432,
   "RaceID": 201,
@@ -3933,7 +4178,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 7.68
+  "Effectivity": 7.68,
+  "P": "70.83"
 }, {
   "Id": 433,
   "RaceID": 201,
@@ -3949,7 +4195,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "61.14"
 }, {
   "Id": 434,
   "RaceID": 201,
@@ -3965,7 +4212,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 7.71
+  "Effectivity": 7.71,
+  "P": "60.96"
 }, {
   "Id": 435,
   "RaceID": 201,
@@ -3981,7 +4229,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 0.5,
   "Power": 3.76,
-  "Effectivity": 7.18
+  "Effectivity": 7.18,
+  "P": "61.49"
 }, {
   "Id": 436,
   "RaceID": 201,
@@ -3997,7 +4246,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 7.68
+  "Effectivity": 7.68,
+  "P": "70.61"
 }, {
   "Id": 437,
   "RaceID": 201,
@@ -4013,7 +4263,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 4,
   "Power": 6.63,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "75.27"
 }, {
   "Id": 438,
   "RaceID": 201,
@@ -4029,7 +4280,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 0,
   "Power": 4.59,
-  "Effectivity": 11.76
+  "Effectivity": 11.76,
+  "P": "63.07"
 }, {
   "Id": 439,
   "RaceID": 201,
@@ -4045,7 +4297,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 3,
   "Power": 6.12,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "63.15"
 }, {
   "Id": 440,
   "RaceID": 201,
@@ -4061,7 +4314,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 4,
   "Power": 6.63,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "75.52"
 }, {
   "Id": 441,
   "RaceID": 201,
@@ -4077,7 +4331,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 0,
   "Power": 4.59,
-  "Effectivity": 11.76
+  "Effectivity": 11.76,
+  "P": "62.83"
 }, {
   "Id": 2844,
   "RaceID": 201,
@@ -4093,7 +4348,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 3,
   "Power": 6.12,
-  "Effectivity": 9.15
+  "Effectivity": 9.15,
+  "P": "63.16"
 }, {
   "Id": 442,
   "RaceID": 201,
@@ -4109,7 +4365,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 8.63
+  "Effectivity": 8.63,
+  "P": "62.35"
 }, {
   "Id": 443,
   "RaceID": 201,
@@ -4125,7 +4382,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3.5,
   "Power": 5.47,
-  "Effectivity": 7.13
+  "Effectivity": 7.13,
+  "P": "71.53"
 }, {
   "Id": 444,
   "RaceID": 201,
@@ -4141,7 +4399,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 7.74
+  "Effectivity": 7.74,
+  "P": "62.25"
 }, {
   "Id": 445,
   "RaceID": 201,
@@ -4157,7 +4416,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 8.15
+  "Effectivity": 8.15,
+  "P": "41.74"
 }, {
   "Id": 446,
   "RaceID": 201,
@@ -4173,7 +4433,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 6.42
+  "Effectivity": 6.42,
+  "P": "41.11"
 }, {
   "Id": 447,
   "RaceID": 201,
@@ -4189,7 +4450,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 7.65
+  "Effectivity": 7.65,
+  "P": "41.85"
 }, {
   "Id": 449,
   "RaceID": 201,
@@ -4205,7 +4467,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 7.3
+  "Effectivity": 7.3,
+  "P": "40.96"
 }, {
   "Id": 3090,
   "RaceID": 201,
@@ -4221,7 +4484,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 6.17
+  "Effectivity": 6.17,
+  "P": "62.25"
 }, {
   "Id": 3091,
   "RaceID": 201,
@@ -4237,7 +4501,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 7.08
+  "Effectivity": 7.08,
+  "P": "62.09"
 }, {
   "Id": 450,
   "RaceID": 201,
@@ -4253,7 +4518,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 9.28
+  "Effectivity": 9.28,
+  "P": "62.21"
 }, {
   "Id": 451,
   "RaceID": 201,
@@ -4269,7 +4535,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 6,
   "Power": 6.66,
-  "Effectivity": 8.56
+  "Effectivity": 8.56,
+  "P": "71.77"
 }, {
   "Id": 452,
   "RaceID": 201,
@@ -4285,7 +4552,8 @@ all_units = [{
   "RealCost": 33,
   "modBS": 3,
   "Power": 5.24,
-  "Effectivity": 9.16
+  "Effectivity": 9.16,
+  "P": "41.37"
 }, {
   "Id": 453,
   "RaceID": 201,
@@ -4301,7 +4569,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 9.63
+  "Effectivity": 9.63,
+  "P": "69.71"
 }, {
   "Id": 454,
   "RaceID": 201,
@@ -4317,7 +4586,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 10.33
+  "Effectivity": 10.33,
+  "P": "62.49"
 }, {
   "Id": 455,
   "RaceID": 201,
@@ -4333,7 +4603,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 9.28
+  "Effectivity": 9.28,
+  "P": "62.08"
 }, {
   "Id": 456,
   "RaceID": 201,
@@ -4349,7 +4620,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 9.63
+  "Effectivity": 9.63,
+  "P": "69.67"
 }, {
   "Id": 457,
   "RaceID": 201,
@@ -4365,7 +4637,8 @@ all_units = [{
   "RealCost": 42.5,
   "modBS": 5.5,
   "Power": 7.4,
-  "Effectivity": 8.65
+  "Effectivity": 8.65,
+  "P": "73.79"
 }, {
   "Id": 458,
   "RaceID": 201,
@@ -4381,7 +4654,8 @@ all_units = [{
   "RealCost": 44.5,
   "modBS": 7.5,
   "Power": 8.42,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "79.68"
 }, {
   "Id": 459,
   "RaceID": 201,
@@ -4397,7 +4671,8 @@ all_units = [{
   "RealCost": 40.5,
   "modBS": 4.5,
   "Power": 6.89,
-  "Effectivity": 8.56
+  "Effectivity": 8.56,
+  "P": "51.56"
 }, {
   "Id": 460,
   "RaceID": 201,
@@ -4413,7 +4688,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 7.5,
   "Power": 8.42,
-  "Effectivity": 7.72
+  "Effectivity": 7.72,
+  "P": "71.63"
 }, {
   "Id": 461,
   "RaceID": 201,
@@ -4429,7 +4705,8 @@ all_units = [{
   "RealCost": 48.5,
   "modBS": 5.5,
   "Power": 7.4,
-  "Effectivity": 9.46
+  "Effectivity": 9.46,
+  "P": "73.51"
 }, {
   "Id": 462,
   "RaceID": 201,
@@ -4445,7 +4722,8 @@ all_units = [{
   "RealCost": 43.5,
   "modBS": 5.5,
   "Power": 7.4,
-  "Effectivity": 8.78
+  "Effectivity": 8.78,
+  "P": "73.71"
 }, {
   "Id": 463,
   "RaceID": 201,
@@ -4461,7 +4739,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 7.5,
   "Power": 8.42,
-  "Effectivity": 8.19
+  "Effectivity": 8.19,
+  "P": "79.56"
 }, {
   "Id": 2843,
   "RaceID": 201,
@@ -4477,7 +4756,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 5.5,
   "Power": 7.4,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "73.32"
 }, {
   "Id": 464,
   "RaceID": 201,
@@ -4493,7 +4773,8 @@ all_units = [{
   "RealCost": 38.5,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "67.56"
 }, {
   "Id": 465,
   "RaceID": 201,
@@ -4509,7 +4790,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 10.08
+  "Effectivity": 10.08,
+  "P": "67.13"
 }, {
   "Id": 466,
   "RaceID": 201,
@@ -4525,7 +4807,8 @@ all_units = [{
   "RealCost": 40.5,
   "modBS": 5.5,
   "Power": 6.9,
-  "Effectivity": 8.84
+  "Effectivity": 8.84,
+  "P": "76.97"
 }, {
   "Id": 467,
   "RaceID": 201,
@@ -4541,7 +4824,8 @@ all_units = [{
   "RealCost": 36.5,
   "modBS": 2.5,
   "Power": 5.47,
-  "Effectivity": 9.51
+  "Effectivity": 9.51,
+  "P": "45.54"
 }, {
   "Id": 468,
   "RaceID": 201,
@@ -4557,7 +4841,8 @@ all_units = [{
   "RealCost": 38.5,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "67.31"
 }, {
   "Id": 469,
   "RaceID": 201,
@@ -4573,7 +4858,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 3.5,
   "Power": 5.95,
-  "Effectivity": 10.08
+  "Effectivity": 10.08,
+  "P": "66.98"
 }, {
   "Id": 470,
   "RaceID": 201,
@@ -4589,7 +4875,8 @@ all_units = [{
   "RealCost": 40.5,
   "modBS": 5.5,
   "Power": 6.9,
-  "Effectivity": 8.84
+  "Effectivity": 8.84,
+  "P": "76.77"
 }, {
   "Id": 471,
   "RaceID": 201,
@@ -4605,7 +4892,8 @@ all_units = [{
   "RealCost": 56,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.55
+  "Effectivity": 7.55,
+  "P": "85.13"
 }, {
   "Id": 472,
   "RaceID": 201,
@@ -4621,7 +4909,8 @@ all_units = [{
   "RealCost": 56,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.55
+  "Effectivity": 7.55,
+  "P": "85.07"
 }, {
   "Id": 474,
   "RaceID": 201,
@@ -4637,7 +4926,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.97"
 }, {
   "Id": 475,
   "RaceID": 201,
@@ -4653,7 +4943,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 8.73
+  "Effectivity": 8.73,
+  "P": "27.20"
 }, {
   "Id": 476,
   "RaceID": 201,
@@ -4669,7 +4960,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10.5,
   "Power": 3.63,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "48.27"
 }, {
   "Id": 477,
   "RaceID": 201,
@@ -4685,7 +4977,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 11.27
+  "Effectivity": 11.27,
+  "P": "42.21"
 }, {
   "Id": 478,
   "RaceID": 201,
@@ -4701,7 +4994,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 9.82
+  "Effectivity": 9.82,
+  "P": "41.99"
 }, {
   "Id": 479,
   "RaceID": 201,
@@ -4717,7 +5011,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "42.28"
 }, {
   "Id": 480,
   "RaceID": 201,
@@ -4733,7 +5028,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 6.5,
   "Power": 2.75,
-  "Effectivity": 9.45
+  "Effectivity": 9.45,
+  "P": "42.26"
 }, {
   "Id": 481,
   "RaceID": 201,
@@ -4749,7 +5045,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "51.82"
 }, {
   "Id": 482,
   "RaceID": 201,
@@ -4765,7 +5062,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 12.88
+  "Effectivity": 12.88,
+  "P": "54.05"
 }, {
   "Id": 483,
   "RaceID": 201,
@@ -4781,7 +5079,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 12.88
+  "Effectivity": 12.88,
+  "P": "53.88"
 }, {
   "Id": 484,
   "RaceID": 201,
@@ -4797,7 +5096,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 13.26
+  "Effectivity": 13.26,
+  "P": "53.92"
 }, {
   "Id": 485,
   "RaceID": 201,
@@ -4813,7 +5113,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 10,
   "Power": 3.52,
-  "Effectivity": 11.93
+  "Effectivity": 11.93,
+  "P": "57.47"
 }, {
   "Id": 486,
   "RaceID": 201,
@@ -4829,7 +5130,8 @@ all_units = [{
   "RealCost": 34.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 15.15
+  "Effectivity": 15.15,
+  "P": "53.97"
 }, {
   "Id": 2845,
   "RaceID": 201,
@@ -4845,7 +5147,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "51.60"
 }, {
   "Id": 487,
   "RaceID": 201,
@@ -4861,7 +5164,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "35.90"
 }, {
   "Id": 488,
   "RaceID": 201,
@@ -4877,7 +5181,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "35.84"
 }, {
   "Id": 489,
   "RaceID": 201,
@@ -4893,7 +5198,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "35.54"
 }, {
   "Id": 490,
   "RaceID": 201,
@@ -4909,7 +5215,8 @@ all_units = [{
   "RealCost": 5,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 4.13
+  "Effectivity": 4.13,
+  "P": "35.94"
 }, {
   "Id": 491,
   "RaceID": 201,
@@ -4925,7 +5232,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 8.26
+  "Effectivity": 8.26,
+  "P": "23.01"
 }, {
   "Id": 492,
   "RaceID": 201,
@@ -4941,7 +5249,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "35.80"
 }, {
   "Id": 493,
   "RaceID": 201,
@@ -4957,7 +5266,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.74
+  "Effectivity": 9.74,
+  "P": "41.31"
 }, {
   "Id": 494,
   "RaceID": 201,
@@ -4973,7 +5283,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 10.49
+  "Effectivity": 10.49,
+  "P": "41.01"
 }, {
   "Id": 495,
   "RaceID": 201,
@@ -4989,7 +5300,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 9.41
+  "Effectivity": 9.41,
+  "P": "40.49"
 }, {
   "Id": 496,
   "RaceID": 201,
@@ -5005,7 +5317,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "48.81"
 }, {
   "Id": 497,
   "RaceID": 201,
@@ -5021,7 +5334,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "40.23"
 }, {
   "Id": 498,
   "RaceID": 201,
@@ -5037,7 +5351,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.21"
 }, {
   "Id": 499,
   "RaceID": 201,
@@ -5053,7 +5368,8 @@ all_units = [{
   "RealCost": 35.5,
   "modBS": 9.5,
   "Power": 7.85,
-  "Effectivity": 7.01
+  "Effectivity": 7.01,
+  "P": "49.40"
 }, {
   "Id": 500,
   "RaceID": 201,
@@ -5069,7 +5385,8 @@ all_units = [{
   "RealCost": 37.5,
   "modBS": 10.5,
   "Power": 8.33,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "72.14"
 }, {
   "Id": 501,
   "RaceID": 201,
@@ -5085,7 +5402,8 @@ all_units = [{
   "RealCost": 40.5,
   "modBS": 9.5,
   "Power": 7.85,
-  "Effectivity": 7.64
+  "Effectivity": 7.64,
+  "P": "49.49"
 }, {
   "Id": 502,
   "RaceID": 201,
@@ -5101,7 +5419,8 @@ all_units = [{
   "RealCost": 42.5,
   "modBS": 10.5,
   "Power": 8.33,
-  "Effectivity": 7.8
+  "Effectivity": 7.8,
+  "P": "72.05"
 }, {
   "Id": 503,
   "RaceID": 201,
@@ -5117,7 +5436,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "39.40"
 }, {
   "Id": 504,
   "RaceID": 201,
@@ -5133,7 +5453,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3.5,
   "Power": 1.87,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "47.40"
 }, {
   "Id": 505,
   "RaceID": 201,
@@ -5149,7 +5470,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 10.74
+  "Effectivity": 10.74,
+  "P": "39.53"
 }, {
   "Id": 506,
   "RaceID": 201,
@@ -5165,7 +5487,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 4.5,
   "Power": 2.09,
-  "Effectivity": 8.13
+  "Effectivity": 8.13,
+  "P": "45.24"
 }, {
   "Id": 507,
   "RaceID": 201,
@@ -5181,7 +5504,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3.5,
   "Power": 1.87,
-  "Effectivity": 7.49
+  "Effectivity": 7.49,
+  "P": "37.13"
 }, {
   "Id": 508,
   "RaceID": 201,
@@ -5197,7 +5521,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 14.05
+  "Effectivity": 14.05,
+  "P": "39.77"
 }, {
   "Id": 509,
   "RaceID": 201,
@@ -5213,7 +5538,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 8.26
+  "Effectivity": 8.26,
+  "P": "39.48"
 }, {
   "Id": 510,
   "RaceID": 201,
@@ -5229,7 +5555,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "39.75"
 }, {
   "Id": 511,
   "RaceID": 201,
@@ -5245,7 +5572,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "39.82"
 }, {
   "Id": 512,
   "RaceID": 201,
@@ -5261,7 +5589,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.14"
 }, {
   "Id": 513,
   "RaceID": 201,
@@ -5277,7 +5606,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "26.66"
 }, {
   "Id": 514,
   "RaceID": 201,
@@ -5293,7 +5623,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 12.88
+  "Effectivity": 12.88,
+  "P": "41.73"
 }, {
   "Id": 515,
   "RaceID": 201,
@@ -5309,7 +5640,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.2,
-  "Effectivity": 9.55
+  "Effectivity": 9.55,
+  "P": "47.24"
 }, {
   "Id": 516,
   "RaceID": 201,
@@ -5325,7 +5657,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 12.34
+  "Effectivity": 12.34,
+  "P": "47.74"
 }, {
   "Id": 517,
   "RaceID": 201,
@@ -5341,7 +5674,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.54"
 }, {
   "Id": 518,
   "RaceID": 201,
@@ -5357,7 +5691,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 15.91
+  "Effectivity": 15.91,
+  "P": "41.40"
 }, {
   "Id": 519,
   "RaceID": 201,
@@ -5373,7 +5708,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.12"
 }, {
   "Id": 2820,
   "RaceID": 201,
@@ -5389,7 +5725,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "26.61"
 }, {
   "Id": 520,
   "RaceID": 201,
@@ -5405,7 +5742,8 @@ all_units = [{
   "RealCost": 0.5,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 2.27
+  "Effectivity": 2.27,
+  "P": "40.69"
 }, {
   "Id": 521,
   "RaceID": 201,
@@ -5421,7 +5759,8 @@ all_units = [{
   "RealCost": 6.5,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 5
+  "Effectivity": 5,
+  "P": "25.92"
 }, {
   "Id": 522,
   "RaceID": 201,
@@ -5437,7 +5776,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.16"
 }, {
   "Id": 523,
   "RaceID": 201,
@@ -5453,7 +5793,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 8.56
+  "Effectivity": 8.56,
+  "P": "27.46"
 }, {
   "Id": 524,
   "RaceID": 201,
@@ -5469,7 +5810,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 15.74
+  "Effectivity": 15.74,
+  "P": "44.26"
 }, {
   "Id": 525,
   "RaceID": 201,
@@ -5485,7 +5827,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 16.67
+  "Effectivity": 16.67,
+  "P": "44.15"
 }, {
   "Id": 526,
   "RaceID": 201,
@@ -5501,7 +5844,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 10.26
+  "Effectivity": 10.26,
+  "P": "51.40"
 }, {
   "Id": 527,
   "RaceID": 201,
@@ -5517,7 +5861,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 14.81
+  "Effectivity": 14.81,
+  "P": "44.12"
 }, {
   "Id": 2828,
   "RaceID": 201,
@@ -5533,7 +5878,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 13.43
+  "Effectivity": 13.43,
+  "P": "28.10"
 }, {
   "Id": 2829,
   "RaceID": 201,
@@ -5549,7 +5895,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 16.2
+  "Effectivity": 16.2,
+  "P": "41.35"
 }, {
   "Id": 528,
   "RaceID": 201,
@@ -5565,7 +5912,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "50.57"
 }, {
   "Id": 529,
   "RaceID": 201,
@@ -5581,7 +5929,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.03
+  "Effectivity": 9.03,
+  "P": "57.11"
 }, {
   "Id": 530,
   "RaceID": 201,
@@ -5597,7 +5946,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "33.02"
 }, {
   "Id": 531,
   "RaceID": 201,
@@ -5613,7 +5963,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "50.22"
 }, {
   "Id": 532,
   "RaceID": 201,
@@ -5629,7 +5980,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "62.26"
 }, {
   "Id": 533,
   "RaceID": 201,
@@ -5645,7 +5997,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "61.99"
 }, {
   "Id": 534,
   "RaceID": 201,
@@ -5661,7 +6014,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.82
+  "Effectivity": 8.82,
+  "P": "70.18"
 }, {
   "Id": 535,
   "RaceID": 201,
@@ -5677,7 +6031,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 10.05
+  "Effectivity": 10.05,
+  "P": "62.41"
 }, {
   "Id": 536,
   "RaceID": 201,
@@ -5693,7 +6048,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 9.11
+  "Effectivity": 9.11,
+  "P": "62.27"
 }, {
   "Id": 537,
   "RaceID": 201,
@@ -5709,7 +6065,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "62.33"
 }, {
   "Id": 2835,
   "RaceID": 201,
@@ -5725,7 +6082,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 9.35
+  "Effectivity": 9.35,
+  "P": "61.98"
 }, {
   "Id": 2836,
   "RaceID": 201,
@@ -5741,7 +6099,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.19
+  "Effectivity": 8.19,
+  "P": "41.12"
 }, {
   "Id": 538,
   "RaceID": 201,
@@ -5757,7 +6116,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 10.92
+  "Effectivity": 10.92,
+  "P": "62.50"
 }, {
   "Id": 539,
   "RaceID": 201,
@@ -5773,7 +6133,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "41.76"
 }, {
   "Id": 540,
   "RaceID": 201,
@@ -5789,7 +6150,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 11.34
+  "Effectivity": 11.34,
+  "P": "69.64"
 }, {
   "Id": 541,
   "RaceID": 201,
@@ -5805,7 +6167,8 @@ all_units = [{
   "RealCost": 37,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 11.13
+  "Effectivity": 11.13,
+  "P": "62.65"
 }, {
   "Id": 542,
   "RaceID": 201,
@@ -5821,7 +6184,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 10.92
+  "Effectivity": 10.92,
+  "P": "62.73"
 }, {
   "Id": 543,
   "RaceID": 201,
@@ -5837,7 +6201,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 11.34
+  "Effectivity": 11.34,
+  "P": "69.62"
 }, {
   "Id": 544,
   "RaceID": 201,
@@ -5853,7 +6218,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 6.28
+  "Effectivity": 6.28,
+  "P": "58.69"
 }, {
   "Id": 545,
   "RaceID": 201,
@@ -5869,7 +6235,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 6.53
+  "Effectivity": 6.53,
+  "P": "58.80"
 }, {
   "Id": 546,
   "RaceID": 201,
@@ -5885,7 +6252,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 8.29
+  "Effectivity": 8.29,
+  "P": "39.25"
 }, {
   "Id": 2535,
   "RaceID": 201,
@@ -5901,7 +6269,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 8.54
+  "Effectivity": 8.54,
+  "P": "58.74"
 }, {
   "Id": 2536,
   "RaceID": 201,
@@ -5917,7 +6286,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 3,
   "Power": 4.42,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "66.36"
 }, {
   "Id": 547,
   "RaceID": 201,
@@ -5933,7 +6303,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 3.98,
-  "Effectivity": 5.53
+  "Effectivity": 5.53,
+  "P": "58.45"
 }, {
   "Id": 548,
   "RaceID": 201,
@@ -5949,7 +6320,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 3.98,
-  "Effectivity": 5.78
+  "Effectivity": 5.78,
+  "P": "58.18"
 }, {
   "Id": 549,
   "RaceID": 201,
@@ -5965,7 +6337,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 3.98,
-  "Effectivity": 7.29
+  "Effectivity": 7.29,
+  "P": "61.34"
 }, {
   "Id": 550,
   "RaceID": 201,
@@ -5981,7 +6354,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4,
   "Power": 5.3,
-  "Effectivity": 6.23
+  "Effectivity": 6.23,
+  "P": "58.59"
 }, {
   "Id": 2839,
   "RaceID": 201,
@@ -5997,7 +6371,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 3.98,
-  "Effectivity": 6.03
+  "Effectivity": 6.03,
+  "P": "40.28"
 }, {
   "Id": 551,
   "RaceID": 201,
@@ -6013,7 +6388,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5,
   "Power": 5.75,
-  "Effectivity": 6.09
+  "Effectivity": 6.09,
+  "P": "61.50"
 }, {
   "Id": 552,
   "RaceID": 201,
@@ -6029,7 +6405,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 5,
   "Power": 5.75,
-  "Effectivity": 6.96
+  "Effectivity": 6.96,
+  "P": "68.91"
 }, {
   "Id": 553,
   "RaceID": 201,
@@ -6045,7 +6422,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5,
   "Power": 5.75,
-  "Effectivity": 6.09
+  "Effectivity": 6.09,
+  "P": "61.60"
 }, {
   "Id": 554,
   "RaceID": 201,
@@ -6061,7 +6439,8 @@ all_units = [{
   "RealCost": 34.5,
   "modBS": 10,
   "Power": 8.67,
-  "Effectivity": 6.81
+  "Effectivity": 6.81,
+  "P": "75.26"
 }, {
   "Id": 2674,
   "RaceID": 201,
@@ -6077,7 +6456,8 @@ all_units = [{
   "RealCost": 32.5,
   "modBS": 9,
   "Power": 8.16,
-  "Effectivity": 6.62
+  "Effectivity": 6.62,
+  "P": "45.72"
 }, {
   "Id": 555,
   "RaceID": 201,
@@ -6093,7 +6473,8 @@ all_units = [{
   "RealCost": 55,
   "modBS": 5,
   "Power": 11.42,
-  "Effectivity": 7.27
+  "Effectivity": 7.27,
+  "P": "83.87"
 }, {
   "Id": 557,
   "RaceID": 201,
@@ -6109,7 +6490,8 @@ all_units = [{
   "RealCost": 35.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 15.53
+  "Effectivity": 15.53,
+  "P": "35.89"
 }, {
   "Id": 558,
   "RaceID": 201,
@@ -6125,7 +6507,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 11.57
+  "Effectivity": 11.57,
+  "P": "40.03"
 }, {
   "Id": 559,
   "RaceID": 201,
@@ -6141,7 +6524,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 11.57
+  "Effectivity": 11.57,
+  "P": "39.78"
 }, {
   "Id": 560,
   "RaceID": 201,
@@ -6157,7 +6541,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 3.5,
   "Power": 2.1,
-  "Effectivity": 9.52
+  "Effectivity": 9.52,
+  "P": "51.75"
 }, {
   "Id": 561,
   "RaceID": 201,
@@ -6173,7 +6558,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 10.5
+  "Effectivity": 10.5,
+  "P": "50.89"
 }, {
   "Id": 562,
   "RaceID": 201,
@@ -6189,7 +6575,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.46"
 }, {
   "Id": 563,
   "RaceID": 201,
@@ -6205,7 +6592,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "38.99"
 }, {
   "Id": 564,
   "RaceID": 201,
@@ -6221,7 +6609,8 @@ all_units = [{
   "RealCost": 122,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.48"
 }, {
   "Id": 565,
   "RaceID": 201,
@@ -6237,7 +6626,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.56,
-  "Effectivity": 13.46
+  "Effectivity": 13.46,
+  "P": "41.79"
 }, {
   "Id": 566,
   "RaceID": 201,
@@ -6253,7 +6643,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 17.8
+  "Effectivity": 17.8,
+  "P": "54.13"
 }, {
   "Id": 567,
   "RaceID": 201,
@@ -6269,7 +6660,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2.5,
   "Power": 4.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "58.82"
 }, {
   "Id": 568,
   "RaceID": 201,
@@ -6285,7 +6677,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 10.5,
   "Power": 4.68,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "64.43"
 }, {
   "Id": 569,
   "RaceID": 201,
@@ -6301,7 +6694,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 13.5,
   "Power": 5.4,
-  "Effectivity": 10.37
+  "Effectivity": 10.37,
+  "P": "72.76"
 }, {
   "Id": 570,
   "RaceID": 201,
@@ -6317,7 +6711,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 10.5,
   "Power": 4.68,
-  "Effectivity": 12.18
+  "Effectivity": 12.18,
+  "P": "64.68"
 }, {
   "Id": 571,
   "RaceID": 201,
@@ -6333,7 +6728,8 @@ all_units = [{
   "RealCost": 40,
   "modBS": 13.5,
   "Power": 5.4,
-  "Effectivity": 11.3
+  "Effectivity": 11.3,
+  "P": "72.57"
 }, {
   "Id": 572,
   "RaceID": 201,
@@ -6349,7 +6745,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 16.36
+  "Effectivity": 16.36,
+  "P": "45.24"
 }, {
   "Id": 573,
   "RaceID": 201,
@@ -6365,7 +6762,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 13.94
+  "Effectivity": 13.94,
+  "P": "29.03"
 }, {
   "Id": 574,
   "RaceID": 201,
@@ -6381,7 +6779,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "51.81"
 }, {
   "Id": 2822,
   "RaceID": 201,
@@ -6397,7 +6796,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 13.94
+  "Effectivity": 13.94,
+  "P": "29.10"
 }, {
   "Id": 2823,
   "RaceID": 201,
@@ -6413,7 +6813,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 15.15
+  "Effectivity": 15.15,
+  "P": "43.59"
 }, {
   "Id": 2824,
   "RaceID": 201,
@@ -6429,7 +6830,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 13.33
+  "Effectivity": 13.33,
+  "P": "27.73"
 }, {
   "Id": 575,
   "RaceID": 201,
@@ -6445,7 +6847,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "50.85"
 }, {
   "Id": 576,
   "RaceID": 201,
@@ -6461,7 +6864,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "42.73"
 }, {
   "Id": 577,
   "RaceID": 201,
@@ -6477,7 +6881,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2,
   "Power": 2.34,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "51.78"
 }, {
   "Id": 578,
   "RaceID": 201,
@@ -6493,7 +6898,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "50.13"
 }, {
   "Id": 579,
   "RaceID": 201,
@@ -6509,7 +6915,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 10.45
+  "Effectivity": 10.45,
+  "P": "42.88"
 }, {
   "Id": 580,
   "RaceID": 201,
@@ -6525,7 +6932,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "43.42"
 }, {
   "Id": 581,
   "RaceID": 201,
@@ -6541,7 +6949,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.51"
 }, {
   "Id": 582,
   "RaceID": 201,
@@ -6557,7 +6966,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.86"
 }, {
   "Id": 583,
   "RaceID": 201,
@@ -6573,7 +6983,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.09"
 }, {
   "Id": 584,
   "RaceID": 201,
@@ -6589,7 +7000,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.43"
 }, {
   "Id": 585,
   "RaceID": 201,
@@ -6605,7 +7017,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.97"
 }, {
   "Id": 586,
   "RaceID": 201,
@@ -6621,7 +7034,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "33.12"
 }, {
   "Id": 587,
   "RaceID": 201,
@@ -6637,7 +7051,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.41"
 }, {
   "Id": 588,
   "RaceID": 201,
@@ -6653,7 +7068,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.48"
 }, {
   "Id": 2419,
   "RaceID": 201,
@@ -6669,7 +7085,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.38"
 }, {
   "Id": 2420,
   "RaceID": 201,
@@ -6685,7 +7102,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.02"
 }, {
   "Id": 2691,
   "RaceID": 201,
@@ -6701,7 +7119,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.87"
 }, {
   "Id": 2692,
   "RaceID": 201,
@@ -6717,7 +7136,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.26"
 }, {
   "Id": 2693,
   "RaceID": 201,
@@ -6733,7 +7153,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.39"
 }, {
   "Id": 2694,
   "RaceID": 201,
@@ -6749,7 +7170,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.30"
 }, {
   "Id": 3197,
   "RaceID": 201,
@@ -6765,7 +7187,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.53"
 }, {
   "Id": 2766,
   "RaceID": 201,
@@ -6781,7 +7204,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 14.14
+  "Effectivity": 14.14,
+  "P": "43.30"
 }, {
   "Id": 2767,
   "RaceID": 201,
@@ -6797,7 +7221,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 12.63
+  "Effectivity": 12.63,
+  "P": "27.84"
 }, {
   "Id": 2768,
   "RaceID": 201,
@@ -6813,7 +7238,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 14.65
+  "Effectivity": 14.65,
+  "P": "43.27"
 }, {
   "Id": 2769,
   "RaceID": 201,
@@ -6829,7 +7255,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 16.16
+  "Effectivity": 16.16,
+  "P": "43.71"
 }, {
   "Id": 2770,
   "RaceID": 201,
@@ -6845,7 +7272,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "27.94"
 }, {
   "Id": 2771,
   "RaceID": 201,
@@ -6861,7 +7289,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 13.13
+  "Effectivity": 13.13,
+  "P": "27.66"
 }, {
   "Id": 2847,
   "RaceID": 201,
@@ -6877,7 +7306,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 7,
   "Power": 6.19,
-  "Effectivity": 7.27
+  "Effectivity": 7.27,
+  "P": "66.66"
 }, {
   "Id": 2848,
   "RaceID": 201,
@@ -6893,7 +7323,8 @@ all_units = [{
   "RealCost": 32.5,
   "modBS": 7,
   "Power": 6.19,
-  "Effectivity": 7.59
+  "Effectivity": 7.59,
+  "P": "69.22"
 }, {
   "Id": 3092,
   "RaceID": 201,
@@ -6909,7 +7340,8 @@ all_units = [{
   "RealCost": 31.5,
   "modBS": 7,
   "Power": 6.19,
-  "Effectivity": 7.43
+  "Effectivity": 7.43,
+  "P": "66.75"
 }, {
   "Id": 3242,
   "RaceID": 201,
@@ -6925,7 +7357,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.48"
 }, {
   "Id": 3303,
   "RaceID": 201,
@@ -6941,7 +7374,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 9.8
+  "Effectivity": 9.8,
+  "P": "44.42"
 }, {
   "Id": 3334,
   "RaceID": 201,
@@ -6957,7 +7391,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.60"
 }, {
   "Id": 3356,
   "RaceID": 201,
@@ -6973,7 +7408,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "38.15"
 }, {
   "Id": 3397,
   "RaceID": 201,
@@ -6989,7 +7425,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "37.94"
 }, {
   "Id": 3421,
   "RaceID": 201,
@@ -7005,7 +7442,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "44.53"
 }, {
   "Id": 3524,
   "RaceID": 201,
@@ -7021,7 +7459,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "58.77"
 }, {
   "Id": 3530,
   "RaceID": 201,
@@ -7037,7 +7476,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 7.32
+  "Effectivity": 7.32,
+  "P": "57.07"
 }, {
   "Id": 2365,
   "RaceID": 201,
@@ -7053,7 +7493,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "39.79"
 }, {
   "Id": 2366,
   "RaceID": 201,
@@ -7069,7 +7510,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "39.98"
 }, {
   "Id": 2367,
   "RaceID": 201,
@@ -7085,7 +7527,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 10.74
+  "Effectivity": 10.74,
+  "P": "39.84"
 }, {
   "Id": 746,
   "RaceID": 301,
@@ -7101,7 +7544,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "41.24"
 }, {
   "Id": 747,
   "RaceID": 301,
@@ -7117,7 +7561,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 11.62
+  "Effectivity": 11.62,
+  "P": "50.40"
 }, {
   "Id": 748,
   "RaceID": 301,
@@ -7133,7 +7578,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.31"
 }, {
   "Id": 749,
   "RaceID": 301,
@@ -7149,7 +7595,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "46.71"
 }, {
   "Id": 750,
   "RaceID": 301,
@@ -7165,7 +7612,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.59
+  "Effectivity": 8.59,
+  "P": "38.76"
 }, {
   "Id": 751,
   "RaceID": 301,
@@ -7181,7 +7629,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "40.99"
 }, {
   "Id": 752,
   "RaceID": 301,
@@ -7197,7 +7646,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "41.53"
 }, {
   "Id": 753,
   "RaceID": 301,
@@ -7213,7 +7663,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "41.16"
 }, {
   "Id": 754,
   "RaceID": 301,
@@ -7229,7 +7680,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "50.84"
 }, {
   "Id": 755,
   "RaceID": 301,
@@ -7245,7 +7697,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 9.94
+  "Effectivity": 9.94,
+  "P": "57.99"
 }, {
   "Id": 756,
   "RaceID": 301,
@@ -7261,7 +7714,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 9.17
+  "Effectivity": 9.17,
+  "P": "32.99"
 }, {
   "Id": 757,
   "RaceID": 301,
@@ -7277,7 +7731,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "50.25"
 }, {
   "Id": 758,
   "RaceID": 301,
@@ -7293,7 +7748,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.65
+  "Effectivity": 8.65,
+  "P": "55.61"
 }, {
   "Id": 759,
   "RaceID": 301,
@@ -7309,7 +7765,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 8.75
+  "Effectivity": 8.75,
+  "P": "49.99"
 }, {
   "Id": 760,
   "RaceID": 301,
@@ -7325,7 +7782,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 14.39
+  "Effectivity": 14.39,
+  "P": "53.09"
 }, {
   "Id": 761,
   "RaceID": 301,
@@ -7341,7 +7799,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 12.88
+  "Effectivity": 12.88,
+  "P": "49.87"
 }, {
   "Id": 762,
   "RaceID": 301,
@@ -7357,7 +7816,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 17.19
+  "Effectivity": 17.19,
+  "P": "33.19"
 }, {
   "Id": 763,
   "RaceID": 301,
@@ -7373,7 +7833,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 16.15
+  "Effectivity": 16.15,
+  "P": "50.47"
 }, {
   "Id": 764,
   "RaceID": 301,
@@ -7389,7 +7850,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 5.92
+  "Effectivity": 5.92,
+  "P": "43.02"
 }, {
   "Id": 765,
   "RaceID": 301,
@@ -7405,7 +7867,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 5.92
+  "Effectivity": 5.92,
+  "P": "27.03"
 }, {
   "Id": 766,
   "RaceID": 301,
@@ -7421,7 +7884,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 3.5,
   "Power": 2.47,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "51.53"
 }, {
   "Id": 767,
   "RaceID": 301,
@@ -7437,7 +7901,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 8.28
+  "Effectivity": 8.28,
+  "P": "43.09"
 }, {
   "Id": 768,
   "RaceID": 301,
@@ -7453,7 +7918,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 3.5,
   "Power": 2.47,
-  "Effectivity": 7.29
+  "Effectivity": 7.29,
+  "P": "48.79"
 }, {
   "Id": 769,
   "RaceID": 301,
@@ -7469,7 +7935,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 6.51
+  "Effectivity": 6.51,
+  "P": "27.08"
 }, {
   "Id": 770,
   "RaceID": 301,
@@ -7485,7 +7952,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 6.51
+  "Effectivity": 6.51,
+  "P": "42.67"
 }, {
   "Id": 771,
   "RaceID": 301,
@@ -7501,7 +7969,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 7.1
+  "Effectivity": 7.1,
+  "P": "42.79"
 }, {
   "Id": 772,
   "RaceID": 301,
@@ -7517,7 +7986,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 5.92
+  "Effectivity": 5.92,
+  "P": "42.88"
 }, {
   "Id": 773,
   "RaceID": 301,
@@ -7533,7 +8003,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.69,
-  "Effectivity": 8.28
+  "Effectivity": 8.28,
+  "P": "42.99"
 }, {
   "Id": 774,
   "RaceID": 301,
@@ -7549,7 +8020,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 9.62
+  "Effectivity": 9.62,
+  "P": "45.91"
 }, {
   "Id": 775,
   "RaceID": 301,
@@ -7565,7 +8037,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 10.36
+  "Effectivity": 10.36,
+  "P": "54.30"
 }, {
   "Id": 776,
   "RaceID": 301,
@@ -7581,7 +8054,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 13.08
+  "Effectivity": 13.08,
+  "P": "42.21"
 }, {
   "Id": 777,
   "RaceID": 301,
@@ -7597,7 +8071,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 8.58
+  "Effectivity": 8.58,
+  "P": "42.18"
 }, {
   "Id": 778,
   "RaceID": 301,
@@ -7613,7 +8088,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 9.62
+  "Effectivity": 9.62,
+  "P": "45.85"
 }, {
   "Id": 779,
   "RaceID": 301,
@@ -7629,7 +8105,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 8.91
+  "Effectivity": 8.91,
+  "P": "47.01"
 }, {
   "Id": 780,
   "RaceID": 301,
@@ -7645,7 +8122,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 10.46
+  "Effectivity": 10.46,
+  "P": "56.54"
 }, {
   "Id": 781,
   "RaceID": 301,
@@ -7661,7 +8139,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 9.72
+  "Effectivity": 9.72,
+  "P": "30.72"
 }, {
   "Id": 782,
   "RaceID": 301,
@@ -7677,7 +8156,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 8.92
+  "Effectivity": 8.92,
+  "P": "44.31"
 }, {
   "Id": 783,
   "RaceID": 301,
@@ -7693,7 +8173,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 9.31
+  "Effectivity": 9.31,
+  "P": "46.70"
 }, {
   "Id": 784,
   "RaceID": 301,
@@ -7709,7 +8190,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 11.74
+  "Effectivity": 11.74,
+  "P": "48.15"
 }, {
   "Id": 785,
   "RaceID": 301,
@@ -7725,7 +8207,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 8.91
+  "Effectivity": 8.91,
+  "P": "47.42"
 }, {
   "Id": 786,
   "RaceID": 301,
@@ -7741,7 +8224,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 10.46
+  "Effectivity": 10.46,
+  "P": "56.59"
 }, {
   "Id": 787,
   "RaceID": 301,
@@ -7757,7 +8241,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "47.10"
 }, {
   "Id": 788,
   "RaceID": 301,
@@ -7773,7 +8258,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 9.29
+  "Effectivity": 9.29,
+  "P": "56.00"
 }, {
   "Id": 789,
   "RaceID": 301,
@@ -7789,7 +8275,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 9.83
+  "Effectivity": 9.83,
+  "P": "47.72"
 }, {
   "Id": 790,
   "RaceID": 301,
@@ -7805,7 +8292,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 2.6,
-  "Effectivity": 8.85
+  "Effectivity": 8.85,
+  "P": "30.78"
 }, {
   "Id": 791,
   "RaceID": 301,
@@ -7821,7 +8309,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 9.83
+  "Effectivity": 9.83,
+  "P": "53.26"
 }, {
   "Id": 792,
   "RaceID": 301,
@@ -7837,7 +8326,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "47.15"
 }, {
   "Id": 793,
   "RaceID": 301,
@@ -7853,7 +8343,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 10.68
+  "Effectivity": 10.68,
+  "P": "47.34"
 }, {
   "Id": 794,
   "RaceID": 301,
@@ -7869,7 +8360,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 9.83
+  "Effectivity": 9.83,
+  "P": "47.42"
 }, {
   "Id": 795,
   "RaceID": 301,
@@ -7885,7 +8377,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "47.03"
 }, {
   "Id": 796,
   "RaceID": 301,
@@ -7901,7 +8394,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 9.29
+  "Effectivity": 9.29,
+  "P": "56.33"
 }, {
   "Id": 797,
   "RaceID": 301,
@@ -7917,7 +8411,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 2.34,
-  "Effectivity": 12.39
+  "Effectivity": 12.39,
+  "P": "47.82"
 }, {
   "Id": 798,
   "RaceID": 301,
@@ -7933,7 +8428,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 9.94
+  "Effectivity": 9.94,
+  "P": "61.06"
 }, {
   "Id": 799,
   "RaceID": 301,
@@ -7949,7 +8445,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 11.49
+  "Effectivity": 11.49,
+  "P": "54.80"
 }, {
   "Id": 800,
   "RaceID": 301,
@@ -7965,7 +8462,8 @@ all_units = [{
   "RealCost": 33,
   "modBS": 6.5,
   "Power": 4.06,
-  "Effectivity": 11.58
+  "Effectivity": 11.58,
+  "P": "62.42"
 }, {
   "Id": 801,
   "RaceID": 301,
@@ -7981,7 +8479,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 10.87
+  "Effectivity": 10.87,
+  "P": "35.78"
 }, {
   "Id": 802,
   "RaceID": 301,
@@ -7997,7 +8496,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 12.11
+  "Effectivity": 12.11,
+  "P": "54.62"
 }, {
   "Id": 803,
   "RaceID": 301,
@@ -8013,7 +8513,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 11.8
+  "Effectivity": 11.8,
+  "P": "54.87"
 }, {
   "Id": 804,
   "RaceID": 301,
@@ -8029,7 +8530,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 11.49
+  "Effectivity": 11.49,
+  "P": "54.66"
 }, {
   "Id": 805,
   "RaceID": 301,
@@ -8045,7 +8547,8 @@ all_units = [{
   "RealCost": 33,
   "modBS": 6.5,
   "Power": 4.06,
-  "Effectivity": 11.58
+  "Effectivity": 11.58,
+  "P": "62.72"
 }, {
   "Id": 806,
   "RaceID": 301,
@@ -8061,7 +8564,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 3.5,
   "Power": 3.22,
-  "Effectivity": 11.8
+  "Effectivity": 11.8,
+  "P": "53.74"
 }, {
   "Id": 807,
   "RaceID": 301,
@@ -8077,7 +8581,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.1
+  "Effectivity": 8.1,
+  "P": "40.42"
 }, {
   "Id": 808,
   "RaceID": 301,
@@ -8093,7 +8598,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "25.76"
 }, {
   "Id": 809,
   "RaceID": 301,
@@ -8109,7 +8615,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3.5,
   "Power": 1.9,
-  "Effectivity": 10.53
+  "Effectivity": 10.53,
+  "P": "40.64"
 }, {
   "Id": 810,
   "RaceID": 301,
@@ -8125,7 +8632,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 7.5,
   "Power": 2.7,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "46.12"
 }, {
   "Id": 811,
   "RaceID": 301,
@@ -8141,7 +8649,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.57
+  "Effectivity": 8.57,
+  "P": "40.36"
 }, {
   "Id": 812,
   "RaceID": 301,
@@ -8157,7 +8666,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.1
+  "Effectivity": 8.1,
+  "P": "40.49"
 }, {
   "Id": 813,
   "RaceID": 301,
@@ -8173,7 +8683,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 8
+  "Effectivity": 8,
+  "P": "25.32"
 }, {
   "Id": 814,
   "RaceID": 301,
@@ -8189,7 +8700,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "40.23"
 }, {
   "Id": 815,
   "RaceID": 301,
@@ -8205,7 +8717,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 10.95
+  "Effectivity": 10.95,
+  "P": "40.43"
 }, {
   "Id": 816,
   "RaceID": 301,
@@ -8221,7 +8734,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 11.9
+  "Effectivity": 11.9,
+  "P": "25.83"
 }, {
   "Id": 817,
   "RaceID": 301,
@@ -8237,7 +8751,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 7.5,
   "Power": 2.7,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "46.39"
 }, {
   "Id": 818,
   "RaceID": 301,
@@ -8253,7 +8768,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 11.43
+  "Effectivity": 11.43,
+  "P": "40.54"
 }, {
   "Id": 819,
   "RaceID": 301,
@@ -8269,7 +8785,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 10.95
+  "Effectivity": 10.95,
+  "P": "40.76"
 }, {
   "Id": 820,
   "RaceID": 301,
@@ -8285,7 +8802,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "40.28"
 }, {
   "Id": 821,
   "RaceID": 301,
@@ -8301,7 +8819,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 10.48
+  "Effectivity": 10.48,
+  "P": "40.78"
 }, {
   "Id": 822,
   "RaceID": 301,
@@ -8317,7 +8836,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "40.57"
 }, {
   "Id": 823,
   "RaceID": 301,
@@ -8333,7 +8853,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "40.50"
 }, {
   "Id": 824,
   "RaceID": 301,
@@ -8349,7 +8870,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 9.47
+  "Effectivity": 9.47,
+  "P": "27.60"
 }, {
   "Id": 825,
   "RaceID": 301,
@@ -8365,7 +8887,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 8,
   "Power": 3.3,
-  "Effectivity": 8.79
+  "Effectivity": 8.79,
+  "P": "50.13"
 }, {
   "Id": 826,
   "RaceID": 301,
@@ -8381,7 +8904,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "40.49"
 }, {
   "Id": 827,
   "RaceID": 301,
@@ -8397,7 +8921,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "40.70"
 }, {
   "Id": 828,
   "RaceID": 301,
@@ -8413,7 +8938,8 @@ all_units = [{
   "RealCost": 6.5,
   "modBS": 4.5,
   "Power": 2.09,
-  "Effectivity": 5.26
+  "Effectivity": 5.26,
+  "P": "39.58"
 }, {
   "Id": 829,
   "RaceID": 301,
@@ -8429,7 +8955,8 @@ all_units = [{
   "RealCost": 1.5,
   "modBS": 4.5,
   "Power": 2.09,
-  "Effectivity": 2.87
+  "Effectivity": 2.87,
+  "P": "39.37"
 }, {
   "Id": 830,
   "RaceID": 301,
@@ -8445,7 +8972,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 4.5,
   "Power": 2.09,
-  "Effectivity": 6.22
+  "Effectivity": 6.22,
+  "P": "25.28"
 }, {
   "Id": 831,
   "RaceID": 301,
@@ -8461,7 +8989,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.43,
-  "Effectivity": 9.79
+  "Effectivity": 9.79,
+  "P": "39.45"
 }, {
   "Id": 832,
   "RaceID": 301,
@@ -8477,7 +9006,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 1.5,
   "Power": 1.43,
-  "Effectivity": 5.59
+  "Effectivity": 5.59,
+  "P": "39.23"
 }, {
   "Id": 833,
   "RaceID": 301,
@@ -8493,7 +9023,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1.5,
   "Power": 1.43,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "25.27"
 }, {
   "Id": 834,
   "RaceID": 301,
@@ -8509,7 +9040,8 @@ all_units = [{
   "RealCost": 3,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 3.5
+  "Effectivity": 3.5,
+  "P": "41.10"
 }, {
   "Id": 837,
   "RaceID": 301,
@@ -8525,7 +9057,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 1.5,
   "Power": 1.43,
-  "Effectivity": 18.88
+  "Effectivity": 18.88,
+  "P": "39.49"
 }, {
   "Id": 838,
   "RaceID": 301,
@@ -8541,7 +9074,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 8.44
+  "Effectivity": 8.44,
+  "P": "41.42"
 }, {
   "Id": 839,
   "RaceID": 301,
@@ -8557,7 +9091,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 5.5,
   "Power": 3.24,
-  "Effectivity": 11.73
+  "Effectivity": 11.73,
+  "P": "47.35"
 }, {
   "Id": 840,
   "RaceID": 301,
@@ -8573,7 +9108,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 5.5,
   "Power": 3.24,
-  "Effectivity": 12.04
+  "Effectivity": 12.04,
+  "P": "47.31"
 }, {
   "Id": 841,
   "RaceID": 301,
@@ -8589,7 +9125,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "39.47"
 }, {
   "Id": 842,
   "RaceID": 301,
@@ -8605,7 +9142,8 @@ all_units = [{
   "RealCost": 5,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 3.64
+  "Effectivity": 3.64,
+  "P": "39.65"
 }, {
   "Id": 843,
   "RaceID": 301,
@@ -8621,7 +9159,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 5.5,
   "Power": 2.31,
-  "Effectivity": 8.23
+  "Effectivity": 8.23,
+  "P": "47.62"
 }, {
   "Id": 844,
   "RaceID": 301,
@@ -8637,7 +9176,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "24.79"
 }, {
   "Id": 845,
   "RaceID": 301,
@@ -8653,7 +9193,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "39.56"
 }, {
   "Id": 846,
   "RaceID": 301,
@@ -8669,7 +9210,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "24.81"
 }, {
   "Id": 847,
   "RaceID": 301,
@@ -8685,7 +9227,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "39.42"
 }, {
   "Id": 848,
   "RaceID": 301,
@@ -8701,7 +9244,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "39.59"
 }, {
   "Id": 849,
   "RaceID": 301,
@@ -8717,7 +9261,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 6.61
+  "Effectivity": 6.61,
+  "P": "39.63"
 }, {
   "Id": 850,
   "RaceID": 301,
@@ -8733,7 +9278,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 3.5,
   "Power": 1.87,
-  "Effectivity": 10.16
+  "Effectivity": 10.16,
+  "P": "47.59"
 }, {
   "Id": 851,
   "RaceID": 301,
@@ -8749,7 +9295,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "39.38"
 }, {
   "Id": 852,
   "RaceID": 301,
@@ -8765,7 +9312,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "39.65"
 }, {
   "Id": 853,
   "RaceID": 301,
@@ -8781,7 +9329,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "39.56"
 }, {
   "Id": 854,
   "RaceID": 301,
@@ -8797,7 +9346,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 12.4
+  "Effectivity": 12.4,
+  "P": "39.50"
 }, {
   "Id": 855,
   "RaceID": 301,
@@ -8813,7 +9363,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 8.26
+  "Effectivity": 8.26,
+  "P": "39.54"
 }, {
   "Id": 856,
   "RaceID": 301,
@@ -8829,7 +9380,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.21,
-  "Effectivity": 6.61
+  "Effectivity": 6.61,
+  "P": "39.78"
 }, {
   "Id": 857,
   "RaceID": 301,
@@ -8845,7 +9397,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "46.92"
 }, {
   "Id": 858,
   "RaceID": 301,
@@ -8861,7 +9414,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 9.38
+  "Effectivity": 9.38,
+  "P": "28.56"
 }, {
   "Id": 859,
   "RaceID": 301,
@@ -8877,7 +9431,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "46.60"
 }, {
   "Id": 860,
   "RaceID": 301,
@@ -8893,7 +9448,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "49.99"
 }, {
   "Id": 861,
   "RaceID": 301,
@@ -8909,7 +9465,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 6.5,
   "Power": 2.7,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "54.35"
 }, {
   "Id": 862,
   "RaceID": 301,
@@ -8925,7 +9482,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 6.5,
   "Power": 2.7,
-  "Effectivity": 7.78
+  "Effectivity": 7.78,
+  "P": "54.26"
 }, {
   "Id": 863,
   "RaceID": 301,
@@ -8941,7 +9499,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "44.15"
 }, {
   "Id": 864,
   "RaceID": 301,
@@ -8957,7 +9516,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.94
+  "Effectivity": 10.94,
+  "P": "44.45"
 }, {
   "Id": 865,
   "RaceID": 301,
@@ -8973,7 +9533,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "44.15"
 }, {
   "Id": 866,
   "RaceID": 301,
@@ -8989,7 +9550,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.94
+  "Effectivity": 10.94,
+  "P": "44.05"
 }, {
   "Id": 867,
   "RaceID": 301,
@@ -9005,7 +9567,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "58.20"
 }, {
   "Id": 868,
   "RaceID": 301,
@@ -9021,7 +9584,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 9.47
+  "Effectivity": 9.47,
+  "P": "55.44"
 }, {
   "Id": 869,
   "RaceID": 301,
@@ -9037,7 +9601,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "43.69"
 }, {
   "Id": 870,
   "RaceID": 301,
@@ -9053,7 +9618,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "44.29"
 }, {
   "Id": 871,
   "RaceID": 301,
@@ -9069,7 +9635,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 8.92
+  "Effectivity": 8.92,
+  "P": "47.29"
 }, {
   "Id": 872,
   "RaceID": 301,
@@ -9085,7 +9652,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 10.15
+  "Effectivity": 10.15,
+  "P": "47.39"
 }, {
   "Id": 873,
   "RaceID": 301,
@@ -9101,7 +9669,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 7.5,
   "Power": 4.03,
-  "Effectivity": 8.44
+  "Effectivity": 8.44,
+  "P": "56.74"
 }, {
   "Id": 874,
   "RaceID": 301,
@@ -9117,7 +9686,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "30.60"
 }, {
   "Id": 875,
   "RaceID": 301,
@@ -9133,7 +9703,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 8.92
+  "Effectivity": 8.92,
+  "P": "47.29"
 }, {
   "Id": 876,
   "RaceID": 301,
@@ -9149,7 +9720,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 4.5,
   "Power": 3.75,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "49.01"
 }, {
   "Id": 877,
   "RaceID": 301,
@@ -9165,7 +9737,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 7.5,
   "Power": 4.65,
-  "Effectivity": 9.03
+  "Effectivity": 9.03,
+  "P": "58.48"
 }, {
   "Id": 878,
   "RaceID": 301,
@@ -9181,7 +9754,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 4.5,
   "Power": 3.75,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "49.22"
 }, {
   "Id": 879,
   "RaceID": 301,
@@ -9197,7 +9771,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 7.5,
   "Power": 4.65,
-  "Effectivity": 9.03
+  "Effectivity": 9.03,
+  "P": "58.63"
 }, {
   "Id": 880,
   "RaceID": 301,
@@ -9213,7 +9788,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "40.50"
 }, {
   "Id": 881,
   "RaceID": 301,
@@ -9229,7 +9805,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 7,
   "Power": 2.6,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "47.30"
 }, {
   "Id": 882,
   "RaceID": 301,
@@ -9245,7 +9822,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4,
   "Power": 2,
-  "Effectivity": 9.5
+  "Effectivity": 9.5,
+  "P": "40.49"
 }, {
   "Id": 883,
   "RaceID": 301,
@@ -9261,7 +9839,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "40.41"
 }, {
   "Id": 884,
   "RaceID": 301,
@@ -9277,7 +9856,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "40.46"
 }, {
   "Id": 885,
   "RaceID": 301,
@@ -9293,7 +9873,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 9.3
+  "Effectivity": 9.3,
+  "P": "66.51"
 }, {
   "Id": 886,
   "RaceID": 301,
@@ -9309,7 +9890,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 8.29
+  "Effectivity": 8.29,
+  "P": "59.05"
 }, {
   "Id": 887,
   "RaceID": 301,
@@ -9325,7 +9907,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2,
   "Power": 3.98,
-  "Effectivity": 8.04
+  "Effectivity": 8.04,
+  "P": "38.49"
 }, {
   "Id": 888,
   "RaceID": 301,
@@ -9341,7 +9924,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1.5,
   "Power": 2.87,
-  "Effectivity": 8.01
+  "Effectivity": 8.01,
+  "P": "54.79"
 }, {
   "Id": 889,
   "RaceID": 301,
@@ -9357,7 +9941,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 8
+  "Effectivity": 8,
+  "P": "25.35"
 }, {
   "Id": 890,
   "RaceID": 301,
@@ -9373,7 +9958,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 8.44
+  "Effectivity": 8.44,
+  "P": "41.46"
 }, {
   "Id": 891,
   "RaceID": 301,
@@ -9389,7 +9975,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.02"
 }, {
   "Id": 892,
   "RaceID": 301,
@@ -9405,7 +9992,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.19"
 }, {
   "Id": 893,
   "RaceID": 301,
@@ -9421,7 +10009,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -9.5,
   "Power": -1.08,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "38.23"
 }, {
   "Id": 894,
   "RaceID": 301,
@@ -9437,7 +10026,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.32,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "38.05"
 }, {
   "Id": 895,
   "RaceID": 301,
@@ -9453,7 +10043,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.32,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "37.97"
 }, {
   "Id": 896,
   "RaceID": 301,
@@ -9469,7 +10060,8 @@ all_units = [{
   "RealCost": -2,
   "modBS": 1.5,
   "Power": 2.73,
-  "Effectivity": 1.83
+  "Effectivity": 1.83,
+  "P": "50.48"
 }, {
   "Id": 899,
   "RaceID": 301,
@@ -9485,7 +10077,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 7.5,
   "Power": 4.03,
-  "Effectivity": 8.68
+  "Effectivity": 8.68,
+  "P": "60.77"
 }, {
   "Id": 900,
   "RaceID": 301,
@@ -9501,7 +10094,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "45.49"
 }, {
   "Id": 901,
   "RaceID": 301,
@@ -9517,7 +10111,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.01
+  "Effectivity": 8.01,
+  "P": "51.29"
 }, {
   "Id": 902,
   "RaceID": 301,
@@ -9533,7 +10128,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 8.71
+  "Effectivity": 8.71,
+  "P": "42.61"
 }, {
   "Id": 903,
   "RaceID": 301,
@@ -9549,7 +10145,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "45.33"
 }, {
   "Id": 904,
   "RaceID": 301,
@@ -9565,7 +10162,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10.83
+  "Effectivity": 10.83,
+  "P": "45.09"
 }, {
   "Id": 905,
   "RaceID": 301,
@@ -9581,7 +10179,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "45.33"
 }, {
   "Id": 908,
   "RaceID": 301,
@@ -9597,7 +10196,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "42.07"
 }, {
   "Id": 909,
   "RaceID": 301,
@@ -9613,7 +10213,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 4,
   "Power": 2.86,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "42.29"
 }, {
   "Id": 910,
   "RaceID": 301,
@@ -9629,7 +10230,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 11.06
+  "Effectivity": 11.06,
+  "P": "45.90"
 }, {
   "Id": 911,
   "RaceID": 301,
@@ -9645,7 +10247,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 10.58
+  "Effectivity": 10.58,
+  "P": "39.61"
 }, {
   "Id": 912,
   "RaceID": 301,
@@ -9661,7 +10264,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 14.42
+  "Effectivity": 14.42,
+  "P": "42.19"
 }, {
   "Id": 913,
   "RaceID": 301,
@@ -9677,7 +10281,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.86,
-  "Effectivity": 10.84
+  "Effectivity": 10.84,
+  "P": "42.24"
 }, {
   "Id": 2854,
   "RaceID": 301,
@@ -9693,7 +10298,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 11.54
+  "Effectivity": 11.54,
+  "P": "45.93"
 }, {
   "Id": 2855,
   "RaceID": 301,
@@ -9709,7 +10315,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 9.13
+  "Effectivity": 9.13,
+  "P": "39.99"
 }, {
   "Id": 2856,
   "RaceID": 301,
@@ -9725,7 +10332,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 2.08,
-  "Effectivity": 12.98
+  "Effectivity": 12.98,
+  "P": "46.35"
 }, {
   "Id": 914,
   "RaceID": 301,
@@ -9741,7 +10349,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 13.73
+  "Effectivity": 13.73,
+  "P": "41.50"
 }, {
   "Id": 915,
   "RaceID": 301,
@@ -9757,7 +10366,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 15.2
+  "Effectivity": 15.2,
+  "P": "41.23"
 }, {
   "Id": 916,
   "RaceID": 301,
@@ -9773,7 +10383,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 13.73
+  "Effectivity": 13.73,
+  "P": "41.52"
 }, {
   "Id": 917,
   "RaceID": 301,
@@ -9789,7 +10400,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 18.67
+  "Effectivity": 18.67,
+  "P": "26.49"
 }, {
   "Id": 918,
   "RaceID": 301,
@@ -9805,7 +10417,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 18
+  "Effectivity": 18,
+  "P": "26.04"
 }, {
   "Id": 919,
   "RaceID": 301,
@@ -9821,7 +10434,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "44.26"
 }, {
   "Id": 920,
   "RaceID": 301,
@@ -9837,7 +10451,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 13.54
+  "Effectivity": 13.54,
+  "P": "44.04"
 }, {
   "Id": 921,
   "RaceID": 301,
@@ -9853,7 +10468,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 13.08
+  "Effectivity": 13.08,
+  "P": "25.95"
 }, {
   "Id": 922,
   "RaceID": 301,
@@ -9869,7 +10485,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 14.62
+  "Effectivity": 14.62,
+  "P": "25.89"
 }, {
   "Id": 923,
   "RaceID": 301,
@@ -9885,7 +10502,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.40"
 }, {
   "Id": 924,
   "RaceID": 301,
@@ -9901,7 +10519,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.76"
 }, {
   "Id": 925,
   "RaceID": 301,
@@ -9917,7 +10536,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.23"
 }, {
   "Id": 926,
   "RaceID": 301,
@@ -9933,7 +10553,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.56"
 }, {
   "Id": 927,
   "RaceID": 301,
@@ -9949,7 +10570,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "33.01"
 }, {
   "Id": 928,
   "RaceID": 301,
@@ -9965,7 +10587,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.77"
 }, {
   "Id": 929,
   "RaceID": 301,
@@ -9981,7 +10604,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.72"
 }, {
   "Id": 930,
   "RaceID": 301,
@@ -9997,7 +10621,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.42"
 }, {
   "Id": 2421,
   "RaceID": 301,
@@ -10013,7 +10638,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.68"
 }, {
   "Id": 2422,
   "RaceID": 301,
@@ -10029,7 +10655,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.19"
 }, {
   "Id": 2457,
   "RaceID": 301,
@@ -10045,7 +10672,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 3.5,
   "Power": 2.73,
-  "Effectivity": 10.62
+  "Effectivity": 10.62,
+  "P": "43.66"
 }, {
   "Id": 2458,
   "RaceID": 301,
@@ -10061,7 +10689,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 3.5,
   "Power": 2.73,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "30.12"
 }, {
   "Id": 2459,
   "RaceID": 301,
@@ -10077,7 +10706,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 4.5,
   "Power": 2.99,
-  "Effectivity": 7.36
+  "Effectivity": 7.36,
+  "P": "42.18"
 }, {
   "Id": 2460,
   "RaceID": 301,
@@ -10093,7 +10723,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 3.5,
   "Power": 2.73,
-  "Effectivity": 6.96
+  "Effectivity": 6.96,
+  "P": "45.71"
 }, {
   "Id": 2461,
   "RaceID": 301,
@@ -10109,7 +10740,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5.5,
   "Power": 3.25,
-  "Effectivity": 6.46
+  "Effectivity": 6.46,
+  "P": "44.76"
 }, {
   "Id": 2462,
   "RaceID": 301,
@@ -10125,7 +10757,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5.5,
   "Power": 3.25,
-  "Effectivity": 8.62
+  "Effectivity": 8.62,
+  "P": "41.92"
 }, {
   "Id": 2463,
   "RaceID": 301,
@@ -10141,7 +10774,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 6.5,
   "Power": 3.51,
-  "Effectivity": 6.27
+  "Effectivity": 6.27,
+  "P": "29.17"
 }, {
   "Id": 2464,
   "RaceID": 301,
@@ -10157,7 +10791,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 8.5,
   "Power": 4.03,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "52.23"
 }, {
   "Id": 2465,
   "RaceID": 301,
@@ -10173,7 +10808,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6.5,
   "Power": 3.51,
-  "Effectivity": 7.41
+  "Effectivity": 7.41,
+  "P": "43.28"
 }, {
   "Id": 2466,
   "RaceID": 301,
@@ -10189,7 +10825,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 5.5,
   "Power": 3.25,
-  "Effectivity": 7.08
+  "Effectivity": 7.08,
+  "P": "44.97"
 }, {
   "Id": 2468,
   "RaceID": 301,
@@ -10205,7 +10842,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5.5,
   "Power": 3.25,
-  "Effectivity": 6.46
+  "Effectivity": 6.46,
+  "P": "45.11"
 }, {
   "Id": 2469,
   "RaceID": 301,
@@ -10221,7 +10859,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 3.33,
-  "Effectivity": 6.91
+  "Effectivity": 6.91,
+  "P": "55.53"
 }, {
   "Id": 2470,
   "RaceID": 301,
@@ -10237,7 +10876,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 3.33,
-  "Effectivity": 9.61
+  "Effectivity": 9.61,
+  "P": "36.14"
 }, {
   "Id": 2539,
   "RaceID": 301,
@@ -10253,7 +10893,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "38.33"
 }, {
   "Id": 2540,
   "RaceID": 301,
@@ -10269,7 +10910,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 16.16
+  "Effectivity": 16.16,
+  "P": "40.60"
 }, {
   "Id": 2541,
   "RaceID": 301,
@@ -10285,7 +10927,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "27.77"
 }, {
   "Id": 2542,
   "RaceID": 301,
@@ -10301,7 +10944,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 12.63
+  "Effectivity": 12.63,
+  "P": "43.29"
 }, {
   "Id": 2543,
   "RaceID": 301,
@@ -10317,7 +10961,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "38.56"
 }, {
   "Id": 2544,
   "RaceID": 301,
@@ -10333,7 +10978,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "38.16"
 }, {
   "Id": 2570,
   "RaceID": 301,
@@ -10349,7 +10995,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 5.88
+  "Effectivity": 5.88,
+  "P": "41.26"
 }, {
   "Id": 2571,
   "RaceID": 301,
@@ -10365,7 +11012,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 6.95
+  "Effectivity": 6.95,
+  "P": "41.15"
 }, {
   "Id": 2572,
   "RaceID": 301,
@@ -10381,7 +11029,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 9.63
+  "Effectivity": 9.63,
+  "P": "26.49"
 }, {
   "Id": 2573,
   "RaceID": 301,
@@ -10397,7 +11046,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 6.95
+  "Effectivity": 6.95,
+  "P": "36.65"
 }, {
   "Id": 2695,
   "RaceID": 301,
@@ -10413,7 +11063,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.45"
 }, {
   "Id": 2696,
   "RaceID": 301,
@@ -10429,7 +11080,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.28"
 }, {
   "Id": 2697,
   "RaceID": 301,
@@ -10445,7 +11097,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.14"
 }, {
   "Id": 2698,
   "RaceID": 301,
@@ -10461,7 +11114,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.75"
 }, {
   "Id": 3198,
   "RaceID": 301,
@@ -10477,7 +11131,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.77"
 }, {
   "Id": 2778,
   "RaceID": 301,
@@ -10493,7 +11148,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 14
+  "Effectivity": 14,
+  "P": "40.29"
 }, {
   "Id": 2779,
   "RaceID": 301,
@@ -10509,7 +11165,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 14
+  "Effectivity": 14,
+  "P": "40.67"
 }, {
   "Id": 2862,
   "RaceID": 301,
@@ -10525,7 +11182,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 5.5,
   "Power": 4.05,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "59.04"
 }, {
   "Id": 2863,
   "RaceID": 301,
@@ -10541,7 +11199,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 5.5,
   "Power": 4.05,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "55.29"
 }, {
   "Id": 2869,
   "RaceID": 301,
@@ -10557,7 +11216,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 10,
   "Power": 5.04,
-  "Effectivity": 8.13
+  "Effectivity": 8.13,
+  "P": "67.93"
 }, {
   "Id": 2870,
   "RaceID": 301,
@@ -10573,7 +11233,8 @@ all_units = [{
   "RealCost": 32.5,
   "modBS": 10,
   "Power": 5.04,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "65.28"
 }, {
   "Id": 3254,
   "RaceID": 301,
@@ -10589,7 +11250,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.30"
 }, {
   "Id": 3337,
   "RaceID": 301,
@@ -10605,7 +11267,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.65"
 }, {
   "Id": 3359,
   "RaceID": 301,
@@ -10621,7 +11284,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "38.56"
 }, {
   "Id": 3400,
   "RaceID": 301,
@@ -10637,7 +11301,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "38.05"
 }, {
   "Id": 3424,
   "RaceID": 301,
@@ -10653,7 +11318,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "45.00"
 }, {
   "Id": 3525,
   "RaceID": 301,
@@ -10669,7 +11335,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "59.12"
 }, {
   "Id": 2374,
   "RaceID": 301,
@@ -10685,7 +11352,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "39.63"
 }, {
   "Id": 2375,
   "RaceID": 301,
@@ -10701,7 +11369,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "39.23"
 }, {
   "Id": 2376,
   "RaceID": 301,
@@ -10717,7 +11386,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 5.45
+  "Effectivity": 5.45,
+  "P": "39.65"
 }, {
   "Id": 2757,
   "RaceID": 301,
@@ -10733,7 +11403,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 2.5,
   "Power": 1.65,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "40.02"
 }, {
   "Id": 1055,
   "RaceID": 401,
@@ -10749,7 +11420,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.41"
 }, {
   "Id": 1056,
   "RaceID": 401,
@@ -10765,7 +11437,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "49.89"
 }, {
   "Id": 1057,
   "RaceID": 401,
@@ -10781,7 +11454,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.54"
 }, {
   "Id": 1058,
   "RaceID": 401,
@@ -10797,7 +11471,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.59
+  "Effectivity": 8.59,
+  "P": "38.97"
 }, {
   "Id": 1059,
   "RaceID": 401,
@@ -10813,7 +11488,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "46.82"
 }, {
   "Id": 1060,
   "RaceID": 401,
@@ -10829,7 +11505,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.74
+  "Effectivity": 9.74,
+  "P": "41.37"
 }, {
   "Id": 1061,
   "RaceID": 401,
@@ -10845,7 +11522,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 15.15
+  "Effectivity": 15.15,
+  "P": "41.51"
 }, {
   "Id": 1062,
   "RaceID": 401,
@@ -10861,7 +11539,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "41.43"
 }, {
   "Id": 1063,
   "RaceID": 401,
@@ -10877,7 +11556,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.37"
 }, {
   "Id": 1064,
   "RaceID": 401,
@@ -10893,7 +11573,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "40.97"
 }, {
   "Id": 1065,
   "RaceID": 401,
@@ -10909,7 +11590,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.11"
 }, {
   "Id": 1066,
   "RaceID": 401,
@@ -10925,7 +11607,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "49.78"
 }, {
   "Id": 1067,
   "RaceID": 401,
@@ -10941,7 +11624,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.59
+  "Effectivity": 8.59,
+  "P": "38.50"
 }, {
   "Id": 1068,
   "RaceID": 401,
@@ -10957,7 +11641,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.35"
 }, {
   "Id": 1069,
   "RaceID": 401,
@@ -10973,7 +11658,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.85
+  "Effectivity": 9.85,
+  "P": "41.15"
 }, {
   "Id": 1070,
   "RaceID": 401,
@@ -10989,7 +11675,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.36"
 }, {
   "Id": 1071,
   "RaceID": 401,
@@ -11005,7 +11692,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 2.2,
-  "Effectivity": 12.27
+  "Effectivity": 12.27,
+  "P": "45.97"
 }, {
   "Id": 1072,
   "RaceID": 401,
@@ -11021,7 +11709,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.42,
-  "Effectivity": 11.16
+  "Effectivity": 11.16,
+  "P": "29.59"
 }, {
   "Id": 1073,
   "RaceID": 401,
@@ -11037,7 +11726,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 3,
   "Power": 2.42,
-  "Effectivity": 12.81
+  "Effectivity": 12.81,
+  "P": "52.78"
 }, {
   "Id": 1074,
   "RaceID": 401,
@@ -11053,7 +11743,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 2,
   "Power": 2.2,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "29.12"
 }, {
   "Id": 1075,
   "RaceID": 401,
@@ -11069,7 +11760,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 2.2,
-  "Effectivity": 12.27
+  "Effectivity": 12.27,
+  "P": "45.30"
 }, {
   "Id": 1076,
   "RaceID": 401,
@@ -11085,7 +11777,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 3,
   "Power": 2.42,
-  "Effectivity": 12.81
+  "Effectivity": 12.81,
+  "P": "52.72"
 }, {
   "Id": 1077,
   "RaceID": 401,
@@ -11101,7 +11794,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 8.75
+  "Effectivity": 8.75,
+  "P": "45.13"
 }, {
   "Id": 1078,
   "RaceID": 401,
@@ -11117,7 +11811,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 9.29
+  "Effectivity": 9.29,
+  "P": "54.53"
 }, {
   "Id": 1079,
   "RaceID": 401,
@@ -11133,7 +11828,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "29.01"
 }, {
   "Id": 1080,
   "RaceID": 401,
@@ -11149,7 +11845,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.01
+  "Effectivity": 8.01,
+  "P": "51.38"
 }, {
   "Id": 1081,
   "RaceID": 401,
@@ -11165,7 +11862,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 9.62
+  "Effectivity": 9.62,
+  "P": "28.81"
 }, {
   "Id": 1082,
   "RaceID": 401,
@@ -11181,7 +11879,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 11.67
+  "Effectivity": 11.67,
+  "P": "29.04"
 }, {
   "Id": 1083,
   "RaceID": 401,
@@ -11197,7 +11896,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 8.75
+  "Effectivity": 8.75,
+  "P": "45.39"
 }, {
   "Id": 2879,
   "RaceID": 401,
@@ -11213,7 +11913,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "29.06"
 }, {
   "Id": 1084,
   "RaceID": 401,
@@ -11229,7 +11930,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 16.15
+  "Effectivity": 16.15,
+  "P": "44.16"
 }, {
   "Id": 1085,
   "RaceID": 401,
@@ -11245,7 +11947,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "53.28"
 }, {
   "Id": 1086,
   "RaceID": 401,
@@ -11261,7 +11964,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.74
+  "Effectivity": 11.74,
+  "P": "49.65"
 }, {
   "Id": 1087,
   "RaceID": 401,
@@ -11277,7 +11981,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "41.32"
 }, {
   "Id": 1088,
   "RaceID": 401,
@@ -11293,7 +11998,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 14.06
+  "Effectivity": 14.06,
+  "P": "28.15"
 }, {
   "Id": 1089,
   "RaceID": 401,
@@ -11309,7 +12015,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 16.15
+  "Effectivity": 16.15,
+  "P": "44.24"
 }, {
   "Id": 1090,
   "RaceID": 401,
@@ -11325,7 +12032,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "52.85"
 }, {
   "Id": 1091,
   "RaceID": 401,
@@ -11341,7 +12049,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 6.92
+  "Effectivity": 6.92,
+  "P": "60.92"
 }, {
   "Id": 1092,
   "RaceID": 401,
@@ -11357,7 +12066,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 11,
   "Power": 4.68,
-  "Effectivity": 7.48
+  "Effectivity": 7.48,
+  "P": "70.54"
 }, {
   "Id": 1093,
   "RaceID": 401,
@@ -11373,7 +12083,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 11,
   "Power": 4.68,
-  "Effectivity": 6.62
+  "Effectivity": 6.62,
+  "P": "69.34"
 }, {
   "Id": 1094,
   "RaceID": 401,
@@ -11389,7 +12100,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "61.03"
 }, {
   "Id": 1095,
   "RaceID": 401,
@@ -11405,7 +12117,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "60.74"
 }, {
   "Id": 1096,
   "RaceID": 401,
@@ -11421,7 +12134,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 6.92
+  "Effectivity": 6.92,
+  "P": "61.00"
 }, {
   "Id": 2892,
   "RaceID": 401,
@@ -11437,7 +12151,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "60.86"
 }, {
   "Id": 1097,
   "RaceID": 401,
@@ -11453,7 +12168,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 6.99
+  "Effectivity": 6.99,
+  "P": "43.54"
 }, {
   "Id": 1098,
   "RaceID": 401,
@@ -11469,7 +12185,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 6.72
+  "Effectivity": 6.72,
+  "P": "28.45"
 }, {
   "Id": 1099,
   "RaceID": 401,
@@ -11485,7 +12202,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 9.5,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "51.37"
 }, {
   "Id": 1100,
   "RaceID": 401,
@@ -11501,7 +12219,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.22"
 }, {
   "Id": 1101,
   "RaceID": 401,
@@ -11517,7 +12236,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "63.42"
 }, {
   "Id": 1102,
   "RaceID": 401,
@@ -11533,7 +12253,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 9.14
+  "Effectivity": 9.14,
+  "P": "63.39"
 }, {
   "Id": 1103,
   "RaceID": 401,
@@ -11549,7 +12270,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 5.47,
-  "Effectivity": 7.31
+  "Effectivity": 7.31,
+  "P": "71.36"
 }, {
   "Id": 1104,
   "RaceID": 401,
@@ -11565,7 +12287,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 7.65
+  "Effectivity": 7.65,
+  "P": "41.92"
 }, {
   "Id": 1105,
   "RaceID": 401,
@@ -11581,7 +12304,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 10.12
+  "Effectivity": 10.12,
+  "P": "63.58"
 }, {
   "Id": 1106,
   "RaceID": 401,
@@ -11597,7 +12321,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "63.23"
 }, {
   "Id": 2453,
   "RaceID": 401,
@@ -11613,7 +12338,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 3.5,
   "Power": 5.47,
-  "Effectivity": 6.76
+  "Effectivity": 6.76,
+  "P": "59.32"
 }, {
   "Id": 2455,
   "RaceID": 401,
@@ -11629,7 +12355,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 7.9
+  "Effectivity": 7.9,
+  "P": "41.56"
 }, {
   "Id": 1107,
   "RaceID": 401,
@@ -11645,7 +12372,8 @@ all_units = [{
   "RealCost": 46,
   "modBS": 5,
   "Power": 12.1,
-  "Effectivity": 6.45
+  "Effectivity": 6.45,
+  "P": "85.58"
 }, {
   "Id": 1108,
   "RaceID": 401,
@@ -11661,7 +12389,8 @@ all_units = [{
   "RealCost": 47,
   "modBS": 5,
   "Power": 12.1,
-  "Effectivity": 6.53
+  "Effectivity": 6.53,
+  "P": "85.42"
 }, {
   "Id": 1109,
   "RaceID": 401,
@@ -11677,7 +12406,8 @@ all_units = [{
   "RealCost": 66,
   "modBS": 5,
   "Power": 12.1,
-  "Effectivity": 8.1
+  "Effectivity": 8.1,
+  "P": "85.42"
 }, {
   "Id": 1111,
   "RaceID": 401,
@@ -11693,7 +12423,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.57
+  "Effectivity": 8.57,
+  "P": "40.35"
 }, {
   "Id": 1112,
   "RaceID": 401,
@@ -11709,7 +12440,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 7.5,
   "Power": 2.7,
-  "Effectivity": 7.78
+  "Effectivity": 7.78,
+  "P": "46.25"
 }, {
   "Id": 1113,
   "RaceID": 401,
@@ -11725,7 +12457,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.57
+  "Effectivity": 8.57,
+  "P": "40.28"
 }, {
   "Id": 1114,
   "RaceID": 401,
@@ -11741,7 +12474,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 10.98
+  "Effectivity": 10.98,
+  "P": "54.09"
 }, {
   "Id": 1115,
   "RaceID": 401,
@@ -11757,7 +12491,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "35.94"
 }, {
   "Id": 1116,
   "RaceID": 401,
@@ -11773,7 +12508,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 9,
   "Power": 3.3,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "57.19"
 }, {
   "Id": 1117,
   "RaceID": 401,
@@ -11789,7 +12525,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 13.26
+  "Effectivity": 13.26,
+  "P": "54.03"
 }, {
   "Id": 1118,
   "RaceID": 401,
@@ -11805,7 +12542,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "54.16"
 }, {
   "Id": 1119,
   "RaceID": 401,
@@ -11821,7 +12559,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 16.58
+  "Effectivity": 16.58,
+  "P": "41.15"
 }, {
   "Id": 1120,
   "RaceID": 401,
@@ -11837,7 +12576,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 16.04
+  "Effectivity": 16.04,
+  "P": "41.44"
 }, {
   "Id": 1121,
   "RaceID": 401,
@@ -11853,7 +12593,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 15.51
+  "Effectivity": 15.51,
+  "P": "26.31"
 }, {
   "Id": 1122,
   "RaceID": 401,
@@ -11869,7 +12610,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 14.83
+  "Effectivity": 14.83,
+  "P": "40.87"
 }, {
   "Id": 1123,
   "RaceID": 401,
@@ -11885,7 +12627,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 5.5,
   "Power": 2.53,
-  "Effectivity": 7.51
+  "Effectivity": 7.51,
+  "P": "40.98"
 }, {
   "Id": 1124,
   "RaceID": 401,
@@ -11901,7 +12644,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 5.5,
   "Power": 2.53,
-  "Effectivity": 3.95
+  "Effectivity": 3.95,
+  "P": "41.55"
 }, {
   "Id": 1125,
   "RaceID": 401,
@@ -11917,7 +12661,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 5.5,
   "Power": 2.53,
-  "Effectivity": 5.53
+  "Effectivity": 5.53,
+  "P": "25.75"
 }, {
   "Id": 1126,
   "RaceID": 401,
@@ -11933,7 +12678,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 11.04
+  "Effectivity": 11.04,
+  "P": "41.01"
 }, {
   "Id": 1127,
   "RaceID": 401,
@@ -11949,7 +12695,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 9.41
+  "Effectivity": 9.41,
+  "P": "40.62"
 }, {
   "Id": 1128,
   "RaceID": 401,
@@ -11965,7 +12712,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "48.90"
 }, {
   "Id": 1129,
   "RaceID": 401,
@@ -11981,7 +12729,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "40.04"
 }, {
   "Id": 1130,
   "RaceID": 401,
@@ -11997,7 +12746,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.50"
 }, {
   "Id": 1131,
   "RaceID": 401,
@@ -12013,7 +12763,8 @@ all_units = [{
   "RealCost": 42,
   "modBS": 3,
   "Power": 4.86,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "62.09"
 }, {
   "Id": 1132,
   "RaceID": 401,
@@ -12029,7 +12780,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 4,
   "Power": 5.3,
-  "Effectivity": 10.57
+  "Effectivity": 10.57,
+  "P": "68.65"
 }, {
   "Id": 1133,
   "RaceID": 401,
@@ -12045,7 +12797,8 @@ all_units = [{
   "RealCost": 42,
   "modBS": 3,
   "Power": 4.86,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "62.23"
 }, {
   "Id": 1134,
   "RaceID": 401,
@@ -12061,7 +12814,8 @@ all_units = [{
   "RealCost": 41,
   "modBS": 4,
   "Power": 5.3,
-  "Effectivity": 10.57
+  "Effectivity": 10.57,
+  "P": "68.85"
 }, {
   "Id": 1135,
   "RaceID": 401,
@@ -12077,7 +12831,8 @@ all_units = [{
   "RealCost": 5.5,
   "modBS": 6.5,
   "Power": 3.24,
-  "Effectivity": 4.94
+  "Effectivity": 4.94,
+  "P": "44.27"
 }, {
   "Id": 1136,
   "RaceID": 401,
@@ -12093,7 +12848,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 6.5,
   "Power": 3.24,
-  "Effectivity": 8.02
+  "Effectivity": 8.02,
+  "P": "44.34"
 }, {
   "Id": 1137,
   "RaceID": 401,
@@ -12109,7 +12865,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 5.45
+  "Effectivity": 5.45,
+  "P": "27.23"
 }, {
   "Id": 1138,
   "RaceID": 401,
@@ -12125,7 +12882,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 5.5,
   "Power": 2.53,
-  "Effectivity": 5.53
+  "Effectivity": 5.53,
+  "P": "38.89"
 }, {
   "Id": 1139,
   "RaceID": 401,
@@ -12141,7 +12899,8 @@ all_units = [{
   "RealCost": 3,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 3.79
+  "Effectivity": 3.79,
+  "P": "25.73"
 }, {
   "Id": 1140,
   "RaceID": 401,
@@ -12157,7 +12916,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 8.59
+  "Effectivity": 8.59,
+  "P": "49.86"
 }, {
   "Id": 1141,
   "RaceID": 401,
@@ -12173,7 +12933,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "25.95"
 }, {
   "Id": 1142,
   "RaceID": 401,
@@ -12189,7 +12950,8 @@ all_units = [{
   "RealCost": 2,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 4.55
+  "Effectivity": 4.55,
+  "P": "26.02"
 }, {
   "Id": 1143,
   "RaceID": 401,
@@ -12205,7 +12967,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.18"
 }, {
   "Id": 1144,
   "RaceID": 401,
@@ -12221,7 +12984,8 @@ all_units = [{
   "RealCost": 3,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 5.19
+  "Effectivity": 5.19,
+  "P": "26.10"
 }, {
   "Id": 1145,
   "RaceID": 401,
@@ -12237,7 +13001,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 7.14
+  "Effectivity": 7.14,
+  "P": "57.86"
 }, {
   "Id": 1146,
   "RaceID": 401,
@@ -12253,7 +13018,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 6.85
+  "Effectivity": 6.85,
+  "P": "38.64"
 }, {
   "Id": 1147,
   "RaceID": 401,
@@ -12269,7 +13035,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "65.51"
 }, {
   "Id": 1148,
   "RaceID": 401,
@@ -12285,7 +13052,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 6.55
+  "Effectivity": 6.55,
+  "P": "52.53"
 }, {
   "Id": 1150,
   "RaceID": 401,
@@ -12301,7 +13069,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1,
   "Power": 1.68,
-  "Effectivity": 9.52
+  "Effectivity": 9.52,
+  "P": "42.02"
 }, {
   "Id": 1151,
   "RaceID": 401,
@@ -12317,7 +13086,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 1.68,
-  "Effectivity": 8.93
+  "Effectivity": 8.93,
+  "P": "27.02"
 }, {
   "Id": 1152,
   "RaceID": 401,
@@ -12333,7 +13103,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 1.68,
-  "Effectivity": 10.12
+  "Effectivity": 10.12,
+  "P": "42.48"
 }, {
   "Id": 1153,
   "RaceID": 401,
@@ -12349,7 +13120,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 1.68,
-  "Effectivity": 10.12
+  "Effectivity": 10.12,
+  "P": "42.06"
 }, {
   "Id": 2873,
   "RaceID": 401,
@@ -12365,7 +13137,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 1,
   "Power": 1.68,
-  "Effectivity": 7.14
+  "Effectivity": 7.14,
+  "P": "37.35"
 }, {
   "Id": 1154,
   "RaceID": 401,
@@ -12381,7 +13154,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "44.00"
 }, {
   "Id": 1155,
   "RaceID": 401,
@@ -12397,7 +13171,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 10.78
+  "Effectivity": 10.78,
+  "P": "50.82"
 }, {
   "Id": 1156,
   "RaceID": 401,
@@ -12413,7 +13188,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "43.97"
 }, {
   "Id": 1157,
   "RaceID": 401,
@@ -12429,7 +13205,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 8.89
+  "Effectivity": 8.89,
+  "P": "43.89"
 }, {
   "Id": 1158,
   "RaceID": 401,
@@ -12445,7 +13222,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 10.78
+  "Effectivity": 10.78,
+  "P": "51.29"
 }, {
   "Id": 2876,
   "RaceID": 401,
@@ -12461,7 +13239,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 2.04,
-  "Effectivity": 8.82
+  "Effectivity": 8.82,
+  "P": "41.55"
 }, {
   "Id": 1159,
   "RaceID": 401,
@@ -12477,7 +13256,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "44.19"
 }, {
   "Id": 1160,
   "RaceID": 401,
@@ -12493,7 +13273,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "44.16"
 }, {
   "Id": 1161,
   "RaceID": 401,
@@ -12509,7 +13290,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "44.07"
 }, {
   "Id": 1162,
   "RaceID": 401,
@@ -12525,7 +13307,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 9,
   "Power": 3.84,
-  "Effectivity": 6.51
+  "Effectivity": 6.51,
+  "P": "46.61"
 }, {
   "Id": 1163,
   "RaceID": 401,
@@ -12541,7 +13324,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "50.94"
 }, {
   "Id": 1164,
   "RaceID": 401,
@@ -12557,7 +13341,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.38
+  "Effectivity": 9.38,
+  "P": "44.22"
 }, {
   "Id": 1165,
   "RaceID": 401,
@@ -12573,7 +13358,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 7.99
+  "Effectivity": 7.99,
+  "P": "44.03"
 }, {
   "Id": 1166,
   "RaceID": 401,
@@ -12589,7 +13375,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.05
+  "Effectivity": 7.05,
+  "P": "41.81"
 }, {
   "Id": 2883,
   "RaceID": 401,
@@ -12605,7 +13392,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "44.52"
 }, {
   "Id": 2884,
   "RaceID": 401,
@@ -12621,7 +13409,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "44.14"
 }, {
   "Id": 1167,
   "RaceID": 401,
@@ -12637,7 +13426,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "52.58"
 }, {
   "Id": 1168,
   "RaceID": 401,
@@ -12653,7 +13443,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 6.13
+  "Effectivity": 6.13,
+  "P": "57.17"
 }, {
   "Id": 1169,
   "RaceID": 401,
@@ -12669,7 +13460,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 5.46
+  "Effectivity": 5.46,
+  "P": "72.55"
 }, {
   "Id": 1170,
   "RaceID": 401,
@@ -12685,7 +13477,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 5.59
+  "Effectivity": 5.59,
+  "P": "72.34"
 }, {
   "Id": 1171,
   "RaceID": 401,
@@ -12701,7 +13494,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 4.66
+  "Effectivity": 4.66,
+  "P": "48.54"
 }, {
   "Id": 1172,
   "RaceID": 401,
@@ -12717,7 +13511,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 9,
   "Power": 7.96,
-  "Effectivity": 5.4
+  "Effectivity": 5.4,
+  "P": "78.47"
 }, {
   "Id": 1173,
   "RaceID": 401,
@@ -12733,7 +13528,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 5.99
+  "Effectivity": 5.99,
+  "P": "72.30"
 }, {
   "Id": 1174,
   "RaceID": 401,
@@ -12749,7 +13545,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 5.46
+  "Effectivity": 5.46,
+  "P": "72.19"
 }, {
   "Id": 2894,
   "RaceID": 401,
@@ -12765,7 +13562,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 8,
   "Power": 7.51,
-  "Effectivity": 5.19
+  "Effectivity": 5.19,
+  "P": "48.57"
 }, {
   "Id": 1175,
   "RaceID": 401,
@@ -12781,7 +13579,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3,
   "Power": 5.61,
-  "Effectivity": 7.31
+  "Effectivity": 7.31,
+  "P": "73.88"
 }, {
   "Id": 1176,
   "RaceID": 401,
@@ -12797,7 +13596,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 0,
   "Power": 4.08,
-  "Effectivity": 9.56
+  "Effectivity": 9.56,
+  "P": "60.65"
 }, {
   "Id": 1177,
   "RaceID": 401,
@@ -12813,7 +13613,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 7.5,
   "Power": 2.97,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "46.85"
 }, {
   "Id": 1178,
   "RaceID": 401,
@@ -12829,7 +13630,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 12.44
+  "Effectivity": 12.44,
+  "P": "26.23"
 }, {
   "Id": 1179,
   "RaceID": 401,
@@ -12845,7 +13647,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 10.05
+  "Effectivity": 10.05,
+  "P": "26.49"
 }, {
   "Id": 1180,
   "RaceID": 401,
@@ -12861,7 +13664,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4,
   "Power": 2.2,
-  "Effectivity": 11.82
+  "Effectivity": 11.82,
+  "P": "27.05"
 }, {
   "Id": 1181,
   "RaceID": 401,
@@ -12877,7 +13681,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2.2,
-  "Effectivity": 10.45
+  "Effectivity": 10.45,
+  "P": "42.73"
 }, {
   "Id": 2897,
   "RaceID": 401,
@@ -12893,7 +13698,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "27.34"
 }, {
   "Id": 1182,
   "RaceID": 401,
@@ -12909,7 +13715,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.26"
 }, {
   "Id": 1183,
   "RaceID": 401,
@@ -12925,7 +13732,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.56"
 }, {
   "Id": 1184,
   "RaceID": 401,
@@ -12941,7 +13749,8 @@ all_units = [{
   "RealCost": 122,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.59"
 }, {
   "Id": 1185,
   "RaceID": 401,
@@ -12957,7 +13766,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.56,
-  "Effectivity": 13.46
+  "Effectivity": 13.46,
+  "P": "41.87"
 }, {
   "Id": 1186,
   "RaceID": 401,
@@ -12973,7 +13783,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 2.5,
   "Power": 2.09,
-  "Effectivity": 16.75
+  "Effectivity": 16.75,
+  "P": "43.12"
 }, {
   "Id": 1187,
   "RaceID": 401,
@@ -12989,7 +13800,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 7,
   "Power": 3.9,
-  "Effectivity": 9.23
+  "Effectivity": 9.23,
+  "P": "61.60"
 }, {
   "Id": 1188,
   "RaceID": 401,
@@ -13005,7 +13817,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 7,
   "Power": 3.9,
-  "Effectivity": 9.23
+  "Effectivity": 9.23,
+  "P": "61.21"
 }, {
   "Id": 1189,
   "RaceID": 401,
@@ -13021,7 +13834,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 12.73
+  "Effectivity": 12.73,
+  "P": "43.47"
 }, {
   "Id": 1190,
   "RaceID": 401,
@@ -13037,7 +13851,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 9.7
+  "Effectivity": 9.7,
+  "P": "43.06"
 }, {
   "Id": 1191,
   "RaceID": 401,
@@ -13053,7 +13868,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 8.48
+  "Effectivity": 8.48,
+  "P": "43.16"
 }, {
   "Id": 1192,
   "RaceID": 401,
@@ -13069,7 +13885,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 12.73
+  "Effectivity": 12.73,
+  "P": "43.20"
 }, {
   "Id": 1193,
   "RaceID": 401,
@@ -13085,7 +13902,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 8.48
+  "Effectivity": 8.48,
+  "P": "43.05"
 }, {
   "Id": 2888,
   "RaceID": 401,
@@ -13101,7 +13919,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.65,
-  "Effectivity": 11.52
+  "Effectivity": 11.52,
+  "P": "43.57"
 }, {
   "Id": 1194,
   "RaceID": 401,
@@ -13117,7 +13936,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "50.09"
 }, {
   "Id": 1195,
   "RaceID": 401,
@@ -13133,7 +13953,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "50.05"
 }, {
   "Id": 1196,
   "RaceID": 401,
@@ -13149,7 +13970,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 8.93
+  "Effectivity": 8.93,
+  "P": "55.49"
 }, {
   "Id": 1197,
   "RaceID": 401,
@@ -13165,7 +13987,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "56.91"
 }, {
   "Id": 1198,
   "RaceID": 401,
@@ -13181,7 +14004,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 11.25
+  "Effectivity": 11.25,
+  "P": "50.64"
 }, {
   "Id": 1199,
   "RaceID": 401,
@@ -13197,7 +14021,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 11.25
+  "Effectivity": 11.25,
+  "P": "50.22"
 }, {
   "Id": 1200,
   "RaceID": 401,
@@ -13213,7 +14038,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 11.25
+  "Effectivity": 11.25,
+  "P": "50.40"
 }, {
   "Id": 1201,
   "RaceID": 401,
@@ -13229,7 +14055,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 8.1
+  "Effectivity": 8.1,
+  "P": "30.50"
 }, {
   "Id": 1202,
   "RaceID": 401,
@@ -13245,7 +14072,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "47.85"
 }, {
   "Id": 1203,
   "RaceID": 401,
@@ -13261,7 +14089,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 9.89
+  "Effectivity": 9.89,
+  "P": "54.37"
 }, {
   "Id": 1204,
   "RaceID": 401,
@@ -13277,7 +14106,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 8.42
+  "Effectivity": 8.42,
+  "P": "44.25"
 }, {
   "Id": 1206,
   "RaceID": 401,
@@ -13293,7 +14123,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 9.72
+  "Effectivity": 9.72,
+  "P": "30.60"
 }, {
   "Id": 1207,
   "RaceID": 401,
@@ -13309,7 +14140,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 1.5,
   "Power": 2.47,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "47.97"
 }, {
   "Id": 1208,
   "RaceID": 401,
@@ -13325,7 +14157,8 @@ all_units = [{
   "RealCost": 0.5,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 2.38
+  "Effectivity": 2.38,
+  "P": "40.61"
 }, {
   "Id": 1209,
   "RaceID": 401,
@@ -13341,7 +14174,8 @@ all_units = [{
   "RealCost": 5.5,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 4.76
+  "Effectivity": 4.76,
+  "P": "25.71"
 }, {
   "Id": 1210,
   "RaceID": 401,
@@ -13357,7 +14191,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 14.44
+  "Effectivity": 14.44,
+  "P": "43.35"
 }, {
   "Id": 1211,
   "RaceID": 401,
@@ -13373,7 +14208,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 1.5,
   "Power": 1.87,
-  "Effectivity": 18.18
+  "Effectivity": 18.18,
+  "P": "43.26"
 }, {
   "Id": 1212,
   "RaceID": 401,
@@ -13389,7 +14225,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 10.49
+  "Effectivity": 10.49,
+  "P": "41.25"
 }, {
   "Id": 1213,
   "RaceID": 401,
@@ -13405,7 +14242,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 11
+  "Effectivity": 11,
+  "P": "49.40"
 }, {
   "Id": 1214,
   "RaceID": 401,
@@ -13421,7 +14259,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "41.94"
 }, {
   "Id": 1215,
   "RaceID": 401,
@@ -13437,7 +14276,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 9.57
+  "Effectivity": 9.57,
+  "P": "38.61"
 }, {
   "Id": 1216,
   "RaceID": 401,
@@ -13453,7 +14293,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 16.08
+  "Effectivity": 16.08,
+  "P": "41.40"
 }, {
   "Id": 1217,
   "RaceID": 401,
@@ -13469,7 +14310,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 13.29
+  "Effectivity": 13.29,
+  "P": "41.05"
 }, {
   "Id": 1218,
   "RaceID": 401,
@@ -13485,7 +14327,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "41.78"
 }, {
   "Id": 1219,
   "RaceID": 401,
@@ -13501,7 +14344,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 10.49
+  "Effectivity": 10.49,
+  "P": "41.51"
 }, {
   "Id": 1220,
   "RaceID": 401,
@@ -13517,7 +14361,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 5.5,
   "Power": 6.89,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "72.55"
 }, {
   "Id": 1221,
   "RaceID": 401,
@@ -13533,7 +14378,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 3.5,
   "Power": 5.86,
-  "Effectivity": 7.68
+  "Effectivity": 7.68,
+  "P": "59.04"
 }, {
   "Id": 1224,
   "RaceID": 401,
@@ -13549,7 +14395,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.43"
 }, {
   "Id": 1225,
   "RaceID": 401,
@@ -13565,7 +14412,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.50"
 }, {
   "Id": 1226,
   "RaceID": 401,
@@ -13581,7 +14429,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.38"
 }, {
   "Id": 1227,
   "RaceID": 401,
@@ -13597,7 +14446,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.27"
 }, {
   "Id": 1228,
   "RaceID": 401,
@@ -13613,7 +14463,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.80"
 }, {
   "Id": 1229,
   "RaceID": 401,
@@ -13629,7 +14480,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "33.13"
 }, {
   "Id": 1230,
   "RaceID": 401,
@@ -13645,7 +14497,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.52"
 }, {
   "Id": 1231,
   "RaceID": 401,
@@ -13661,7 +14514,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.43"
 }, {
   "Id": 2423,
   "RaceID": 401,
@@ -13677,7 +14531,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.48"
 }, {
   "Id": 2424,
   "RaceID": 401,
@@ -13693,7 +14548,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.11"
 }, {
   "Id": 2699,
   "RaceID": 401,
@@ -13709,7 +14565,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.61"
 }, {
   "Id": 2700,
   "RaceID": 401,
@@ -13725,7 +14582,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.37"
 }, {
   "Id": 2701,
   "RaceID": 401,
@@ -13741,7 +14599,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.01"
 }, {
   "Id": 2702,
   "RaceID": 401,
@@ -13757,7 +14616,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.57"
 }, {
   "Id": 3199,
   "RaceID": 401,
@@ -13773,7 +14633,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.93"
 }, {
   "Id": 2899,
   "RaceID": 401,
@@ -13789,7 +14650,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2,
   "Power": 4.42,
-  "Effectivity": 8.37
+  "Effectivity": 8.37,
+  "P": "61.13"
 }, {
   "Id": 2900,
   "RaceID": 401,
@@ -13805,7 +14667,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 2,
   "Power": 4.42,
-  "Effectivity": 8.82
+  "Effectivity": 8.82,
+  "P": "61.29"
 }, {
   "Id": 2901,
   "RaceID": 401,
@@ -13821,7 +14684,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 5,
   "Power": 5.75,
-  "Effectivity": 6.78
+  "Effectivity": 6.78,
+  "P": "69.08"
 }, {
   "Id": 3217,
   "RaceID": 401,
@@ -13837,7 +14701,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 10.26
+  "Effectivity": 10.26,
+  "P": "44.76"
 }, {
   "Id": 3218,
   "RaceID": 401,
@@ -13853,7 +14718,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1.5,
   "Power": 2.21,
-  "Effectivity": 11.31
+  "Effectivity": 11.31,
+  "P": "51.85"
 }, {
   "Id": 3219,
   "RaceID": 401,
@@ -13869,7 +14735,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 11.79
+  "Effectivity": 11.79,
+  "P": "44.71"
 }, {
   "Id": 3220,
   "RaceID": 401,
@@ -13885,7 +14752,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 12.31
+  "Effectivity": 12.31,
+  "P": "44.71"
 }, {
   "Id": 3221,
   "RaceID": 401,
@@ -13901,7 +14769,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 9.74
+  "Effectivity": 9.74,
+  "P": "29.14"
 }, {
   "Id": 3222,
   "RaceID": 401,
@@ -13917,7 +14786,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 10.77
+  "Effectivity": 10.77,
+  "P": "45.06"
 }, {
   "Id": 3266,
   "RaceID": 401,
@@ -13933,7 +14803,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.34"
 }, {
   "Id": 3305,
   "RaceID": 401,
@@ -13949,7 +14820,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0,
   "Power": 1.54,
-  "Effectivity": 12.99
+  "Effectivity": 12.99,
+  "P": "43.42"
 }, {
   "Id": 3341,
   "RaceID": 401,
@@ -13965,7 +14837,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.92"
 }, {
   "Id": 3363,
   "RaceID": 401,
@@ -13981,7 +14854,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "38.25"
 }, {
   "Id": 3404,
   "RaceID": 401,
@@ -13997,7 +14871,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "38.44"
 }, {
   "Id": 3428,
   "RaceID": 401,
@@ -14013,7 +14888,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "44.80"
 }, {
   "Id": 3527,
   "RaceID": 401,
@@ -14029,7 +14905,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "58.66"
 }, {
   "Id": 2383,
   "RaceID": 401,
@@ -14045,7 +14922,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.25"
 }, {
   "Id": 2384,
   "RaceID": 401,
@@ -14061,7 +14939,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 15.58
+  "Effectivity": 15.58,
+  "P": "41.34"
 }, {
   "Id": 2385,
   "RaceID": 401,
@@ -14077,7 +14956,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "41.14"
 }, {
   "Id": 1404,
   "RaceID": 501,
@@ -14093,7 +14973,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.37"
 }, {
   "Id": 1405,
   "RaceID": 501,
@@ -14109,7 +14990,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "50.01"
 }, {
   "Id": 1406,
   "RaceID": 501,
@@ -14125,7 +15007,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.21"
 }, {
   "Id": 1407,
   "RaceID": 501,
@@ -14141,7 +15024,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 4,
   "Power": 2.2,
-  "Effectivity": 8.18
+  "Effectivity": 8.18,
+  "P": "46.80"
 }, {
   "Id": 1408,
   "RaceID": 501,
@@ -14157,7 +15041,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "38.76"
 }, {
   "Id": 1409,
   "RaceID": 501,
@@ -14173,7 +15058,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "41.83"
 }, {
   "Id": 1410,
   "RaceID": 501,
@@ -14189,7 +15075,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.57"
 }, {
   "Id": 1411,
   "RaceID": 501,
@@ -14205,7 +15092,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.70"
 }, {
   "Id": 1412,
   "RaceID": 501,
@@ -14221,7 +15109,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.18"
 }, {
   "Id": 1413,
   "RaceID": 501,
@@ -14237,7 +15126,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 9.16
+  "Effectivity": 9.16,
+  "P": "48.47"
 }, {
   "Id": 1414,
   "RaceID": 501,
@@ -14253,7 +15143,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 8.42
+  "Effectivity": 8.42,
+  "P": "31.51"
 }, {
   "Id": 1415,
   "RaceID": 501,
@@ -14269,7 +15160,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6.5,
   "Power": 3.77,
-  "Effectivity": 8.49
+  "Effectivity": 8.49,
+  "P": "54.61"
 }, {
   "Id": 1416,
   "RaceID": 501,
@@ -14285,7 +15177,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 5.5,
   "Power": 3.51,
-  "Effectivity": 8.26
+  "Effectivity": 8.26,
+  "P": "45.67"
 }, {
   "Id": 1417,
   "RaceID": 501,
@@ -14301,7 +15194,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 3.5,
   "Power": 2.99,
-  "Effectivity": 10.03
+  "Effectivity": 10.03,
+  "P": "55.76"
 }, {
   "Id": 1418,
   "RaceID": 501,
@@ -14317,7 +15211,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 9.89
+  "Effectivity": 9.89,
+  "P": "48.59"
 }, {
   "Id": 1419,
   "RaceID": 501,
@@ -14333,7 +15228,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 2.5,
   "Power": 2.73,
-  "Effectivity": 9.16
+  "Effectivity": 9.16,
+  "P": "48.76"
 }, {
   "Id": 1420,
   "RaceID": 501,
@@ -14349,7 +15245,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "44.13"
 }, {
   "Id": 1421,
   "RaceID": 501,
@@ -14365,7 +15262,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.74
+  "Effectivity": 11.74,
+  "P": "52.66"
 }, {
   "Id": 1422,
   "RaceID": 501,
@@ -14381,7 +15279,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 10.94
+  "Effectivity": 10.94,
+  "P": "28.40"
 }, {
   "Id": 1423,
   "RaceID": 501,
@@ -14397,7 +15296,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "44.31"
 }, {
   "Id": 1424,
   "RaceID": 501,
@@ -14413,7 +15313,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 2,
   "Power": 2.16,
-  "Effectivity": 12.96
+  "Effectivity": 12.96,
+  "P": "51.28"
 }, {
   "Id": 1425,
   "RaceID": 501,
@@ -14429,7 +15330,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 14.58
+  "Effectivity": 14.58,
+  "P": "43.87"
 }, {
   "Id": 1426,
   "RaceID": 501,
@@ -14445,7 +15347,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "44.08"
 }, {
   "Id": 1427,
   "RaceID": 501,
@@ -14461,7 +15364,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "44.34"
 }, {
   "Id": 1428,
   "RaceID": 501,
@@ -14477,7 +15381,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "44.29"
 }, {
   "Id": 1429,
   "RaceID": 501,
@@ -14493,7 +15398,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 10.36
+  "Effectivity": 10.36,
+  "P": "49.07"
 }, {
   "Id": 1430,
   "RaceID": 501,
@@ -14509,7 +15415,8 @@ all_units = [{
   "RealCost": 27.5,
   "modBS": 8,
   "Power": 4.16,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "58.52"
 }, {
   "Id": 1431,
   "RaceID": 501,
@@ -14525,7 +15432,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 10.65
+  "Effectivity": 10.65,
+  "P": "49.33"
 }, {
   "Id": 1432,
   "RaceID": 501,
@@ -14541,7 +15449,8 @@ all_units = [{
   "RealCost": 33.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 12.72
+  "Effectivity": 12.72,
+  "P": "49.17"
 }, {
   "Id": 1433,
   "RaceID": 501,
@@ -14557,7 +15466,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 10.36
+  "Effectivity": 10.36,
+  "P": "49.31"
 }, {
   "Id": 1434,
   "RaceID": 501,
@@ -14573,7 +15483,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 9,
   "Power": 4.42,
-  "Effectivity": 9.73
+  "Effectivity": 9.73,
+  "P": "55.86"
 }, {
   "Id": 1435,
   "RaceID": 501,
@@ -14589,7 +15500,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "56.69"
 }, {
   "Id": 1436,
   "RaceID": 501,
@@ -14605,7 +15517,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "56.53"
 }, {
   "Id": 1437,
   "RaceID": 501,
@@ -14621,7 +15534,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 8,
   "Power": 3.9,
-  "Effectivity": 8.72
+  "Effectivity": 8.72,
+  "P": "62.32"
 }, {
   "Id": 1438,
   "RaceID": 501,
@@ -14637,7 +15551,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 9,
   "Power": 4.16,
-  "Effectivity": 8.17
+  "Effectivity": 8.17,
+  "P": "60.44"
 }, {
   "Id": 1439,
   "RaceID": 501,
@@ -14653,7 +15568,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 10.06
+  "Effectivity": 10.06,
+  "P": "56.58"
 }, {
   "Id": 1440,
   "RaceID": 501,
@@ -14669,7 +15585,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 10.65
+  "Effectivity": 10.65,
+  "P": "56.20"
 }, {
   "Id": 1441,
   "RaceID": 501,
@@ -14685,7 +15602,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "56.86"
 }, {
   "Id": 1442,
   "RaceID": 501,
@@ -14701,7 +15619,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "56.50"
 }, {
   "Id": 1443,
   "RaceID": 501,
@@ -14717,7 +15636,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 10.58
+  "Effectivity": 10.58,
+  "P": "52.87"
 }, {
   "Id": 1444,
   "RaceID": 501,
@@ -14733,7 +15653,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 5,
   "Power": 3.38,
-  "Effectivity": 10.95
+  "Effectivity": 10.95,
+  "P": "53.06"
 }, {
   "Id": 1445,
   "RaceID": 501,
@@ -14749,7 +15670,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 4,
   "Power": 3.12,
-  "Effectivity": 10.26
+  "Effectivity": 10.26,
+  "P": "35.02"
 }, {
   "Id": 1446,
   "RaceID": 501,
@@ -14765,7 +15687,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 8.63
+  "Effectivity": 8.63,
+  "P": "62.46"
 }, {
   "Id": 1447,
   "RaceID": 501,
@@ -14781,7 +15704,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 3.5,
   "Power": 5.47,
-  "Effectivity": 7.68
+  "Effectivity": 7.68,
+  "P": "71.54"
 }, {
   "Id": 1448,
   "RaceID": 501,
@@ -14797,7 +15721,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 8.15
+  "Effectivity": 8.15,
+  "P": "41.62"
 }, {
   "Id": 1449,
   "RaceID": 501,
@@ -14813,7 +15738,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "62.79"
 }, {
   "Id": 1450,
   "RaceID": 501,
@@ -14829,7 +15755,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 9.14
+  "Effectivity": 9.14,
+  "P": "62.11"
 }, {
   "Id": 1451,
   "RaceID": 501,
@@ -14845,7 +15772,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1.5,
   "Power": 4.52,
-  "Effectivity": 8.63
+  "Effectivity": 8.63,
+  "P": "62.25"
 }, {
   "Id": 2579,
   "RaceID": 501,
@@ -14861,7 +15789,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 5.47,
-  "Effectivity": 7.31
+  "Effectivity": 7.31,
+  "P": "59.69"
 }, {
   "Id": 2580,
   "RaceID": 501,
@@ -14877,7 +15806,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 0.5,
   "Power": 4.05,
-  "Effectivity": 10.62
+  "Effectivity": 10.62,
+  "P": "62.38"
 }, {
   "Id": 1452,
   "RaceID": 501,
@@ -14893,7 +15823,8 @@ all_units = [{
   "RealCost": 55,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.46
+  "Effectivity": 7.46,
+  "P": "85.42"
 }, {
   "Id": 1453,
   "RaceID": 501,
@@ -14909,7 +15840,8 @@ all_units = [{
   "RealCost": 55,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.46
+  "Effectivity": 7.46,
+  "P": "85.22"
 }, {
   "Id": 1455,
   "RaceID": 501,
@@ -14925,7 +15857,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 9.82
+  "Effectivity": 9.82,
+  "P": "43.09"
 }, {
   "Id": 1456,
   "RaceID": 501,
@@ -14941,7 +15874,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 10.28
+  "Effectivity": 10.28,
+  "P": "27.82"
 }, {
   "Id": 1457,
   "RaceID": 501,
@@ -14957,7 +15891,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 8.7
+  "Effectivity": 8.7,
+  "P": "26.98"
 }, {
   "Id": 1458,
   "RaceID": 501,
@@ -14973,7 +15908,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 11.07
+  "Effectivity": 11.07,
+  "P": "27.09"
 }, {
   "Id": 1459,
   "RaceID": 501,
@@ -14989,7 +15925,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "27.40"
 }, {
   "Id": 1460,
   "RaceID": 501,
@@ -15005,7 +15942,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 10.18
+  "Effectivity": 10.18,
+  "P": "43.19"
 }, {
   "Id": 2921,
   "RaceID": 501,
@@ -15021,7 +15959,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 9.88
+  "Effectivity": 9.88,
+  "P": "27.00"
 }, {
   "Id": 1461,
   "RaceID": 501,
@@ -15037,7 +15976,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.57
+  "Effectivity": 8.57,
+  "P": "40.73"
 }, {
   "Id": 1462,
   "RaceID": 501,
@@ -15053,7 +15993,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 8.5,
   "Power": 2.9,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "46.21"
 }, {
   "Id": 1463,
   "RaceID": 501,
@@ -15069,7 +16010,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 8.1
+  "Effectivity": 8.1,
+  "P": "25.95"
 }, {
   "Id": 1464,
   "RaceID": 501,
@@ -15085,7 +16027,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 11.43
+  "Effectivity": 11.43,
+  "P": "40.59"
 }, {
   "Id": 1465,
   "RaceID": 501,
@@ -15101,7 +16044,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "40.98"
 }, {
   "Id": 1466,
   "RaceID": 501,
@@ -15117,7 +16061,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3.5,
   "Power": 1.9,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "40.44"
 }, {
   "Id": 1467,
   "RaceID": 501,
@@ -15133,7 +16078,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "40.76"
 }, {
   "Id": 2919,
   "RaceID": 501,
@@ -15149,7 +16095,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "40.45"
 }, {
   "Id": 1468,
   "RaceID": 501,
@@ -15165,7 +16112,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 6,
   "Power": 2.86,
-  "Effectivity": 10.84
+  "Effectivity": 10.84,
+  "P": "55.15"
 }, {
   "Id": 1469,
   "RaceID": 501,
@@ -15181,7 +16129,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6,
   "Power": 2.86,
-  "Effectivity": 10.49
+  "Effectivity": 10.49,
+  "P": "37.23"
 }, {
   "Id": 1470,
   "RaceID": 501,
@@ -15197,7 +16146,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 10,
   "Power": 3.74,
-  "Effectivity": 10.43
+  "Effectivity": 10.43,
+  "P": "59.01"
 }, {
   "Id": 1471,
   "RaceID": 501,
@@ -15213,7 +16163,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "55.62"
 }, {
   "Id": 1472,
   "RaceID": 501,
@@ -15229,7 +16180,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 6,
   "Power": 2.86,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "55.57"
 }, {
   "Id": 1473,
   "RaceID": 501,
@@ -15245,7 +16197,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "55.65"
 }, {
   "Id": 1474,
   "RaceID": 501,
@@ -15261,7 +16214,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 8.48
+  "Effectivity": 8.48,
+  "P": "41.08"
 }, {
   "Id": 1475,
   "RaceID": 501,
@@ -15277,7 +16231,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 3.64
+  "Effectivity": 3.64,
+  "P": "40.99"
 }, {
   "Id": 1476,
   "RaceID": 501,
@@ -15293,7 +16248,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 3.64
+  "Effectivity": 3.64,
+  "P": "41.05"
 }, {
   "Id": 1477,
   "RaceID": 501,
@@ -15309,7 +16265,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "26.17"
 }, {
   "Id": 1478,
   "RaceID": 501,
@@ -15325,7 +16282,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 8.48
+  "Effectivity": 8.48,
+  "P": "41.30"
 }, {
   "Id": 1479,
   "RaceID": 501,
@@ -15341,7 +16299,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "41.96"
 }, {
   "Id": 1480,
   "RaceID": 501,
@@ -15357,7 +16316,8 @@ all_units = [{
   "RealCost": 7.5,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 5.63
+  "Effectivity": 5.63,
+  "P": "25.92"
 }, {
   "Id": 1481,
   "RaceID": 501,
@@ -15373,7 +16333,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 4.33
+  "Effectivity": 4.33,
+  "P": "41.10"
 }, {
   "Id": 1482,
   "RaceID": 501,
@@ -15389,7 +16350,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 5.5,
   "Power": 2.53,
-  "Effectivity": 5.14
+  "Effectivity": 5.14,
+  "P": "38.89"
 }, {
   "Id": 1483,
   "RaceID": 501,
@@ -15405,7 +16367,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "40.89"
 }, {
   "Id": 1484,
   "RaceID": 501,
@@ -15421,7 +16384,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 12.59
+  "Effectivity": 12.59,
+  "P": "41.31"
 }, {
   "Id": 1485,
   "RaceID": 501,
@@ -15437,7 +16401,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 18.94
+  "Effectivity": 18.94,
+  "P": "41.53"
 }, {
   "Id": 1486,
   "RaceID": 501,
@@ -15453,7 +16418,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 20.45
+  "Effectivity": 20.45,
+  "P": "41.14"
 }, {
   "Id": 1487,
   "RaceID": 501,
@@ -15469,7 +16435,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 18.18
+  "Effectivity": 18.18,
+  "P": "26.56"
 }, {
   "Id": 1488,
   "RaceID": 501,
@@ -15485,7 +16452,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 19.7
+  "Effectivity": 19.7,
+  "P": "26.48"
 }, {
   "Id": 1489,
   "RaceID": 501,
@@ -15501,7 +16469,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 18.94
+  "Effectivity": 18.94,
+  "P": "41.55"
 }, {
   "Id": 1490,
   "RaceID": 501,
@@ -15517,7 +16486,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 20.45
+  "Effectivity": 20.45,
+  "P": "41.59"
 }, {
   "Id": 2923,
   "RaceID": 501,
@@ -15533,7 +16503,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 15.15
+  "Effectivity": 15.15,
+  "P": "26.62"
 }, {
   "Id": 1491,
   "RaceID": 501,
@@ -15549,7 +16520,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "40.66"
 }, {
   "Id": 1492,
   "RaceID": 501,
@@ -15565,7 +16537,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 12.38
+  "Effectivity": 12.38,
+  "P": "48.58"
 }, {
   "Id": 1493,
   "RaceID": 501,
@@ -15581,7 +16554,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "40.03"
 }, {
   "Id": 1494,
   "RaceID": 501,
@@ -15597,7 +16571,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6,
   "Power": 2.4,
-  "Effectivity": 8.75
+  "Effectivity": 8.75,
+  "P": "40.51"
 }, {
   "Id": 1495,
   "RaceID": 501,
@@ -15613,7 +16588,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.29"
 }, {
   "Id": 1496,
   "RaceID": 501,
@@ -15629,7 +16605,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 6.29
+  "Effectivity": 6.29,
+  "P": "41.51"
 }, {
   "Id": 1499,
   "RaceID": 501,
@@ -15645,7 +16622,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 8.18
+  "Effectivity": 8.18,
+  "P": "38.64"
 }, {
   "Id": 1500,
   "RaceID": 501,
@@ -15661,7 +16639,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1.5,
   "Power": 1.3,
-  "Effectivity": 11.54
+  "Effectivity": 11.54,
+  "P": "45.31"
 }, {
   "Id": 1501,
   "RaceID": 501,
@@ -15677,7 +16656,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 11.82
+  "Effectivity": 11.82,
+  "P": "38.87"
 }, {
   "Id": 1502,
   "RaceID": 501,
@@ -15693,7 +16673,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 4.5,
   "Power": 1.9,
-  "Effectivity": 8.95
+  "Effectivity": 8.95,
+  "P": "43.73"
 }, {
   "Id": 1503,
   "RaceID": 501,
@@ -15709,7 +16690,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "38.90"
 }, {
   "Id": 1504,
   "RaceID": 501,
@@ -15725,7 +16707,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 15.45
+  "Effectivity": 15.45,
+  "P": "39.01"
 }, {
   "Id": 1505,
   "RaceID": 501,
@@ -15741,7 +16724,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "38.96"
 }, {
   "Id": 1506,
   "RaceID": 501,
@@ -15757,7 +16741,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.1,
-  "Effectivity": 8.18
+  "Effectivity": 8.18,
+  "P": "38.87"
 }, {
   "Id": 1507,
   "RaceID": 501,
@@ -15773,7 +16758,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 10.8
+  "Effectivity": 10.8,
+  "P": "43.42"
 }, {
   "Id": 1508,
   "RaceID": 501,
@@ -15789,7 +16775,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "43.55"
 }, {
   "Id": 1509,
   "RaceID": 501,
@@ -15805,7 +16792,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 10.8
+  "Effectivity": 10.8,
+  "P": "43.38"
 }, {
   "Id": 1510,
   "RaceID": 501,
@@ -15821,7 +16809,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "43.48"
 }, {
   "Id": 1511,
   "RaceID": 501,
@@ -15837,7 +16826,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "43.49"
 }, {
   "Id": 1512,
   "RaceID": 501,
@@ -15853,7 +16843,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "43.46"
 }, {
   "Id": 1513,
   "RaceID": 501,
@@ -15869,7 +16860,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "43.23"
 }, {
   "Id": 1515,
   "RaceID": 501,
@@ -15885,7 +16877,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 10.26
+  "Effectivity": 10.26,
+  "P": "38.38"
 }, {
   "Id": 1516,
   "RaceID": 501,
@@ -15901,7 +16894,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 10.58
+  "Effectivity": 10.58,
+  "P": "56.60"
 }, {
   "Id": 1517,
   "RaceID": 501,
@@ -15917,7 +16911,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 10.9
+  "Effectivity": 10.9,
+  "P": "56.71"
 }, {
   "Id": 1518,
   "RaceID": 501,
@@ -15933,7 +16928,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 10.9
+  "Effectivity": 10.9,
+  "P": "56.36"
 }, {
   "Id": 2905,
   "RaceID": 501,
@@ -15949,7 +16945,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 9.62
+  "Effectivity": 9.62,
+  "P": "38.23"
 }, {
   "Id": 2906,
   "RaceID": 501,
@@ -15965,7 +16962,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 10.26
+  "Effectivity": 10.26,
+  "P": "56.41"
 }, {
   "Id": 1519,
   "RaceID": 501,
@@ -15981,7 +16979,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "44.14"
 }, {
   "Id": 1520,
   "RaceID": 501,
@@ -15997,7 +16996,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "51.06"
 }, {
   "Id": 1521,
   "RaceID": 501,
@@ -16013,7 +17013,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 11.74
+  "Effectivity": 11.74,
+  "P": "28.18"
 }, {
   "Id": 2909,
   "RaceID": 501,
@@ -16029,7 +17030,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "44.17"
 }, {
   "Id": 1522,
   "RaceID": 501,
@@ -16045,7 +17047,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 6.5,
   "Power": 3.77,
-  "Effectivity": 8.75
+  "Effectivity": 8.75,
+  "P": "60.77"
 }, {
   "Id": 1523,
   "RaceID": 501,
@@ -16061,7 +17064,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 7.5,
   "Power": 4.03,
-  "Effectivity": 8.19
+  "Effectivity": 8.19,
+  "P": "58.82"
 }, {
   "Id": 1524,
   "RaceID": 501,
@@ -16077,7 +17081,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 3.5,
   "Power": 2.99,
-  "Effectivity": 10.03
+  "Effectivity": 10.03,
+  "P": "59.67"
 }, {
   "Id": 1525,
   "RaceID": 501,
@@ -16093,7 +17098,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 3.25,
-  "Effectivity": 9.54
+  "Effectivity": 9.54,
+  "P": "59.68"
 }, {
   "Id": 1526,
   "RaceID": 501,
@@ -16109,7 +17115,8 @@ all_units = [{
   "RealCost": 50,
   "modBS": 5,
   "Power": 7.62,
-  "Effectivity": 9.32
+  "Effectivity": 9.32,
+  "P": "76.03"
 }, {
   "Id": 1528,
   "RaceID": 501,
@@ -16125,7 +17132,8 @@ all_units = [{
   "RealCost": 66,
   "modBS": 1,
   "Power": 8.64,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "74.77"
 }, {
   "Id": 1530,
   "RaceID": 501,
@@ -16141,7 +17149,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 4.5,
   "Power": 2.3,
-  "Effectivity": 9.13
+  "Effectivity": 9.13,
+  "P": "49.09"
 }, {
   "Id": 1531,
   "RaceID": 501,
@@ -16157,7 +17166,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4.5,
   "Power": 2.3,
-  "Effectivity": 8.7
+  "Effectivity": 8.7,
+  "P": "32.12"
 }, {
   "Id": 1532,
   "RaceID": 501,
@@ -16173,7 +17183,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 4.5,
   "Power": 2.3,
-  "Effectivity": 9.57
+  "Effectivity": 9.57,
+  "P": "49.65"
 }, {
   "Id": 1533,
   "RaceID": 501,
@@ -16189,7 +17200,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2.5,
   "Power": 1.87,
-  "Effectivity": 10.16
+  "Effectivity": 10.16,
+  "P": "41.35"
 }, {
   "Id": 1535,
   "RaceID": 501,
@@ -16205,7 +17217,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 11.92
+  "Effectivity": 11.92,
+  "P": "51.81"
 }, {
   "Id": 1536,
   "RaceID": 501,
@@ -16221,7 +17234,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 2,
   "Power": 2.34,
-  "Effectivity": 14.53
+  "Effectivity": 14.53,
+  "P": "42.33"
 }, {
   "Id": 1537,
   "RaceID": 501,
@@ -16237,7 +17251,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1.5,
   "Power": 2.21,
-  "Effectivity": 11.31
+  "Effectivity": 11.31,
+  "P": "28.41"
 }, {
   "Id": 1538,
   "RaceID": 501,
@@ -16253,7 +17268,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1.5,
   "Power": 2.21,
-  "Effectivity": 10.86
+  "Effectivity": 10.86,
+  "P": "28.48"
 }, {
   "Id": 1539,
   "RaceID": 501,
@@ -16269,7 +17285,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.32"
 }, {
   "Id": 1540,
   "RaceID": 501,
@@ -16285,7 +17302,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.69"
 }, {
   "Id": 1541,
   "RaceID": 501,
@@ -16301,7 +17319,8 @@ all_units = [{
   "RealCost": 122,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.41"
 }, {
   "Id": 1542,
   "RaceID": 501,
@@ -16317,7 +17336,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.56,
-  "Effectivity": 13.46
+  "Effectivity": 13.46,
+  "P": "42.11"
 }, {
   "Id": 1543,
   "RaceID": 501,
@@ -16333,7 +17353,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 1.5,
   "Power": 2.28,
-  "Effectivity": 13.16
+  "Effectivity": 13.16,
+  "P": "46.25"
 }, {
   "Id": 1544,
   "RaceID": 501,
@@ -16349,7 +17370,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 1.5,
   "Power": 2.28,
-  "Effectivity": 13.16
+  "Effectivity": 13.16,
+  "P": "46.23"
 }, {
   "Id": 1546,
   "RaceID": 501,
@@ -16365,7 +17387,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 5,
   "Power": 2.42,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "26.44"
 }, {
   "Id": 2939,
   "RaceID": 501,
@@ -16381,7 +17404,8 @@ all_units = [{
   "RealCost": 33,
   "modBS": 5,
   "Power": 2.42,
-  "Effectivity": 15.29
+  "Effectivity": 15.29,
+  "P": "40.87"
 }, {
   "Id": 1547,
   "RaceID": 501,
@@ -16397,7 +17421,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12.5,
   "Power": 5.59,
-  "Effectivity": 7.87
+  "Effectivity": 7.87,
+  "P": "72.45"
 }, {
   "Id": 1548,
   "RaceID": 501,
@@ -16413,7 +17438,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12.5,
   "Power": 5.59,
-  "Effectivity": 7.87
+  "Effectivity": 7.87,
+  "P": "72.42"
 }, {
   "Id": 2924,
   "RaceID": 501,
@@ -16429,7 +17455,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 12.5,
   "Power": 5.59,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "77.31"
 }, {
   "Id": 2925,
   "RaceID": 501,
@@ -16445,7 +17472,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 12.5,
   "Power": 5.59,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "77.59"
 }, {
   "Id": 1549,
   "RaceID": 501,
@@ -16461,7 +17489,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "46.34"
 }, {
   "Id": 1550,
   "RaceID": 501,
@@ -16477,7 +17506,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 7.87
+  "Effectivity": 7.87,
+  "P": "30.30"
 }, {
   "Id": 1551,
   "RaceID": 501,
@@ -16493,7 +17523,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 2.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "43.53"
 }, {
   "Id": 1552,
   "RaceID": 501,
@@ -16509,7 +17540,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "53.48"
 }, {
   "Id": 1553,
   "RaceID": 501,
@@ -16525,7 +17557,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 11.57
+  "Effectivity": 11.57,
+  "P": "46.29"
 }, {
   "Id": 1554,
   "RaceID": 501,
@@ -16541,7 +17574,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 10.65
+  "Effectivity": 10.65,
+  "P": "46.45"
 }, {
   "Id": 1556,
   "RaceID": 501,
@@ -16557,7 +17591,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 1,
   "Power": 2.16,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "46.47"
 }, {
   "Id": 1557,
   "RaceID": 501,
@@ -16573,7 +17608,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 2.5,
   "Power": 4.64,
-  "Effectivity": 6.25
+  "Effectivity": 6.25,
+  "P": "63.06"
 }, {
   "Id": 1558,
   "RaceID": 501,
@@ -16589,7 +17625,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 2.5,
   "Power": 4.64,
-  "Effectivity": 5.82
+  "Effectivity": 5.82,
+  "P": "42.04"
 }, {
   "Id": 1559,
   "RaceID": 501,
@@ -16605,7 +17642,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 6.3
+  "Effectivity": 6.3,
+  "P": "62.96"
 }, {
   "Id": 1560,
   "RaceID": 501,
@@ -16621,7 +17659,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 3.5,
   "Power": 5.08,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "70.42"
 }, {
   "Id": 2912,
   "RaceID": 501,
@@ -16637,7 +17676,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 2.5,
   "Power": 4.64,
-  "Effectivity": 6.47
+  "Effectivity": 6.47,
+  "P": "42.08"
 }, {
   "Id": 2913,
   "RaceID": 501,
@@ -16653,7 +17693,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 5.5,
   "Power": 5.97,
-  "Effectivity": 5.53
+  "Effectivity": 5.53,
+  "P": "60.04"
 }, {
   "Id": 2914,
   "RaceID": 501,
@@ -16669,7 +17710,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 2.5,
   "Power": 4.64,
-  "Effectivity": 6.47
+  "Effectivity": 6.47,
+  "P": "62.84"
 }, {
   "Id": 1561,
   "RaceID": 501,
@@ -16685,7 +17727,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 3,
   "Power": 7.92,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "70.65"
 }, {
   "Id": 1562,
   "RaceID": 501,
@@ -16701,7 +17744,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 2,
   "Power": 7.2,
-  "Effectivity": 7.5
+  "Effectivity": 7.5,
+  "P": "78.21"
 }, {
   "Id": 1564,
   "RaceID": 501,
@@ -16717,7 +17761,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 6.39
+  "Effectivity": 6.39,
+  "P": "50.40"
 }, {
   "Id": 1565,
   "RaceID": 501,
@@ -16733,7 +17778,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 13.07
+  "Effectivity": 13.07,
+  "P": "43.34"
 }, {
   "Id": 1566,
   "RaceID": 501,
@@ -16749,7 +17795,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 11.16
+  "Effectivity": 11.16,
+  "P": "52.14"
 }, {
   "Id": 1567,
   "RaceID": 501,
@@ -16765,7 +17812,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "49.20"
 }, {
   "Id": 1568,
   "RaceID": 501,
@@ -16781,7 +17829,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 17.61
+  "Effectivity": 17.61,
+  "P": "43.31"
 }, {
   "Id": 1569,
   "RaceID": 501,
@@ -16797,7 +17846,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 14.2
+  "Effectivity": 14.2,
+  "P": "43.34"
 }, {
   "Id": 1570,
   "RaceID": 501,
@@ -16813,7 +17863,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 13.07
+  "Effectivity": 13.07,
+  "P": "43.34"
 }, {
   "Id": 1571,
   "RaceID": 501,
@@ -16829,7 +17880,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.31"
 }, {
   "Id": 1572,
   "RaceID": 501,
@@ -16845,7 +17897,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.76"
 }, {
   "Id": 1573,
   "RaceID": 501,
@@ -16861,7 +17914,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.44"
 }, {
   "Id": 1574,
   "RaceID": 501,
@@ -16877,7 +17931,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.79"
 }, {
   "Id": 1575,
   "RaceID": 501,
@@ -16893,7 +17948,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.70"
 }, {
   "Id": 1576,
   "RaceID": 501,
@@ -16909,7 +17965,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "33.06"
 }, {
   "Id": 1577,
   "RaceID": 501,
@@ -16925,7 +17982,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.79"
 }, {
   "Id": 1578,
   "RaceID": 501,
@@ -16941,7 +17999,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.35"
 }, {
   "Id": 2425,
   "RaceID": 501,
@@ -16957,7 +18016,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.52"
 }, {
   "Id": 2426,
   "RaceID": 501,
@@ -16973,7 +18033,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.08"
 }, {
   "Id": 2703,
   "RaceID": 501,
@@ -16989,7 +18050,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.71"
 }, {
   "Id": 2704,
   "RaceID": 501,
@@ -17005,7 +18067,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.09"
 }, {
   "Id": 2705,
   "RaceID": 501,
@@ -17021,7 +18084,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.41"
 }, {
   "Id": 2706,
   "RaceID": 501,
@@ -17037,7 +18101,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.69"
 }, {
   "Id": 3200,
   "RaceID": 501,
@@ -17053,7 +18118,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.70"
 }, {
   "Id": 2928,
   "RaceID": 501,
@@ -17069,7 +18135,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 5,
   "Power": 6.63,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "72.63"
 }, {
   "Id": 2929,
   "RaceID": 501,
@@ -17085,7 +18152,8 @@ all_units = [{
   "RealCost": 29,
   "modBS": 2,
   "Power": 5.1,
-  "Effectivity": 8.43
+  "Effectivity": 8.43,
+  "P": "42.70"
 }, {
   "Id": 2930,
   "RaceID": 501,
@@ -17101,7 +18169,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 3,
   "Power": 5.61,
-  "Effectivity": 8.38
+  "Effectivity": 8.38,
+  "P": "41.78"
 }, {
   "Id": 2931,
   "RaceID": 501,
@@ -17117,7 +18186,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 2,
   "Power": 5.1,
-  "Effectivity": 10.39
+  "Effectivity": 10.39,
+  "P": "60.72"
 }, {
   "Id": 2932,
   "RaceID": 501,
@@ -17133,7 +18203,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 2,
   "Power": 5.1,
-  "Effectivity": 10.39
+  "Effectivity": 10.39,
+  "P": "60.80"
 }, {
   "Id": 3274,
   "RaceID": 501,
@@ -17149,7 +18220,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.49"
 }, {
   "Id": 3344,
   "RaceID": 501,
@@ -17165,7 +18237,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.67"
 }, {
   "Id": 3366,
   "RaceID": 501,
@@ -17181,7 +18254,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "37.78"
 }, {
   "Id": 3407,
   "RaceID": 501,
@@ -17197,7 +18271,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "37.66"
 }, {
   "Id": 3431,
   "RaceID": 501,
@@ -17213,7 +18288,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "45.19"
 }, {
   "Id": 3528,
   "RaceID": 501,
@@ -17229,7 +18305,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "58.68"
 }, {
   "Id": 2392,
   "RaceID": 501,
@@ -17245,7 +18322,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "41.22"
 }, {
   "Id": 2393,
   "RaceID": 501,
@@ -17261,7 +18339,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "41.38"
 }, {
   "Id": 1742,
   "RaceID": 601,
@@ -17277,7 +18356,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.39"
 }, {
   "Id": 1743,
   "RaceID": 601,
@@ -17293,7 +18373,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "50.04"
 }, {
   "Id": 1744,
   "RaceID": 601,
@@ -17309,7 +18390,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "41.37"
 }, {
   "Id": 1745,
   "RaceID": 601,
@@ -17325,7 +18407,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "46.46"
 }, {
   "Id": 1746,
   "RaceID": 601,
@@ -17341,7 +18424,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 3,
   "Power": 1.98,
-  "Effectivity": 9.6
+  "Effectivity": 9.6,
+  "P": "38.87"
 }, {
   "Id": 1747,
   "RaceID": 601,
@@ -17357,7 +18441,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 16.67
+  "Effectivity": 16.67,
+  "P": "41.28"
 }, {
   "Id": 1748,
   "RaceID": 601,
@@ -17373,7 +18458,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "41.01"
 }, {
   "Id": 1749,
   "RaceID": 601,
@@ -17389,7 +18475,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "41.14"
 }, {
   "Id": 1750,
   "RaceID": 601,
@@ -17405,7 +18492,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.60"
 }, {
   "Id": 1751,
   "RaceID": 601,
@@ -17421,7 +18509,8 @@ all_units = [{
   "RealCost": 3.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 4.9
+  "Effectivity": 4.9,
+  "P": "41.50"
 }, {
   "Id": 1752,
   "RaceID": 601,
@@ -17437,7 +18526,8 @@ all_units = [{
   "RealCost": 5.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 5.59
+  "Effectivity": 5.59,
+  "P": "42.20"
 }, {
   "Id": 1753,
   "RaceID": 601,
@@ -17453,7 +18543,8 @@ all_units = [{
   "RealCost": 6.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 5.94
+  "Effectivity": 5.94,
+  "P": "42.42"
 }, {
   "Id": 1754,
   "RaceID": 601,
@@ -17469,7 +18560,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 10,
   "Power": 3.52,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "49.38"
 }, {
   "Id": 1755,
   "RaceID": 601,
@@ -17485,7 +18577,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 6.99
+  "Effectivity": 6.99,
+  "P": "26.15"
 }, {
   "Id": 1756,
   "RaceID": 601,
@@ -17501,7 +18594,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 5,
   "Power": 2.42,
-  "Effectivity": 7.44
+  "Effectivity": 7.44,
+  "P": "47.68"
 }, {
   "Id": 1757,
   "RaceID": 601,
@@ -17517,7 +18611,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 5.24
+  "Effectivity": 5.24,
+  "P": "41.32"
 }, {
   "Id": 1758,
   "RaceID": 601,
@@ -17533,7 +18628,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "43.30"
 }, {
   "Id": 1759,
   "RaceID": 601,
@@ -17549,7 +18645,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 11.07
+  "Effectivity": 11.07,
+  "P": "27.78"
 }, {
   "Id": 1760,
   "RaceID": 601,
@@ -17565,7 +18662,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 5.5,
   "Power": 2.75,
-  "Effectivity": 12.73
+  "Effectivity": 12.73,
+  "P": "50.03"
 }, {
   "Id": 1761,
   "RaceID": 601,
@@ -17581,7 +18679,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 4.5,
   "Power": 2.53,
-  "Effectivity": 13.83
+  "Effectivity": 13.83,
+  "P": "43.41"
 }, {
   "Id": 1762,
   "RaceID": 601,
@@ -17597,7 +18696,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 13,
   "Power": 4.4,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "64.09"
 }, {
   "Id": 1763,
   "RaceID": 601,
@@ -17613,7 +18713,8 @@ all_units = [{
   "RealCost": 27.5,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 10.35
+  "Effectivity": 10.35,
+  "P": "69.55"
 }, {
   "Id": 1764,
   "RaceID": 601,
@@ -17629,7 +18730,8 @@ all_units = [{
   "RealCost": 32.5,
   "modBS": 10,
   "Power": 3.74,
-  "Effectivity": 11.5
+  "Effectivity": 11.5,
+  "P": "42.76"
 }, {
   "Id": 1765,
   "RaceID": 601,
@@ -17645,7 +18747,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 13,
   "Power": 4.4,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "64.01"
 }, {
   "Id": 1766,
   "RaceID": 601,
@@ -17661,7 +18764,8 @@ all_units = [{
   "RealCost": 27.5,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 10.35
+  "Effectivity": 10.35,
+  "P": "69.77"
 }, {
   "Id": 1767,
   "RaceID": 601,
@@ -17677,7 +18781,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 3.5,
   "Power": 2.52,
-  "Effectivity": 11.51
+  "Effectivity": 11.51,
+  "P": "45.66"
 }, {
   "Id": 1768,
   "RaceID": 601,
@@ -17693,7 +18798,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 6.5,
   "Power": 3.24,
-  "Effectivity": 10.19
+  "Effectivity": 10.19,
+  "P": "55.30"
 }, {
   "Id": 1769,
   "RaceID": 601,
@@ -17709,7 +18815,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 3.5,
   "Power": 2.52,
-  "Effectivity": 10.32
+  "Effectivity": 10.32,
+  "P": "29.62"
 }, {
   "Id": 1770,
   "RaceID": 601,
@@ -17725,7 +18832,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 7.5,
   "Power": 3.48,
-  "Effectivity": 9.48
+  "Effectivity": 9.48,
+  "P": "52.55"
 }, {
   "Id": 1771,
   "RaceID": 601,
@@ -17741,7 +18849,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 3.5,
   "Power": 2.52,
-  "Effectivity": 13.49
+  "Effectivity": 13.49,
+  "P": "29.57"
 }, {
   "Id": 1772,
   "RaceID": 601,
@@ -17757,7 +18866,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 3.5,
   "Power": 2.52,
-  "Effectivity": 11.51
+  "Effectivity": 11.51,
+  "P": "45.95"
 }, {
   "Id": 1773,
   "RaceID": 601,
@@ -17773,7 +18883,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10.83
+  "Effectivity": 10.83,
+  "P": "50.28"
 }, {
   "Id": 1774,
   "RaceID": 601,
@@ -17789,7 +18900,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.65
+  "Effectivity": 8.65,
+  "P": "58.03"
 }, {
   "Id": 1775,
   "RaceID": 601,
@@ -17805,7 +18917,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "32.93"
 }, {
   "Id": 1776,
   "RaceID": 601,
@@ -17821,7 +18934,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 8.97
+  "Effectivity": 8.97,
+  "P": "32.46"
 }, {
   "Id": 1777,
   "RaceID": 601,
@@ -17837,7 +18951,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "33.20"
 }, {
   "Id": 1778,
   "RaceID": 601,
@@ -17853,7 +18968,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 4,
   "Power": 2.64,
-  "Effectivity": 9.47
+  "Effectivity": 9.47,
+  "P": "33.23"
 }, {
   "Id": 1779,
   "RaceID": 601,
@@ -17869,7 +18985,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.4,
-  "Effectivity": 10.83
+  "Effectivity": 10.83,
+  "P": "50.32"
 }, {
   "Id": 1780,
   "RaceID": 601,
@@ -17885,7 +19002,8 @@ all_units = [{
   "RealCost": 52.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "76.31"
 }, {
   "Id": 1781,
   "RaceID": 601,
@@ -17901,7 +19019,8 @@ all_units = [{
   "RealCost": 53.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "84.65"
 }, {
   "Id": 1782,
   "RaceID": 601,
@@ -17917,7 +19036,8 @@ all_units = [{
   "RealCost": 52.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "73.91"
 }, {
   "Id": 1783,
   "RaceID": 601,
@@ -17933,7 +19053,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "73.75"
 }, {
   "Id": 1784,
   "RaceID": 601,
@@ -17949,7 +19070,8 @@ all_units = [{
   "RealCost": 52.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "76.23"
 }, {
   "Id": 1785,
   "RaceID": 601,
@@ -17965,7 +19087,8 @@ all_units = [{
   "RealCost": 53.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "84.86"
 }, {
   "Id": 1786,
   "RaceID": 601,
@@ -17981,7 +19104,8 @@ all_units = [{
   "RealCost": 51.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.39
+  "Effectivity": 8.39,
+  "P": "73.91"
 }, {
   "Id": 1787,
   "RaceID": 601,
@@ -17997,7 +19121,8 @@ all_units = [{
   "RealCost": 52.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 8.5
+  "Effectivity": 8.5,
+  "P": "73.99"
 }, {
   "Id": 1788,
   "RaceID": 601,
@@ -18013,7 +19138,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 9,
   "Power": 9.18,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "73.63"
 }, {
   "Id": 1789,
   "RaceID": 601,
@@ -18029,7 +19155,8 @@ all_units = [{
   "RealCost": 59,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.8
+  "Effectivity": 7.8,
+  "P": "85.21"
 }, {
   "Id": 1790,
   "RaceID": 601,
@@ -18045,7 +19172,8 @@ all_units = [{
   "RealCost": 58,
   "modBS": 4.5,
   "Power": 11.66,
-  "Effectivity": 7.72
+  "Effectivity": 7.72,
+  "P": "85.39"
 }, {
   "Id": 1792,
   "RaceID": 601,
@@ -18061,7 +19189,8 @@ all_units = [{
   "RealCost": 99.5,
   "modBS": 9,
   "Power": 17.33,
-  "Effectivity": 7.91
+  "Effectivity": 7.91,
+  "P": "90.33"
 }, {
   "Id": 1793,
   "RaceID": 601,
@@ -18077,7 +19206,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "42.76"
 }, {
   "Id": 1794,
   "RaceID": 601,
@@ -18093,7 +19223,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 9.58
+  "Effectivity": 9.58,
+  "P": "27.42"
 }, {
   "Id": 1795,
   "RaceID": 601,
@@ -18109,7 +19240,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 8,
   "Power": 3,
-  "Effectivity": 10.33
+  "Effectivity": 10.33,
+  "P": "48.38"
 }, {
   "Id": 1796,
   "RaceID": 601,
@@ -18125,7 +19257,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "42.76"
 }, {
   "Id": 1797,
   "RaceID": 601,
@@ -18141,7 +19274,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "42.99"
 }, {
   "Id": 1798,
   "RaceID": 601,
@@ -18157,7 +19291,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 5,
   "Power": 2.4,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "42.60"
 }, {
   "Id": 1799,
   "RaceID": 601,
@@ -18173,7 +19308,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 11.78
+  "Effectivity": 11.78,
+  "P": "55.47"
 }, {
   "Id": 1800,
   "RaceID": 601,
@@ -18189,7 +19325,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 12.79
+  "Effectivity": 12.79,
+  "P": "55.64"
 }, {
   "Id": 1801,
   "RaceID": 601,
@@ -18205,7 +19342,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 11.45
+  "Effectivity": 11.45,
+  "P": "37.36"
 }, {
   "Id": 1802,
   "RaceID": 601,
@@ -18221,7 +19359,8 @@ all_units = [{
   "RealCost": 27.5,
   "modBS": 9.5,
   "Power": 3.63,
-  "Effectivity": 11.57
+  "Effectivity": 11.57,
+  "P": "58.69"
 }, {
   "Id": 1803,
   "RaceID": 601,
@@ -18237,7 +19376,8 @@ all_units = [{
   "RealCost": 31.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 13.8
+  "Effectivity": 13.8,
+  "P": "55.29"
 }, {
   "Id": 1804,
   "RaceID": 601,
@@ -18253,7 +19393,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 12.12
+  "Effectivity": 12.12,
+  "P": "55.76"
 }, {
   "Id": 1805,
   "RaceID": 601,
@@ -18269,7 +19410,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 11.78
+  "Effectivity": 11.78,
+  "P": "55.65"
 }, {
   "Id": 1806,
   "RaceID": 601,
@@ -18285,7 +19427,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 2.5,
   "Power": 2.09,
-  "Effectivity": 16.75
+  "Effectivity": 16.75,
+  "P": "43.30"
 }, {
   "Id": 1807,
   "RaceID": 601,
@@ -18301,7 +19444,8 @@ all_units = [{
   "RealCost": 31,
   "modBS": 2.5,
   "Power": 2.09,
-  "Effectivity": 16.27
+  "Effectivity": 16.27,
+  "P": "27.92"
 }, {
   "Id": 1808,
   "RaceID": 601,
@@ -18317,7 +19461,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 10.05
+  "Effectivity": 10.05,
+  "P": "47.97"
 }, {
   "Id": 1809,
   "RaceID": 601,
@@ -18333,7 +19478,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 10.05
+  "Effectivity": 10.05,
+  "P": "48.00"
 }, {
   "Id": 1810,
   "RaceID": 601,
@@ -18349,7 +19495,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 10.53
+  "Effectivity": 10.53,
+  "P": "47.92"
 }, {
   "Id": 1811,
   "RaceID": 601,
@@ -18365,7 +19512,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 6.7
+  "Effectivity": 6.7,
+  "P": "47.96"
 }, {
   "Id": 1812,
   "RaceID": 601,
@@ -18381,7 +19529,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 9.57
+  "Effectivity": 9.57,
+  "P": "30.87"
 }, {
   "Id": 1813,
   "RaceID": 601,
@@ -18397,7 +19546,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 10.05
+  "Effectivity": 10.05,
+  "P": "47.95"
 }, {
   "Id": 1814,
   "RaceID": 601,
@@ -18413,7 +19563,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -8.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "32.71"
 }, {
   "Id": 1815,
   "RaceID": 601,
@@ -18429,7 +19580,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 5,
   "Power": 1.8,
-  "Effectivity": 3.89
+  "Effectivity": 3.89,
+  "P": "34.76"
 }, {
   "Id": 1816,
   "RaceID": 601,
@@ -18445,7 +19597,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 13.94
+  "Effectivity": 13.94,
+  "P": "41.21"
 }, {
   "Id": 1817,
   "RaceID": 601,
@@ -18461,7 +19614,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "40.64"
 }, {
   "Id": 1818,
   "RaceID": 601,
@@ -18477,7 +19631,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 6.5,
   "Power": 2.5,
-  "Effectivity": 10.4
+  "Effectivity": 10.4,
+  "P": "54.54"
 }, {
   "Id": 1819,
   "RaceID": 601,
@@ -18493,7 +19648,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 6.5,
   "Power": 2.5,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "49.29"
 }, {
   "Id": 1820,
   "RaceID": 601,
@@ -18509,7 +19665,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "39.74"
 }, {
   "Id": 1821,
   "RaceID": 601,
@@ -18525,7 +19682,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3,
   "Power": 1.2,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.22"
 }, {
   "Id": 1822,
   "RaceID": 601,
@@ -18541,7 +19699,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": -0.96,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.70"
 }, {
   "Id": 1823,
   "RaceID": 601,
@@ -18557,7 +19716,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": -0.96,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.77"
 }, {
   "Id": 1824,
   "RaceID": 601,
@@ -18573,7 +19733,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1,
   "Power": -0.96,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.53"
 }, {
   "Id": 1825,
   "RaceID": 601,
@@ -18589,7 +19750,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": -0.96,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.92"
 }, {
   "Id": 1826,
   "RaceID": 601,
@@ -18605,7 +19767,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 4.5,
   "Power": -0.12,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1830,
   "RaceID": 601,
@@ -18621,7 +19784,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 7.34
+  "Effectivity": 7.34,
+  "P": "52.48"
 }, {
   "Id": 1831,
   "RaceID": 601,
@@ -18637,7 +19801,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 7,
   "Power": 2.86,
-  "Effectivity": 8.04
+  "Effectivity": 8.04,
+  "P": "52.80"
 }, {
   "Id": 1832,
   "RaceID": 601,
@@ -18653,7 +19818,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 11.82
+  "Effectivity": 11.82,
+  "P": "43.41"
 }, {
   "Id": 1833,
   "RaceID": 601,
@@ -18669,7 +19835,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "27.94"
 }, {
   "Id": 1834,
   "RaceID": 601,
@@ -18685,7 +19852,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 12.81
+  "Effectivity": 12.81,
+  "P": "50.19"
 }, {
   "Id": 1835,
   "RaceID": 601,
@@ -18701,7 +19869,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3,
   "Power": 2.2,
-  "Effectivity": 11.82
+  "Effectivity": 11.82,
+  "P": "43.50"
 }, {
   "Id": 1836,
   "RaceID": 601,
@@ -18717,7 +19886,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 8,
   "Power": 3.3,
-  "Effectivity": 7.27
+  "Effectivity": 7.27,
+  "P": "55.32"
 }, {
   "Id": 1837,
   "RaceID": 601,
@@ -18733,7 +19903,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 9,
   "Power": 3.52,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "60.71"
 }, {
   "Id": 1838,
   "RaceID": 601,
@@ -18749,7 +19920,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "52.92"
 }, {
   "Id": 1839,
   "RaceID": 601,
@@ -18765,7 +19937,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 8,
   "Power": 3.3,
-  "Effectivity": 9.7
+  "Effectivity": 9.7,
+  "P": "55.39"
 }, {
   "Id": 1840,
   "RaceID": 601,
@@ -18781,7 +19954,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 8,
   "Power": 3.3,
-  "Effectivity": 7.27
+  "Effectivity": 7.27,
+  "P": "55.56"
 }, {
   "Id": 1841,
   "RaceID": 601,
@@ -18797,7 +19971,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 16.97
+  "Effectivity": 16.97,
+  "P": "38.74"
 }, {
   "Id": 1842,
   "RaceID": 601,
@@ -18813,7 +19988,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 10.3
+  "Effectivity": 10.3,
+  "P": "26.22"
 }, {
   "Id": 1843,
   "RaceID": 601,
@@ -18829,7 +20005,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 13.94
+  "Effectivity": 13.94,
+  "P": "47.83"
 }, {
   "Id": 1844,
   "RaceID": 601,
@@ -18845,7 +20022,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 2,
   "Power": 2.34,
-  "Effectivity": 15.38
+  "Effectivity": 15.38,
+  "P": "46.54"
 }, {
   "Id": 1845,
   "RaceID": 601,
@@ -18861,7 +20039,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 11.15
+  "Effectivity": 11.15,
+  "P": "47.35"
 }, {
   "Id": 1846,
   "RaceID": 601,
@@ -18877,7 +20056,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 2,
   "Power": 2.34,
-  "Effectivity": 11.54
+  "Effectivity": 11.54,
+  "P": "30.46"
 }, {
   "Id": 1847,
   "RaceID": 601,
@@ -18893,7 +20073,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 10.06
+  "Effectivity": 10.06,
+  "P": "53.36"
 }, {
   "Id": 1848,
   "RaceID": 601,
@@ -18909,7 +20090,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 12.31
+  "Effectivity": 12.31,
+  "P": "54.30"
 }, {
   "Id": 1849,
   "RaceID": 601,
@@ -18925,7 +20107,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 3,
   "Power": 2.6,
-  "Effectivity": 11.15
+  "Effectivity": 11.15,
+  "P": "46.74"
 }, {
   "Id": 1850,
   "RaceID": 601,
@@ -18941,7 +20124,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 4.5,
   "Power": 2.76,
-  "Effectivity": 10.51
+  "Effectivity": 10.51,
+  "P": "43.91"
 }, {
   "Id": 1851,
   "RaceID": 601,
@@ -18957,7 +20141,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 4.5,
   "Power": 2.76,
-  "Effectivity": 10.14
+  "Effectivity": 10.14,
+  "P": "28.30"
 }, {
   "Id": 1852,
   "RaceID": 601,
@@ -18973,7 +20158,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 4.5,
   "Power": 2.76,
-  "Effectivity": 11.23
+  "Effectivity": 11.23,
+  "P": "44.03"
 }, {
   "Id": 1853,
   "RaceID": 601,
@@ -18989,7 +20175,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 5.5,
   "Power": 3,
-  "Effectivity": 11.33
+  "Effectivity": 11.33,
+  "P": "51.31"
 }, {
   "Id": 1854,
   "RaceID": 601,
@@ -19005,7 +20192,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3.5,
   "Power": 2.76,
-  "Effectivity": 9.42
+  "Effectivity": 9.42,
+  "P": "52.40"
 }, {
   "Id": 1855,
   "RaceID": 601,
@@ -19021,7 +20209,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2.5,
   "Power": 2.52,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "34.49"
 }, {
   "Id": 1856,
   "RaceID": 601,
@@ -19037,7 +20226,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 3.5,
   "Power": 2.76,
-  "Effectivity": 10.14
+  "Effectivity": 10.14,
+  "P": "58.76"
 }, {
   "Id": 1857,
   "RaceID": 601,
@@ -19053,7 +20243,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2.5,
   "Power": 2.52,
-  "Effectivity": 10.71
+  "Effectivity": 10.71,
+  "P": "34.56"
 }, {
   "Id": 1858,
   "RaceID": 601,
@@ -19069,7 +20260,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3.5,
   "Power": 2.76,
-  "Effectivity": 9.42
+  "Effectivity": 9.42,
+  "P": "52.49"
 }, {
   "Id": 1859,
   "RaceID": 601,
@@ -19085,7 +20277,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2.5,
   "Power": 2.52,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "34.69"
 }, {
   "Id": 1860,
   "RaceID": 601,
@@ -19101,7 +20294,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 3.5,
   "Power": 2.76,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "49.72"
 }, {
   "Id": 1861,
   "RaceID": 601,
@@ -19117,7 +20311,8 @@ all_units = [{
   "RealCost": 33.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "67.80"
 }, {
   "Id": 1862,
   "RaceID": 601,
@@ -19133,7 +20328,8 @@ all_units = [{
   "RealCost": 34.5,
   "modBS": 10,
   "Power": 4.68,
-  "Effectivity": 10.9
+  "Effectivity": 10.9,
+  "P": "73.17"
 }, {
   "Id": 1863,
   "RaceID": 601,
@@ -19149,7 +20345,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 12.31
+  "Effectivity": 12.31,
+  "P": "67.63"
 }, {
   "Id": 1864,
   "RaceID": 601,
@@ -19165,7 +20362,8 @@ all_units = [{
   "RealCost": 41.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 11.54
+  "Effectivity": 11.54,
+  "P": "67.44"
 }, {
   "Id": 1865,
   "RaceID": 601,
@@ -19181,7 +20379,8 @@ all_units = [{
   "RealCost": 33.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "67.48"
 }, {
   "Id": 1866,
   "RaceID": 601,
@@ -19197,7 +20396,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 12.31
+  "Effectivity": 12.31,
+  "P": "67.59"
 }, {
   "Id": 1867,
   "RaceID": 601,
@@ -19213,7 +20413,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 3.5,
   "Power": 6.26,
-  "Effectivity": 8.95
+  "Effectivity": 8.95,
+  "P": "74.86"
 }, {
   "Id": 1868,
   "RaceID": 601,
@@ -19229,7 +20430,8 @@ all_units = [{
   "RealCost": 42,
   "modBS": 0.5,
   "Power": 4.62,
-  "Effectivity": 12.34
+  "Effectivity": 12.34,
+  "P": "61.92"
 }, {
   "Id": 1869,
   "RaceID": 601,
@@ -19245,7 +20447,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 3.5,
   "Power": 6.26,
-  "Effectivity": 8.95
+  "Effectivity": 8.95,
+  "P": "74.79"
 }, {
   "Id": 1870,
   "RaceID": 601,
@@ -19261,7 +20464,8 @@ all_units = [{
   "RealCost": 42,
   "modBS": 0.5,
   "Power": 4.62,
-  "Effectivity": 12.34
+  "Effectivity": 12.34,
+  "P": "61.93"
 }, {
   "Id": 1871,
   "RaceID": 601,
@@ -19277,7 +20481,8 @@ all_units = [{
   "RealCost": 54,
   "modBS": 13,
   "Power": 10.71,
-  "Effectivity": 7.66
+  "Effectivity": 7.66,
+  "P": "78.85"
 }, {
   "Id": 1872,
   "RaceID": 601,
@@ -19293,7 +20498,8 @@ all_units = [{
   "RealCost": 55,
   "modBS": 11,
   "Power": 9.69,
-  "Effectivity": 8.36
+  "Effectivity": 8.36,
+  "P": "83.28"
 }, {
   "Id": 1873,
   "RaceID": 601,
@@ -19309,7 +20515,8 @@ all_units = [{
   "RealCost": 60,
   "modBS": 13,
   "Power": 10.71,
-  "Effectivity": 8.22
+  "Effectivity": 8.22,
+  "P": "78.81"
 }, {
   "Id": 1874,
   "RaceID": 601,
@@ -19325,7 +20532,8 @@ all_units = [{
   "RealCost": 60,
   "modBS": 13,
   "Power": 10.71,
-  "Effectivity": 8.22
+  "Effectivity": 8.22,
+  "P": "78.87"
 }, {
   "Id": 1875,
   "RaceID": 601,
@@ -19341,7 +20549,8 @@ all_units = [{
   "RealCost": 54,
   "modBS": 13,
   "Power": 10.71,
-  "Effectivity": 7.66
+  "Effectivity": 7.66,
+  "P": "78.71"
 }, {
   "Id": 2957,
   "RaceID": 601,
@@ -19357,7 +20566,8 @@ all_units = [{
   "RealCost": 60,
   "modBS": 13,
   "Power": 10.71,
-  "Effectivity": 8.22
+  "Effectivity": 8.22,
+  "P": "78.99"
 }, {
   "Id": 1876,
   "RaceID": 601,
@@ -19373,7 +20583,8 @@ all_units = [{
   "RealCost": 77.5,
   "modBS": 6.5,
   "Power": 11.9,
-  "Effectivity": 8.91
+  "Effectivity": 8.91,
+  "P": "86.01"
 }, {
   "Id": 1877,
   "RaceID": 601,
@@ -19389,7 +20600,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "47.76"
 }, {
   "Id": 1878,
   "RaceID": 601,
@@ -19405,7 +20617,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 9.52
+  "Effectivity": 9.52,
+  "P": "48.20"
 }, {
   "Id": 1879,
   "RaceID": 601,
@@ -19421,7 +20634,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "31.22"
 }, {
   "Id": 1880,
   "RaceID": 601,
@@ -19437,7 +20651,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 8.5,
   "Power": 3.19,
-  "Effectivity": 8.78
+  "Effectivity": 8.78,
+  "P": "52.87"
 }, {
   "Id": 1881,
   "RaceID": 601,
@@ -19453,7 +20668,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 11.96
+  "Effectivity": 11.96,
+  "P": "47.87"
 }, {
   "Id": 2964,
   "RaceID": 601,
@@ -19469,7 +20685,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 4.5,
   "Power": 2.31,
-  "Effectivity": 9.52
+  "Effectivity": 9.52,
+  "P": "30.88"
 }, {
   "Id": 1882,
   "RaceID": 601,
@@ -19485,7 +20702,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.09"
 }, {
   "Id": 1883,
   "RaceID": 601,
@@ -19501,7 +20719,8 @@ all_units = [{
   "RealCost": 110.5,
   "modBS": -5.5,
   "Power": -2.1,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1884,
   "RaceID": 601,
@@ -19517,7 +20736,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.71"
 }, {
   "Id": 1885,
   "RaceID": 601,
@@ -19533,7 +20753,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1886,
   "RaceID": 601,
@@ -19549,7 +20770,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1887,
   "RaceID": 601,
@@ -19565,7 +20787,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.69"
 }, {
   "Id": 1888,
   "RaceID": 601,
@@ -19581,7 +20804,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.71"
 }, {
   "Id": 1889,
   "RaceID": 601,
@@ -19597,7 +20821,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1890,
   "RaceID": 601,
@@ -19613,7 +20838,8 @@ all_units = [{
   "RealCost": 32,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.65"
 }, {
   "Id": 1891,
   "RaceID": 601,
@@ -19629,7 +20855,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1892,
   "RaceID": 601,
@@ -19645,7 +20872,8 @@ all_units = [{
   "RealCost": 36,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "11.68"
 }, {
   "Id": 1893,
   "RaceID": 601,
@@ -19661,7 +20889,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 1.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 1900,
   "RaceID": 601,
@@ -19677,7 +20906,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.98
+  "Effectivity": 11.98,
+  "P": "44.16"
 }, {
   "Id": 1901,
   "RaceID": 601,
@@ -19693,7 +20923,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "27.71"
 }, {
   "Id": 2949,
   "RaceID": 601,
@@ -19709,7 +20940,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 1,
   "Power": 1.92,
-  "Effectivity": 13.54
+  "Effectivity": 13.54,
+  "P": "41.36"
 }, {
   "Id": 1902,
   "RaceID": 601,
@@ -19725,7 +20957,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "41.10"
 }, {
   "Id": 1903,
   "RaceID": 601,
@@ -19741,7 +20974,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.64
+  "Effectivity": 8.64,
+  "P": "62.27"
 }, {
   "Id": 1904,
   "RaceID": 601,
@@ -19757,7 +20991,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "62.57"
 }, {
   "Id": 1905,
   "RaceID": 601,
@@ -19773,7 +21008,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.19
+  "Effectivity": 8.19,
+  "P": "41.24"
 }, {
   "Id": 1906,
   "RaceID": 601,
@@ -19789,7 +21025,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 7.71
+  "Effectivity": 7.71,
+  "P": "71.56"
 }, {
   "Id": 1907,
   "RaceID": 601,
@@ -19805,7 +21042,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 2,
   "Power": 4.76,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "62.12"
 }, {
   "Id": 1908,
   "RaceID": 601,
@@ -19821,7 +21059,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "71.58"
 }, {
   "Id": 2954,
   "RaceID": 601,
@@ -19837,7 +21076,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 4,
   "Power": 5.71,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "71.81"
 }, {
   "Id": 3098,
   "RaceID": 601,
@@ -19853,7 +21093,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "62.57"
 }, {
   "Id": 3300,
   "RaceID": 601,
@@ -19869,7 +21110,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "62.08"
 }, {
   "Id": 1909,
   "RaceID": 601,
@@ -19885,7 +21127,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 11.69
+  "Effectivity": 11.69,
+  "P": "41.00"
 }, {
   "Id": 2568,
   "RaceID": 601,
@@ -19901,7 +21144,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 12.99
+  "Effectivity": 12.99,
+  "P": "26.03"
 }, {
   "Id": 1910,
   "RaceID": 601,
@@ -19917,7 +21161,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "38.74"
 }, {
   "Id": 1911,
   "RaceID": 601,
@@ -19933,7 +21178,8 @@ all_units = [{
   "RealCost": 33.5,
   "modBS": 11,
   "Power": 4.62,
-  "Effectivity": 10.82
+  "Effectivity": 10.82,
+  "P": "69.89"
 }, {
   "Id": 1912,
   "RaceID": 601,
@@ -19949,7 +21195,8 @@ all_units = [{
   "RealCost": 33.5,
   "modBS": 11,
   "Power": 4.62,
-  "Effectivity": 10.82
+  "Effectivity": 10.82,
+  "P": "69.48"
 }, {
   "Id": 3207,
   "RaceID": 601,
@@ -19965,7 +21212,8 @@ all_units = [{
   "RealCost": 37.5,
   "modBS": 10,
   "Power": 4.4,
-  "Effectivity": 11.59
+  "Effectivity": 11.59,
+  "P": "67.00"
 }, {
   "Id": 3208,
   "RaceID": 601,
@@ -19981,7 +21229,8 @@ all_units = [{
   "RealCost": 37.5,
   "modBS": 10,
   "Power": 4.4,
-  "Effectivity": 11.59
+  "Effectivity": 11.59,
+  "P": "67.18"
 }, {
   "Id": 1913,
   "RaceID": 601,
@@ -19997,7 +21246,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 8,
   "Power": 4.42,
-  "Effectivity": 9.28
+  "Effectivity": 9.28,
+  "P": "71.39"
 }, {
   "Id": 1914,
   "RaceID": 601,
@@ -20013,7 +21263,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 8,
   "Power": 4.42,
-  "Effectivity": 9.28
+  "Effectivity": 9.28,
+  "P": "71.61"
 }, {
   "Id": 1915,
   "RaceID": 601,
@@ -20029,7 +21280,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 3,
   "Power": 2.88,
-  "Effectivity": 13.19
+  "Effectivity": 13.19,
+  "P": "50.72"
 }, {
   "Id": 1916,
   "RaceID": 601,
@@ -20045,7 +21297,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 10.33
+  "Effectivity": 10.33,
+  "P": "44.33"
 }, {
   "Id": 1917,
   "RaceID": 601,
@@ -20061,7 +21314,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 2,
   "Power": -0.72,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "20.07"
 }, {
   "Id": 2427,
   "RaceID": 601,
@@ -20077,7 +21331,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.34"
 }, {
   "Id": 2428,
   "RaceID": 601,
@@ -20093,7 +21348,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "76.61"
 }, {
   "Id": 2524,
   "RaceID": 601,
@@ -20109,7 +21365,8 @@ all_units = [{
   "RealCost": 27,
   "modBS": 1,
   "Power": 1.4,
-  "Effectivity": 20
+  "Effectivity": 20,
+  "P": "40.13"
 }, {
   "Id": 2707,
   "RaceID": 601,
@@ -20125,7 +21382,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.78"
 }, {
   "Id": 2708,
   "RaceID": 601,
@@ -20141,7 +21399,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.61"
 }, {
   "Id": 2709,
   "RaceID": 601,
@@ -20157,7 +21416,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.32"
 }, {
   "Id": 2710,
   "RaceID": 601,
@@ -20173,7 +21433,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.49"
 }, {
   "Id": 3201,
   "RaceID": 601,
@@ -20189,7 +21450,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.47"
 }, {
   "Id": 2724,
   "RaceID": 601,
@@ -20205,7 +21467,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 10.75
+  "Effectivity": 10.75,
+  "P": "57.84"
 }, {
   "Id": 2725,
   "RaceID": 601,
@@ -20221,7 +21484,8 @@ all_units = [{
   "RealCost": 31.5,
   "modBS": 9.5,
   "Power": 3.96,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "65.54"
 }, {
   "Id": 2726,
   "RaceID": 601,
@@ -20237,7 +21501,8 @@ all_units = [{
   "RealCost": 28.5,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 9.68
+  "Effectivity": 9.68,
+  "P": "57.12"
 }, {
   "Id": 2727,
   "RaceID": 601,
@@ -20253,7 +21518,8 @@ all_units = [{
   "RealCost": 30.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 10.75
+  "Effectivity": 10.75,
+  "P": "58.24"
 }, {
   "Id": 2728,
   "RaceID": 601,
@@ -20269,7 +21535,8 @@ all_units = [{
   "RealCost": 31.5,
   "modBS": 9.5,
   "Power": 3.96,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "65.34"
 }, {
   "Id": 2942,
   "RaceID": 601,
@@ -20285,7 +21552,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.59"
 }, {
   "Id": 2943,
   "RaceID": 601,
@@ -20301,7 +21569,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "43.48"
 }, {
   "Id": 2944,
   "RaceID": 601,
@@ -20317,7 +21586,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 13.13
+  "Effectivity": 13.13,
+  "P": "56.35"
 }, {
   "Id": 2945,
   "RaceID": 601,
@@ -20333,7 +21603,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "43.21"
 }, {
   "Id": 2946,
   "RaceID": 601,
@@ -20349,7 +21620,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "43.53"
 }, {
   "Id": 2947,
   "RaceID": 601,
@@ -20365,7 +21637,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 13.13
+  "Effectivity": 13.13,
+  "P": "56.63"
 }, {
   "Id": 2958,
   "RaceID": 601,
@@ -20381,7 +21654,8 @@ all_units = [{
   "RealCost": 39,
   "modBS": 1,
   "Power": 6.48,
-  "Effectivity": 9.1
+  "Effectivity": 9.1,
+  "P": "68.12"
 }, {
   "Id": 2959,
   "RaceID": 601,
@@ -20397,7 +21671,8 @@ all_units = [{
   "RealCost": 34,
   "modBS": 4,
   "Power": 8.64,
-  "Effectivity": 6.83
+  "Effectivity": 6.83,
+  "P": "71.47"
 }, {
   "Id": 2960,
   "RaceID": 601,
@@ -20413,7 +21688,8 @@ all_units = [{
   "RealCost": 35,
   "modBS": 2,
   "Power": 7.2,
-  "Effectivity": 8.06
+  "Effectivity": 8.06,
+  "P": "70.67"
 }, {
   "Id": 2961,
   "RaceID": 601,
@@ -20429,7 +21705,8 @@ all_units = [{
   "RealCost": 53,
   "modBS": 1.5,
   "Power": 7.3,
-  "Effectivity": 10.14
+  "Effectivity": 10.14,
+  "P": "69.18"
 }, {
   "Id": 2962,
   "RaceID": 601,
@@ -20445,7 +21722,8 @@ all_units = [{
   "RealCost": 38,
   "modBS": 7.5,
   "Power": 11.9,
-  "Effectivity": 5.8
+  "Effectivity": 5.8,
+  "P": "81.22"
 }, {
   "Id": 2963,
   "RaceID": 601,
@@ -20461,7 +21739,8 @@ all_units = [{
   "RealCost": 33,
   "modBS": 2.5,
   "Power": 8.06,
-  "Effectivity": 7.07
+  "Effectivity": 7.07,
+  "P": "69.78"
 }, {
   "Id": 2398,
   "RaceID": 601,
@@ -20477,7 +21756,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.47"
 }, {
   "Id": 2399,
   "RaceID": 601,
@@ -20493,7 +21773,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0,
   "Power": 1.32,
-  "Effectivity": 10.61
+  "Effectivity": 10.61,
+  "P": "41.33"
 }, {
   "Id": 2057,
   "RaceID": 701,
@@ -20509,7 +21790,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 7.65
+  "Effectivity": 7.65,
+  "P": "47.61"
 }, {
   "Id": 2058,
   "RaceID": 701,
@@ -20525,7 +21807,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 5.5,
   "Power": 2.3,
-  "Effectivity": 9.13
+  "Effectivity": 9.13,
+  "P": "54.72"
 }, {
   "Id": 2059,
   "RaceID": 701,
@@ -20541,7 +21824,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "46.95"
 }, {
   "Id": 2060,
   "RaceID": 701,
@@ -20557,7 +21841,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 6.5,
   "Power": 2.5,
-  "Effectivity": 8.4
+  "Effectivity": 8.4,
+  "P": "52.29"
 }, {
   "Id": 2061,
   "RaceID": 701,
@@ -20573,7 +21858,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2.5,
   "Power": 1.7,
-  "Effectivity": 8.82
+  "Effectivity": 8.82,
+  "P": "47.01"
 }, {
   "Id": 2062,
   "RaceID": 701,
@@ -20589,7 +21875,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6.5,
   "Power": 2.7,
-  "Effectivity": 8.15
+  "Effectivity": 8.15,
+  "P": "49.34"
 }, {
   "Id": 2063,
   "RaceID": 701,
@@ -20605,7 +21892,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 9.5,
   "Power": 3.3,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "57.05"
 }, {
   "Id": 2064,
   "RaceID": 701,
@@ -20621,7 +21909,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6.5,
   "Power": 2.7,
-  "Effectivity": 7.78
+  "Effectivity": 7.78,
+  "P": "32.26"
 }, {
   "Id": 2966,
   "RaceID": 701,
@@ -20637,7 +21926,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 7.5,
   "Power": 2.9,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "55.65"
 }, {
   "Id": 2065,
   "RaceID": 701,
@@ -20653,7 +21943,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.37
+  "Effectivity": 7.37,
+  "P": "57.92"
 }, {
   "Id": 2066,
   "RaceID": 701,
@@ -20669,7 +21960,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.37
+  "Effectivity": 7.37,
+  "P": "57.73"
 }, {
   "Id": 2067,
   "RaceID": 701,
@@ -20685,7 +21977,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 9.94
+  "Effectivity": 9.94,
+  "P": "57.61"
 }, {
   "Id": 2068,
   "RaceID": 701,
@@ -20701,7 +21994,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "58.03"
 }, {
   "Id": 2069,
   "RaceID": 701,
@@ -20717,7 +22011,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 9.82
+  "Effectivity": 9.82,
+  "P": "67.43"
 }, {
   "Id": 2070,
   "RaceID": 701,
@@ -20733,7 +22028,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.37
+  "Effectivity": 7.37,
+  "P": "57.98"
 }, {
   "Id": 2969,
   "RaceID": 701,
@@ -20749,7 +22045,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.37
+  "Effectivity": 7.37,
+  "P": "58.31"
 }, {
   "Id": 2970,
   "RaceID": 701,
@@ -20765,7 +22062,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "58.05"
 }, {
   "Id": 2072,
   "RaceID": 701,
@@ -20781,7 +22079,8 @@ all_units = [{
   "RealCost": 42.5,
   "modBS": 9.5,
   "Power": 9.44,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "75.76"
 }, {
   "Id": 2073,
   "RaceID": 701,
@@ -20797,7 +22096,8 @@ all_units = [{
   "RealCost": 44.5,
   "modBS": 9.5,
   "Power": 9.44,
-  "Effectivity": 7.42
+  "Effectivity": 7.42,
+  "P": "82.47"
 }, {
   "Id": 2074,
   "RaceID": 701,
@@ -20813,7 +22113,8 @@ all_units = [{
   "RealCost": 49.5,
   "modBS": 8.5,
   "Power": 8.92,
-  "Effectivity": 8.07
+  "Effectivity": 8.07,
+  "P": "75.92"
 }, {
   "Id": 2075,
   "RaceID": 701,
@@ -20829,7 +22130,8 @@ all_units = [{
   "RealCost": 42.5,
   "modBS": 9.5,
   "Power": 9.44,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "75.75"
 }, {
   "Id": 2973,
   "RaceID": 701,
@@ -20845,7 +22147,8 @@ all_units = [{
   "RealCost": 49.5,
   "modBS": 8.5,
   "Power": 8.92,
-  "Effectivity": 8.07
+  "Effectivity": 8.07,
+  "P": "75.59"
 }, {
   "Id": 2076,
   "RaceID": 701,
@@ -20861,7 +22164,8 @@ all_units = [{
   "RealCost": 81.5,
   "modBS": 7,
   "Power": 14.69,
-  "Effectivity": 7.9
+  "Effectivity": 7.9,
+  "P": "89.72"
 }, {
   "Id": 2077,
   "RaceID": 701,
@@ -20877,7 +22181,8 @@ all_units = [{
   "RealCost": 85.5,
   "modBS": 7,
   "Power": 14.69,
-  "Effectivity": 8.17
+  "Effectivity": 8.17,
+  "P": "89.34"
 }, {
   "Id": 2078,
   "RaceID": 701,
@@ -20893,7 +22198,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 8.5,
   "Power": 3.41,
-  "Effectivity": 7.92
+  "Effectivity": 7.92,
+  "P": "43.21"
 }, {
   "Id": 2079,
   "RaceID": 701,
@@ -20909,7 +22215,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 8.5,
   "Power": 3.41,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "43.47"
 }, {
   "Id": 2080,
   "RaceID": 701,
@@ -20925,7 +22232,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 11.5,
   "Power": 4.07,
-  "Effectivity": 8.35
+  "Effectivity": 8.35,
+  "P": "49.32"
 }, {
   "Id": 2081,
   "RaceID": 701,
@@ -20941,7 +22249,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 8.5,
   "Power": 3.41,
-  "Effectivity": 7.92
+  "Effectivity": 7.92,
+  "P": "28.04"
 }, {
   "Id": 2082,
   "RaceID": 701,
@@ -20957,7 +22266,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 7.5,
   "Power": 3.19,
-  "Effectivity": 10.03
+  "Effectivity": 10.03,
+  "P": "43.33"
 }, {
   "Id": 2974,
   "RaceID": 701,
@@ -20973,7 +22283,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 8.5,
   "Power": 3.41,
-  "Effectivity": 8.8
+  "Effectivity": 8.8,
+  "P": "43.73"
 }, {
   "Id": 2975,
   "RaceID": 701,
@@ -20989,7 +22300,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 8.5,
   "Power": 3.41,
-  "Effectivity": 8.21
+  "Effectivity": 8.21,
+  "P": "43.34"
 }, {
   "Id": 2083,
   "RaceID": 701,
@@ -21005,7 +22317,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 12,
   "Power": 4.18,
-  "Effectivity": 8.37
+  "Effectivity": 8.37,
+  "P": "67.90"
 }, {
   "Id": 2084,
   "RaceID": 701,
@@ -21021,7 +22334,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 12,
   "Power": 4.18,
-  "Effectivity": 8.13
+  "Effectivity": 8.13,
+  "P": "46.92"
 }, {
   "Id": 2085,
   "RaceID": 701,
@@ -21037,7 +22351,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 15,
   "Power": 4.84,
-  "Effectivity": 8.68
+  "Effectivity": 8.68,
+  "P": "72.66"
 }, {
   "Id": 2086,
   "RaceID": 701,
@@ -21053,7 +22368,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "67.87"
 }, {
   "Id": 2087,
   "RaceID": 701,
@@ -21069,7 +22385,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 12,
   "Power": 4.18,
-  "Effectivity": 8.61
+  "Effectivity": 8.61,
+  "P": "67.69"
 }, {
   "Id": 2088,
   "RaceID": 701,
@@ -21085,7 +22402,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 12,
   "Power": 4.18,
-  "Effectivity": 8.37
+  "Effectivity": 8.37,
+  "P": "68.09"
 }, {
   "Id": 2978,
   "RaceID": 701,
@@ -21101,7 +22419,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 11,
   "Power": 3.96,
-  "Effectivity": 9.34
+  "Effectivity": 9.34,
+  "P": "67.88"
 }, {
   "Id": 2089,
   "RaceID": 701,
@@ -21117,7 +22436,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 8.68
+  "Effectivity": 8.68,
+  "P": "55.97"
 }, {
   "Id": 2090,
   "RaceID": 701,
@@ -21133,7 +22453,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.03
+  "Effectivity": 9.03,
+  "P": "55.94"
 }, {
   "Id": 2091,
   "RaceID": 701,
@@ -21149,7 +22470,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 5.56
+  "Effectivity": 5.56,
+  "P": "56.29"
 }, {
   "Id": 2092,
   "RaceID": 701,
@@ -21165,7 +22487,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "37.86"
 }, {
   "Id": 2093,
   "RaceID": 701,
@@ -21181,7 +22504,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 6,
   "Power": 3.12,
-  "Effectivity": 9.94
+  "Effectivity": 9.94,
+  "P": "60.76"
 }, {
   "Id": 2094,
   "RaceID": 701,
@@ -21197,7 +22521,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 10.76
+  "Effectivity": 10.76,
+  "P": "56.12"
 }, {
   "Id": 2095,
   "RaceID": 701,
@@ -21213,7 +22538,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 7.5,
   "Power": 3.24,
-  "Effectivity": 9.57
+  "Effectivity": 9.57,
+  "P": "55.73"
 }, {
   "Id": 2096,
   "RaceID": 701,
@@ -21229,7 +22555,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "40.14"
 }, {
   "Id": 2097,
   "RaceID": 701,
@@ -21245,7 +22572,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 4.5,
   "Power": 2.1,
-  "Effectivity": 12.38
+  "Effectivity": 12.38,
+  "P": "48.77"
 }, {
   "Id": 2098,
   "RaceID": 701,
@@ -21261,7 +22589,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 3,
   "Power": 2,
-  "Effectivity": 9
+  "Effectivity": 9,
+  "P": "39.76"
 }, {
   "Id": 2099,
   "RaceID": 701,
@@ -21277,7 +22606,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 3.5,
   "Power": 1.3,
-  "Effectivity": 6.15
+  "Effectivity": 6.15,
+  "P": "37.47"
 }, {
   "Id": 2100,
   "RaceID": 701,
@@ -21293,7 +22623,8 @@ all_units = [{
   "RealCost": 103,
   "modBS": -7.5,
   "Power": -0.9,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "37.35"
 }, {
   "Id": 2101,
   "RaceID": 701,
@@ -21309,7 +22640,8 @@ all_units = [{
   "RealCost": 110.5,
   "modBS": -5.5,
   "Power": -2.1,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "3.66"
 }, {
   "Id": 2102,
   "RaceID": 701,
@@ -21325,7 +22657,8 @@ all_units = [{
   "RealCost": 105,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.49"
 }, {
   "Id": 2103,
   "RaceID": 701,
@@ -21341,7 +22674,8 @@ all_units = [{
   "RealCost": 122,
   "modBS": -9.5,
   "Power": -0.84,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "39.46"
 }, {
   "Id": 2104,
   "RaceID": 701,
@@ -21357,7 +22691,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 0.5,
   "Power": 1.56,
-  "Effectivity": 13.46
+  "Effectivity": 13.46,
+  "P": "42.36"
 }, {
   "Id": 2105,
   "RaceID": 701,
@@ -21373,7 +22708,8 @@ all_units = [{
   "RealCost": 1.5,
   "modBS": 8.5,
   "Power": 3.96,
-  "Effectivity": 3.54
+  "Effectivity": 3.54,
+  "P": "65.74"
 }, {
   "Id": 2106,
   "RaceID": 701,
@@ -21389,7 +22725,8 @@ all_units = [{
   "RealCost": -2.5,
   "modBS": 8.5,
   "Power": 3.96,
-  "Effectivity": 2.53
+  "Effectivity": 2.53,
+  "P": "65.96"
 }, {
   "Id": 2107,
   "RaceID": 701,
@@ -21405,7 +22742,8 @@ all_units = [{
   "RealCost": -2.5,
   "modBS": 8.5,
   "Power": 3.96,
-  "Effectivity": 2.53
+  "Effectivity": 2.53,
+  "P": "66.09"
 }, {
   "Id": 2108,
   "RaceID": 701,
@@ -21421,7 +22759,8 @@ all_units = [{
   "RealCost": 3,
   "modBS": 14.5,
   "Power": 4.95,
-  "Effectivity": 4.85
+  "Effectivity": 4.85,
+  "P": "75.13"
 }, {
   "Id": 2109,
   "RaceID": 701,
@@ -21437,7 +22776,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 10.5,
   "Power": 4.07,
-  "Effectivity": 5.16
+  "Effectivity": 5.16,
+  "P": "48.30"
 }, {
   "Id": 2110,
   "RaceID": 701,
@@ -21453,7 +22793,8 @@ all_units = [{
   "RealCost": 5,
   "modBS": 1,
   "Power": 4.28,
-  "Effectivity": 4.91
+  "Effectivity": 4.91,
+  "P": "69.94"
 }, {
   "Id": 2111,
   "RaceID": 701,
@@ -21469,7 +22810,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 6.15
+  "Effectivity": 6.15,
+  "P": "45.07"
 }, {
   "Id": 2112,
   "RaceID": 701,
@@ -21485,7 +22827,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 7.18
+  "Effectivity": 7.18,
+  "P": "45.25"
 }, {
   "Id": 2113,
   "RaceID": 701,
@@ -21501,7 +22844,8 @@ all_units = [{
   "RealCost": 7,
   "modBS": 1.5,
   "Power": 2.21,
-  "Effectivity": 6.79
+  "Effectivity": 6.79,
+  "P": "40.12"
 }, {
   "Id": 2114,
   "RaceID": 701,
@@ -21517,7 +22861,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 3.5,
   "Power": 2.73,
-  "Effectivity": 8.06
+  "Effectivity": 8.06,
+  "P": "53.79"
 }, {
   "Id": 2115,
   "RaceID": 701,
@@ -21533,7 +22878,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 9.23
+  "Effectivity": 9.23,
+  "P": "45.25"
 }, {
   "Id": 2116,
   "RaceID": 701,
@@ -21549,7 +22895,8 @@ all_units = [{
   "RealCost": 8,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "45.33"
 }, {
   "Id": 2117,
   "RaceID": 701,
@@ -21565,7 +22912,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 7.18
+  "Effectivity": 7.18,
+  "P": "45.11"
 }, {
   "Id": 2983,
   "RaceID": 701,
@@ -21581,7 +22929,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "44.85"
 }, {
   "Id": 2984,
   "RaceID": 701,
@@ -21597,7 +22946,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 11.28
+  "Effectivity": 11.28,
+  "P": "42.60"
 }, {
   "Id": 2118,
   "RaceID": 701,
@@ -21613,7 +22963,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 7.88
+  "Effectivity": 7.88,
+  "P": "47.30"
 }, {
   "Id": 2119,
   "RaceID": 701,
@@ -21629,7 +22980,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 8.11
+  "Effectivity": 8.11,
+  "P": "68.38"
 }, {
   "Id": 2120,
   "RaceID": 701,
@@ -21645,7 +22997,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 6.76
+  "Effectivity": 6.76,
+  "P": "47.36"
 }, {
   "Id": 2121,
   "RaceID": 701,
@@ -21661,7 +23014,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 6.98
+  "Effectivity": 6.98,
+  "P": "68.78"
 }, {
   "Id": 2122,
   "RaceID": 701,
@@ -21677,7 +23031,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 6.5,
   "Power": 3.48,
-  "Effectivity": 8.62
+  "Effectivity": 8.62,
+  "P": "54.52"
 }, {
   "Id": 2123,
   "RaceID": 701,
@@ -21693,7 +23048,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 2.5,
   "Power": 2.52,
-  "Effectivity": 11.51
+  "Effectivity": 11.51,
+  "P": "55.45"
 }, {
   "Id": 2124,
   "RaceID": 701,
@@ -21709,7 +23065,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 5.5,
   "Power": 3.24,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "45.45"
 }, {
   "Id": 2125,
   "RaceID": 701,
@@ -21725,7 +23082,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.72
+  "Effectivity": 9.72,
+  "P": "44.25"
 }, {
   "Id": 2126,
   "RaceID": 701,
@@ -21741,7 +23099,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 10.07
+  "Effectivity": 10.07,
+  "P": "44.00"
 }, {
   "Id": 2127,
   "RaceID": 701,
@@ -21757,7 +23116,8 @@ all_units = [{
   "RealCost": 24.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 10.28
+  "Effectivity": 10.28,
+  "P": "52.58"
 }, {
   "Id": 2128,
   "RaceID": 701,
@@ -21773,7 +23133,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 6.94
+  "Effectivity": 6.94,
+  "P": "44.42"
 }, {
   "Id": 2129,
   "RaceID": 701,
@@ -21789,7 +23150,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.72
+  "Effectivity": 9.72,
+  "P": "28.22"
 }, {
   "Id": 2130,
   "RaceID": 701,
@@ -21805,7 +23167,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 5,
   "Power": 2.88,
-  "Effectivity": 9.03
+  "Effectivity": 9.03,
+  "P": "44.19"
 }, {
   "Id": 2131,
   "RaceID": 701,
@@ -21821,7 +23184,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 2.86,
-  "Effectivity": 8.74
+  "Effectivity": 8.74,
+  "P": "53.79"
 }, {
   "Id": 2132,
   "RaceID": 701,
@@ -21837,7 +23201,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 3,
   "Power": 2.86,
-  "Effectivity": 8.74
+  "Effectivity": 8.74,
+  "P": "54.00"
 }, {
   "Id": 2133,
   "RaceID": 701,
@@ -21853,7 +23218,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 6.5,
   "Power": 3.72,
-  "Effectivity": 10.48
+  "Effectivity": 10.48,
+  "P": "57.71"
 }, {
   "Id": 2135,
   "RaceID": 701,
@@ -21869,7 +23235,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 9.95
+  "Effectivity": 9.95,
+  "P": "65.28"
 }, {
   "Id": 2136,
   "RaceID": 701,
@@ -21885,7 +23252,8 @@ all_units = [{
   "RealCost": 30,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 9.95
+  "Effectivity": 9.95,
+  "P": "65.52"
 }, {
   "Id": 2987,
   "RaceID": 701,
@@ -21901,7 +23269,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 12,
   "Power": 4.56,
-  "Effectivity": 9.21
+  "Effectivity": 9.21,
+  "P": "58.09"
 }, {
   "Id": 2988,
   "RaceID": 701,
@@ -21917,7 +23286,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 12,
   "Power": 4.56,
-  "Effectivity": 9.21
+  "Effectivity": 9.21,
+  "P": "57.98"
 }, {
   "Id": 2137,
   "RaceID": 701,
@@ -21933,7 +23303,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12.5,
   "Power": 4.68,
-  "Effectivity": 8.12
+  "Effectivity": 8.12,
+  "P": "68.54"
 }, {
   "Id": 2138,
   "RaceID": 701,
@@ -21949,7 +23320,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12.5,
   "Power": 4.68,
-  "Effectivity": 8.12
+  "Effectivity": 8.12,
+  "P": "68.65"
 }, {
   "Id": 2139,
   "RaceID": 701,
@@ -21965,7 +23337,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 12.5,
   "Power": 4.92,
-  "Effectivity": 8.13
+  "Effectivity": 8.13,
+  "P": "68.06"
 }, {
   "Id": 2140,
   "RaceID": 701,
@@ -21981,7 +23354,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 12.5,
   "Power": 4.92,
-  "Effectivity": 8.13
+  "Effectivity": 8.13,
+  "P": "68.30"
 }, {
   "Id": 2141,
   "RaceID": 701,
@@ -21997,7 +23371,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "76.10"
 }, {
   "Id": 2142,
   "RaceID": 701,
@@ -22013,7 +23388,8 @@ all_units = [{
   "RealCost": 25,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "76.41"
 }, {
   "Id": 2143,
   "RaceID": 701,
@@ -22029,7 +23405,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 8,
   "Power": 8.16,
-  "Effectivity": 4.78
+  "Effectivity": 4.78,
+  "P": "70.83"
 }, {
   "Id": 2144,
   "RaceID": 701,
@@ -22045,7 +23422,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 8,
   "Power": 8.16,
-  "Effectivity": 4.78
+  "Effectivity": 4.78,
+  "P": "70.88"
 }, {
   "Id": 2145,
   "RaceID": 701,
@@ -22061,7 +23439,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 11.5,
   "Power": 4.29,
-  "Effectivity": 9.56
+  "Effectivity": 9.56,
+  "P": "70.12"
 }, {
   "Id": 2146,
   "RaceID": 701,
@@ -22077,7 +23456,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 6.5,
   "Power": 2.97,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "54.27"
 }, {
   "Id": 2147,
   "RaceID": 701,
@@ -22093,7 +23473,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 6.5,
   "Power": 11.09,
-  "Effectivity": 6.58
+  "Effectivity": 6.58,
+  "P": "81.64"
 }, {
   "Id": 2148,
   "RaceID": 701,
@@ -22109,7 +23490,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 6.5,
   "Power": 11.09,
-  "Effectivity": 6.76
+  "Effectivity": 6.76,
+  "P": "85.97"
 }, {
   "Id": 2149,
   "RaceID": 701,
@@ -22125,7 +23507,8 @@ all_units = [{
   "RealCost": 45.5,
   "modBS": 6.5,
   "Power": 11.09,
-  "Effectivity": 6.58
+  "Effectivity": 6.58,
+  "P": "81.40"
 }, {
   "Id": 2150,
   "RaceID": 701,
@@ -22141,7 +23524,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 6.5,
   "Power": 11.09,
-  "Effectivity": 6.76
+  "Effectivity": 6.76,
+  "P": "86.01"
 }, {
   "Id": 2151,
   "RaceID": 701,
@@ -22157,7 +23541,8 @@ all_units = [{
   "RealCost": 40.5,
   "modBS": 8.5,
   "Power": 4.29,
-  "Effectivity": 12.82
+  "Effectivity": 12.82,
+  "P": "61.07"
 }, {
   "Id": 2152,
   "RaceID": 701,
@@ -22173,7 +23558,8 @@ all_units = [{
   "RealCost": 42.5,
   "modBS": 8.5,
   "Power": 4.29,
-  "Effectivity": 13.29
+  "Effectivity": 13.29,
+  "P": "68.73"
 }, {
   "Id": 3099,
   "RaceID": 701,
@@ -22189,7 +23575,8 @@ all_units = [{
   "RealCost": 36.5,
   "modBS": 8.5,
   "Power": 4.29,
-  "Effectivity": 11.89
+  "Effectivity": 11.89,
+  "P": "66.57"
 }, {
   "Id": 3100,
   "RaceID": 701,
@@ -22205,7 +23592,8 @@ all_units = [{
   "RealCost": 38.5,
   "modBS": 8.5,
   "Power": 4.29,
-  "Effectivity": 12.35
+  "Effectivity": 12.35,
+  "P": "73.19"
 }, {
   "Id": 2153,
   "RaceID": 701,
@@ -22221,7 +23609,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 5,
   "Power": 3.12,
-  "Effectivity": 8.65
+  "Effectivity": 8.65,
+  "P": "51.62"
 }, {
   "Id": 2154,
   "RaceID": 701,
@@ -22237,7 +23626,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 6,
   "Power": 3.38,
-  "Effectivity": 8.88
+  "Effectivity": 8.88,
+  "P": "52.25"
 }, {
   "Id": 2155,
   "RaceID": 701,
@@ -22253,7 +23643,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 9.5
+  "Effectivity": 9.5,
+  "P": "43.40"
 }, {
   "Id": 2156,
   "RaceID": 701,
@@ -22269,7 +23660,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 9.92
+  "Effectivity": 9.92,
+  "P": "43.18"
 }, {
   "Id": 2157,
   "RaceID": 701,
@@ -22285,7 +23677,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 9.5
+  "Effectivity": 9.5,
+  "P": "43.09"
 }, {
   "Id": 2158,
   "RaceID": 701,
@@ -22301,7 +23694,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "43.21"
 }, {
   "Id": 2159,
   "RaceID": 701,
@@ -22317,7 +23711,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 1,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "27.53"
 }, {
   "Id": 2160,
   "RaceID": 701,
@@ -22333,7 +23728,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 4,
   "Power": 2.42,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "49.32"
 }, {
   "Id": 2161,
   "RaceID": 701,
@@ -22349,7 +23745,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 2,
   "Power": 1.98,
-  "Effectivity": 10.1
+  "Effectivity": 10.1,
+  "P": "50.24"
 }, {
   "Id": 2162,
   "RaceID": 701,
@@ -22365,7 +23762,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.97"
 }, {
   "Id": 2163,
   "RaceID": 701,
@@ -22381,7 +23779,8 @@ all_units = [{
   "RealCost": 4,
   "modBS": 0.5,
   "Power": 0.9,
-  "Effectivity": 3.33
+  "Effectivity": 3.33,
+  "P": "32.85"
 }, {
   "Id": 2164,
   "RaceID": 701,
@@ -22397,7 +23796,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 7.2
+  "Effectivity": 7.2,
+  "P": "55.27"
 }, {
   "Id": 2165,
   "RaceID": 701,
@@ -22413,7 +23813,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 5,
   "Power": 2.64,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "37.53"
 }, {
   "Id": 2409,
   "RaceID": 701,
@@ -22429,7 +23830,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 7,
   "Power": 3.84,
-  "Effectivity": 10.68
+  "Effectivity": 10.68,
+  "P": "60.02"
 }, {
   "Id": 2410,
   "RaceID": 701,
@@ -22445,7 +23847,8 @@ all_units = [{
   "RealCost": 32.5,
   "modBS": 7,
   "Power": 3.84,
-  "Effectivity": 11.46
+  "Effectivity": 11.46,
+  "P": "62.16"
 }, {
   "Id": 2411,
   "RaceID": 701,
@@ -22461,7 +23864,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 13,
   "Power": 5.28,
-  "Effectivity": 8.14
+  "Effectivity": 8.14,
+  "P": "72.92"
 }, {
   "Id": 2429,
   "RaceID": 701,
@@ -22477,7 +23881,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.93"
 }, {
   "Id": 2430,
   "RaceID": 701,
@@ -22493,7 +23898,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "76.79"
 }, {
   "Id": 2437,
   "RaceID": 701,
@@ -22509,7 +23915,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 8.06
+  "Effectivity": 8.06,
+  "P": "57.98"
 }, {
   "Id": 2438,
   "RaceID": 701,
@@ -22525,7 +23932,8 @@ all_units = [{
   "RealCost": 26.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 9.68
+  "Effectivity": 9.68,
+  "P": "57.66"
 }, {
   "Id": 2995,
   "RaceID": 701,
@@ -22541,7 +23949,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 8.87
+  "Effectivity": 8.87,
+  "P": "55.33"
 }, {
   "Id": 2996,
   "RaceID": 701,
@@ -22557,7 +23966,8 @@ all_units = [{
   "RealCost": 29.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 10.48
+  "Effectivity": 10.48,
+  "P": "55.22"
 }, {
   "Id": 2440,
   "RaceID": 701,
@@ -22573,7 +23983,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 13.89
+  "Effectivity": 13.89,
+  "P": "28.56"
 }, {
   "Id": 2441,
   "RaceID": 701,
@@ -22589,7 +24000,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 17.78
+  "Effectivity": 17.78,
+  "P": "28.35"
 }, {
   "Id": 2442,
   "RaceID": 701,
@@ -22605,7 +24017,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 12.78
+  "Effectivity": 12.78,
+  "P": "28.26"
 }, {
   "Id": 2443,
   "RaceID": 701,
@@ -22621,7 +24034,8 @@ all_units = [{
   "RealCost": 26,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 16.67
+  "Effectivity": 16.67,
+  "P": "28.11"
 }, {
   "Id": 2999,
   "RaceID": 701,
@@ -22637,7 +24051,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 11.11
+  "Effectivity": 11.11,
+  "P": "28.54"
 }, {
   "Id": 3000,
   "RaceID": 701,
@@ -22653,7 +24068,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0.5,
   "Power": 1.8,
-  "Effectivity": 15
+  "Effectivity": 15,
+  "P": "28.34"
 }, {
   "Id": 2527,
   "RaceID": 701,
@@ -22669,7 +24085,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6.5,
   "Power": 3.19,
-  "Effectivity": 8.46
+  "Effectivity": 8.46,
+  "P": "46.04"
 }, {
   "Id": 2551,
   "RaceID": 701,
@@ -22685,7 +24102,8 @@ all_units = [{
   "RealCost": 46,
   "modBS": 5.5,
   "Power": 11.9,
-  "Effectivity": 6.22
+  "Effectivity": 6.22,
+  "P": "80.58"
 }, {
   "Id": 2552,
   "RaceID": 701,
@@ -22701,7 +24119,8 @@ all_units = [{
   "RealCost": 47,
   "modBS": 5.5,
   "Power": 11.9,
-  "Effectivity": 6.3
+  "Effectivity": 6.3,
+  "P": "86.50"
 }, {
   "Id": 2553,
   "RaceID": 701,
@@ -22717,7 +24136,8 @@ all_units = [{
   "RealCost": 46,
   "modBS": 5.5,
   "Power": 11.9,
-  "Effectivity": 6.22
+  "Effectivity": 6.22,
+  "P": "80.65"
 }, {
   "Id": 2554,
   "RaceID": 701,
@@ -22733,7 +24153,8 @@ all_units = [{
   "RealCost": 47,
   "modBS": 5.5,
   "Power": 11.9,
-  "Effectivity": 6.3
+  "Effectivity": 6.3,
+  "P": "86.17"
 }, {
   "Id": 2679,
   "RaceID": 701,
@@ -22749,7 +24170,8 @@ all_units = [{
   "RealCost": 46.5,
   "modBS": 11.5,
   "Power": 9.95,
-  "Effectivity": 7.14
+  "Effectivity": 7.14,
+  "P": "71.38"
 }, {
   "Id": 2680,
   "RaceID": 701,
@@ -22765,7 +24187,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 9.5,
   "Power": 8.92,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "77.80"
 }, {
   "Id": 2681,
   "RaceID": 701,
@@ -22781,7 +24204,8 @@ all_units = [{
   "RealCost": 46.5,
   "modBS": 11.5,
   "Power": 9.95,
-  "Effectivity": 7.14
+  "Effectivity": 7.14,
+  "P": "71.16"
 }, {
   "Id": 2682,
   "RaceID": 701,
@@ -22797,7 +24221,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 9.5,
   "Power": 8.92,
-  "Effectivity": 7.85
+  "Effectivity": 7.85,
+  "P": "77.61"
 }, {
   "Id": 2715,
   "RaceID": 701,
@@ -22813,7 +24238,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.69"
 }, {
   "Id": 2716,
   "RaceID": 701,
@@ -22829,7 +24255,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.22"
 }, {
   "Id": 2717,
   "RaceID": 701,
@@ -22845,7 +24272,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.72"
 }, {
   "Id": 2718,
   "RaceID": 701,
@@ -22861,7 +24289,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.88"
 }, {
   "Id": 3203,
   "RaceID": 701,
@@ -22877,7 +24306,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.83"
 }, {
   "Id": 2979,
   "RaceID": 701,
@@ -22893,7 +24323,8 @@ all_units = [{
   "RealCost": 6,
   "modBS": 3,
   "Power": 5.61,
-  "Effectivity": 4.46
+  "Effectivity": 4.46,
+  "P": "72.82"
 }, {
   "Id": 2980,
   "RaceID": 701,
@@ -22909,7 +24340,8 @@ all_units = [{
   "RealCost": 3,
   "modBS": 1,
   "Power": 4.59,
-  "Effectivity": 4.36
+  "Effectivity": 4.36,
+  "P": "58.63"
 }, {
   "Id": 2981,
   "RaceID": 701,
@@ -22925,7 +24357,8 @@ all_units = [{
   "RealCost": 5.5,
   "modBS": 6.5,
   "Power": 3.77,
-  "Effectivity": 4.51
+  "Effectivity": 4.51,
+  "P": "68.98"
 }, {
   "Id": 2982,
   "RaceID": 701,
@@ -22941,7 +24374,8 @@ all_units = [{
   "RealCost": -1.5,
   "modBS": 6.5,
   "Power": 3.77,
-  "Effectivity": 2.65
+  "Effectivity": 2.65,
+  "P": "57.06"
 }, {
   "Id": 3003,
   "RaceID": 701,
@@ -22957,7 +24391,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 6.48
+  "Effectivity": 6.48,
+  "P": "58.49"
 }, {
   "Id": 3004,
   "RaceID": 701,
@@ -22973,7 +24408,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 7.41
+  "Effectivity": 7.41,
+  "P": "43.12"
 }, {
   "Id": 3005,
   "RaceID": 701,
@@ -22989,7 +24425,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 7.64
+  "Effectivity": 7.64,
+  "P": "63.91"
 }, {
   "Id": 3286,
   "RaceID": 701,
@@ -23005,7 +24442,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.17"
 }, {
   "Id": 3347,
   "RaceID": 701,
@@ -23021,7 +24459,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "44.94"
 }, {
   "Id": 3369,
   "RaceID": 701,
@@ -23037,7 +24476,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "37.96"
 }, {
   "Id": 3410,
   "RaceID": 701,
@@ -23053,7 +24493,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "38.16"
 }, {
   "Id": 3434,
   "RaceID": 701,
@@ -23069,7 +24510,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "44.99"
 }, {
   "Id": 3529,
   "RaceID": 701,
@@ -23085,7 +24527,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 10,
   "Power": 3.96,
-  "Effectivity": 8.08
+  "Effectivity": 8.08,
+  "P": "59.05"
 }, {
   "Id": 3533,
   "RaceID": 701,
@@ -23101,7 +24544,8 @@ all_units = [{
   "RealCost": 21,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 16.08
+  "Effectivity": 16.08,
+  "P": "41.25"
 }, {
   "Id": 3534,
   "RaceID": 701,
@@ -23117,7 +24561,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 17.48
+  "Effectivity": 17.48,
+  "P": "41.18"
 }, {
   "Id": 2404,
   "RaceID": 701,
@@ -23133,7 +24578,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.95,
-  "Effectivity": 7.18
+  "Effectivity": 7.18,
+  "P": "44.70"
 }, {
   "Id": 2230,
   "RaceID": 801,
@@ -23149,7 +24595,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 8.39
+  "Effectivity": 8.39,
+  "P": "41.39"
 }, {
   "Id": 2231,
   "RaceID": 801,
@@ -23165,7 +24612,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.65,
-  "Effectivity": 10.91
+  "Effectivity": 10.91,
+  "P": "47.95"
 }, {
   "Id": 2232,
   "RaceID": 801,
@@ -23181,7 +24629,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "41.06"
 }, {
   "Id": 2233,
   "RaceID": 801,
@@ -23197,7 +24646,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 3.5,
   "Power": 2.09,
-  "Effectivity": 7.66
+  "Effectivity": 7.66,
+  "P": "47.05"
 }, {
   "Id": 2234,
   "RaceID": 801,
@@ -23213,7 +24663,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 11.19
+  "Effectivity": 11.19,
+  "P": "41.03"
 }, {
   "Id": 2235,
   "RaceID": 801,
@@ -23229,7 +24680,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 9.09
+  "Effectivity": 9.09,
+  "P": "41.39"
 }, {
   "Id": 2236,
   "RaceID": 801,
@@ -23245,7 +24697,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 9.79
+  "Effectivity": 9.79,
+  "P": "41.17"
 }, {
   "Id": 2237,
   "RaceID": 801,
@@ -23261,7 +24714,8 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 8.39
+  "Effectivity": 8.39,
+  "P": "41.23"
 }, {
   "Id": 2238,
   "RaceID": 801,
@@ -23277,7 +24731,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 5.36
+  "Effectivity": 5.36,
+  "P": "58.08"
 }, {
   "Id": 2239,
   "RaceID": 801,
@@ -23293,7 +24748,8 @@ all_units = [{
   "RealCost": 8.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 5.36
+  "Effectivity": 5.36,
+  "P": "57.61"
 }, {
   "Id": 2240,
   "RaceID": 801,
@@ -23309,7 +24765,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 6.39
+  "Effectivity": 6.39,
+  "P": "57.82"
 }, {
   "Id": 2241,
   "RaceID": 801,
@@ -23325,7 +24782,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 5.88
+  "Effectivity": 5.88,
+  "P": "57.61"
 }, {
   "Id": 2242,
   "RaceID": 801,
@@ -23341,7 +24799,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 6.39
+  "Effectivity": 6.39,
+  "P": "65.28"
 }, {
   "Id": 2243,
   "RaceID": 801,
@@ -23357,7 +24816,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 5.95
+  "Effectivity": 5.95,
+  "P": "58.12"
 }, {
   "Id": 2244,
   "RaceID": 801,
@@ -23373,7 +24833,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 5.88
+  "Effectivity": 5.88,
+  "P": "57.35"
 }, {
   "Id": 3010,
   "RaceID": 801,
@@ -23389,7 +24850,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 7,
   "Power": 3.36,
-  "Effectivity": 5.65
+  "Effectivity": 5.65,
+  "P": "58.15"
 }, {
   "Id": 2245,
   "RaceID": 801,
@@ -23405,7 +24867,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 7.53
+  "Effectivity": 7.53,
+  "P": "59.80"
 }, {
   "Id": 2246,
   "RaceID": 801,
@@ -23421,7 +24884,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 6.99
+  "Effectivity": 6.99,
+  "P": "39.61"
 }, {
   "Id": 2247,
   "RaceID": 801,
@@ -23437,7 +24901,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 11.5,
   "Power": 4.44,
-  "Effectivity": 6.98
+  "Effectivity": 6.98,
+  "P": "67.72"
 }, {
   "Id": 2248,
   "RaceID": 801,
@@ -23453,7 +24918,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 9.5,
   "Power": 3.96,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "67.61"
 }, {
   "Id": 2249,
   "RaceID": 801,
@@ -23469,7 +24935,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 7.53
+  "Effectivity": 7.53,
+  "P": "60.48"
 }, {
   "Id": 2250,
   "RaceID": 801,
@@ -23485,7 +24952,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 10,
   "Power": 4.42,
-  "Effectivity": 6.33
+  "Effectivity": 6.33,
+  "P": "58.98"
 }, {
   "Id": 2251,
   "RaceID": 801,
@@ -23501,7 +24969,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 13,
   "Power": 5.2,
-  "Effectivity": 6.92
+  "Effectivity": 6.92,
+  "P": "67.98"
 }, {
   "Id": 2252,
   "RaceID": 801,
@@ -23517,7 +24986,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 10,
   "Power": 4.42,
-  "Effectivity": 6.11
+  "Effectivity": 6.11,
+  "P": "39.52"
 }, {
   "Id": 2253,
   "RaceID": 801,
@@ -23533,7 +25003,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 10,
   "Power": 4.42,
-  "Effectivity": 6.79
+  "Effectivity": 6.79,
+  "P": "58.82"
 }, {
   "Id": 2254,
   "RaceID": 801,
@@ -23549,7 +25020,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 10.5,
   "Power": 8.18,
-  "Effectivity": 5.26
+  "Effectivity": 5.26,
+  "P": "65.06"
 }, {
   "Id": 2255,
   "RaceID": 801,
@@ -23565,7 +25037,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 10.5,
   "Power": 8.18,
-  "Effectivity": 5.5
+  "Effectivity": 5.5,
+  "P": "77.80"
 }, {
   "Id": 2256,
   "RaceID": 801,
@@ -23581,7 +25054,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 7.5,
   "Power": 6.85,
-  "Effectivity": 5.55
+  "Effectivity": 5.55,
+  "P": "46.23"
 }, {
   "Id": 2257,
   "RaceID": 801,
@@ -23597,7 +25071,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 10.5,
   "Power": 8.18,
-  "Effectivity": 5.26
+  "Effectivity": 5.26,
+  "P": "64.51"
 }, {
   "Id": 2258,
   "RaceID": 801,
@@ -23613,7 +25088,8 @@ all_units = [{
   "RealCost": 47.5,
   "modBS": 8,
   "Power": 13.87,
-  "Effectivity": 5.7
+  "Effectivity": 5.7,
+  "P": "87.35"
 }, {
   "Id": 3024,
   "RaceID": 801,
@@ -23629,7 +25105,8 @@ all_units = [{
   "RealCost": 46.5,
   "modBS": 8,
   "Power": 13.87,
-  "Effectivity": 5.62
+  "Effectivity": 5.62,
+  "P": "87.47"
 }, {
   "Id": 2262,
   "RaceID": 801,
@@ -23645,7 +25122,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 6,
   "Power": 2.4,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "53.71"
 }, {
   "Id": 2263,
   "RaceID": 801,
@@ -23661,7 +25139,8 @@ all_units = [{
   "RealCost": 19.5,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 10.91
+  "Effectivity": 10.91,
+  "P": "53.39"
 }, {
   "Id": 2264,
   "RaceID": 801,
@@ -23677,7 +25156,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 10.45
+  "Effectivity": 10.45,
+  "P": "35.85"
 }, {
   "Id": 2265,
   "RaceID": 801,
@@ -23693,7 +25173,8 @@ all_units = [{
   "RealCost": 16.5,
   "modBS": 8,
   "Power": 2.8,
-  "Effectivity": 9.29
+  "Effectivity": 9.29,
+  "P": "56.91"
 }, {
   "Id": 2266,
   "RaceID": 801,
@@ -23709,7 +25190,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 6,
   "Power": 2.4,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "53.87"
 }, {
   "Id": 2267,
   "RaceID": 801,
@@ -23725,7 +25207,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 6,
   "Power": 2.4,
-  "Effectivity": 10.42
+  "Effectivity": 10.42,
+  "P": "53.30"
 }, {
   "Id": 2268,
   "RaceID": 801,
@@ -23741,7 +25224,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "38.86"
 }, {
   "Id": 2269,
   "RaceID": 801,
@@ -23757,7 +25241,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.39
+  "Effectivity": 7.39,
+  "P": "38.74"
 }, {
   "Id": 2270,
   "RaceID": 801,
@@ -23773,7 +25258,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.8
+  "Effectivity": 10.8,
+  "P": "26.30"
 }, {
   "Id": 2271,
   "RaceID": 801,
@@ -23789,7 +25275,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "41.53"
 }, {
   "Id": 2272,
   "RaceID": 801,
@@ -23805,7 +25292,8 @@ all_units = [{
   "RealCost": 20,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 12.5
+  "Effectivity": 12.5,
+  "P": "41.18"
 }, {
   "Id": 2273,
   "RaceID": 801,
@@ -23821,7 +25309,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "37.84"
 }, {
   "Id": 2274,
   "RaceID": 801,
@@ -23837,7 +25326,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 3.5,
   "Power": 1.9,
-  "Effectivity": 13.16
+  "Effectivity": 13.16,
+  "P": "48.78"
 }, {
   "Id": 2275,
   "RaceID": 801,
@@ -23853,7 +25343,8 @@ all_units = [{
   "RealCost": 11,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 10
+  "Effectivity": 10,
+  "P": "38.05"
 }, {
   "Id": 2276,
   "RaceID": 801,
@@ -23869,7 +25360,8 @@ all_units = [{
   "RealCost": 101,
   "modBS": -7,
   "Power": -0.4,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "43.06"
 }, {
   "Id": 2277,
   "RaceID": 801,
@@ -23885,7 +25377,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 8.5,
   "Power": 7.29,
-  "Effectivity": 5.62
+  "Effectivity": 5.62,
+  "P": "68.98"
 }, {
   "Id": 2278,
   "RaceID": 801,
@@ -23901,7 +25394,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 8.5,
   "Power": 7.29,
-  "Effectivity": 5.9
+  "Effectivity": 5.9,
+  "P": "75.78"
 }, {
   "Id": 3027,
   "RaceID": 801,
@@ -23917,7 +25411,8 @@ all_units = [{
   "RealCost": 25.5,
   "modBS": 8.5,
   "Power": 7.29,
-  "Effectivity": 6.31
+  "Effectivity": 6.31,
+  "P": "68.48"
 }, {
   "Id": 3028,
   "RaceID": 801,
@@ -23933,7 +25428,8 @@ all_units = [{
   "RealCost": 27.5,
   "modBS": 8.5,
   "Power": 7.29,
-  "Effectivity": 6.58
+  "Effectivity": 6.58,
+  "P": "75.92"
 }, {
   "Id": 2279,
   "RaceID": 801,
@@ -23949,7 +25445,8 @@ all_units = [{
   "RealCost": 100,
   "modBS": -10,
   "Power": -1,
-  "Effectivity": 100
+  "Effectivity": 100,
+  "P": "36.47"
 }, {
   "Id": 2280,
   "RaceID": 801,
@@ -23965,7 +25462,8 @@ all_units = [{
   "RealCost": 5,
   "modBS": 0,
   "Power": 1,
-  "Effectivity": 5
+  "Effectivity": 5,
+  "P": "36.96"
 }, {
   "Id": 2281,
   "RaceID": 801,
@@ -23981,7 +25479,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 8.09
+  "Effectivity": 8.09,
+  "P": "57.47"
 }, {
   "Id": 2282,
   "RaceID": 801,
@@ -23997,7 +25496,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 7.84
+  "Effectivity": 7.84,
+  "P": "58.52"
 }, {
   "Id": 2283,
   "RaceID": 801,
@@ -24013,7 +25513,8 @@ all_units = [{
   "RealCost": 5.5,
   "modBS": 17,
   "Power": 5.28,
-  "Effectivity": 5.3
+  "Effectivity": 5.3,
+  "P": "69.49"
 }, {
   "Id": 2284,
   "RaceID": 801,
@@ -24029,7 +25530,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 18,
   "Power": 5.5,
-  "Effectivity": 5.45
+  "Effectivity": 5.45,
+  "P": "69.66"
 }, {
   "Id": 2285,
   "RaceID": 801,
@@ -24045,7 +25547,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 7.5,
   "Power": 3.48,
-  "Effectivity": 9.2
+  "Effectivity": 9.2,
+  "P": "57.99"
 }, {
   "Id": 2286,
   "RaceID": 801,
@@ -24061,7 +25564,8 @@ all_units = [{
   "RealCost": 22.5,
   "modBS": 7.5,
   "Power": 3.48,
-  "Effectivity": 9.2
+  "Effectivity": 9.2,
+  "P": "57.82"
 }, {
   "Id": 2287,
   "RaceID": 801,
@@ -24077,7 +25581,8 @@ all_units = [{
   "RealCost": 21.5,
   "modBS": 7.5,
   "Power": 3.48,
-  "Effectivity": 8.91
+  "Effectivity": 8.91,
+  "P": "38.29"
 }, {
   "Id": 2288,
   "RaceID": 801,
@@ -24093,7 +25598,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 8.5,
   "Power": 3.72,
-  "Effectivity": 9.68
+  "Effectivity": 9.68,
+  "P": "65.18"
 }, {
   "Id": 2289,
   "RaceID": 801,
@@ -24109,7 +25615,8 @@ all_units = [{
   "RealCost": 23.5,
   "modBS": 7.5,
   "Power": 3.48,
-  "Effectivity": 9.48
+  "Effectivity": 9.48,
+  "P": "58.40"
 }, {
   "Id": 2290,
   "RaceID": 801,
@@ -24125,7 +25632,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 10,
   "Power": 6.36,
-  "Effectivity": 4.72
+  "Effectivity": 4.72,
+  "P": "69.95"
 }, {
   "Id": 2291,
   "RaceID": 801,
@@ -24141,7 +25649,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 12,
   "Power": 7.11,
-  "Effectivity": 4.92
+  "Effectivity": 4.92,
+  "P": "65.98"
 }, {
   "Id": 2292,
   "RaceID": 801,
@@ -24157,7 +25666,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 9,
   "Power": 5.98,
-  "Effectivity": 5.18
+  "Effectivity": 5.18,
+  "P": "47.55"
 }, {
   "Id": 2293,
   "RaceID": 801,
@@ -24173,7 +25683,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 9,
   "Power": 5.98,
-  "Effectivity": 5.35
+  "Effectivity": 5.35,
+  "P": "47.14"
 }, {
   "Id": 2294,
   "RaceID": 801,
@@ -24189,7 +25700,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 10,
   "Power": 6.36,
-  "Effectivity": 5.5
+  "Effectivity": 5.5,
+  "P": "76.59"
 }, {
   "Id": 2295,
   "RaceID": 801,
@@ -24205,7 +25717,8 @@ all_units = [{
   "RealCost": 10.5,
   "modBS": 10,
   "Power": 6.36,
-  "Effectivity": 4.72
+  "Effectivity": 4.72,
+  "P": "70.10"
 }, {
   "Id": 2296,
   "RaceID": 801,
@@ -24221,7 +25734,8 @@ all_units = [{
   "RealCost": 13.5,
   "modBS": 12,
   "Power": 7.11,
-  "Effectivity": 4.92
+  "Effectivity": 4.92,
+  "P": "66.13"
 }, {
   "Id": 2297,
   "RaceID": 801,
@@ -24237,7 +25751,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 10,
   "Power": 6.36,
-  "Effectivity": 5.5
+  "Effectivity": 5.5,
+  "P": "76.47"
 }, {
   "Id": 2407,
   "RaceID": 801,
@@ -24253,7 +25768,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 11.36
+  "Effectivity": 11.36,
+  "P": "26.14"
 }, {
   "Id": 2408,
   "RaceID": 801,
@@ -24269,7 +25785,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 5,
   "Power": 2.2,
-  "Effectivity": 12.27
+  "Effectivity": 12.27,
+  "P": "40.47"
 }, {
   "Id": 2431,
   "RaceID": 801,
@@ -24285,7 +25802,8 @@ all_units = [{
   "RealCost": 17,
   "modBS": 15.5,
   "Power": 5.64,
-  "Effectivity": 7.45
+  "Effectivity": 7.45,
+  "P": "75.86"
 }, {
   "Id": 2432,
   "RaceID": 801,
@@ -24301,7 +25819,8 @@ all_units = [{
   "RealCost": 23,
   "modBS": 14.5,
   "Power": 5.4,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "77.19"
 }, {
   "Id": 2433,
   "RaceID": 801,
@@ -24317,7 +25836,8 @@ all_units = [{
   "RealCost": 19,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "25.90"
 }, {
   "Id": 2434,
   "RaceID": 801,
@@ -24333,7 +25853,8 @@ all_units = [{
   "RealCost": 24,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 16.88
+  "Effectivity": 16.88,
+  "P": "41.45"
 }, {
   "Id": 2435,
   "RaceID": 801,
@@ -24349,7 +25870,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 9.74
+  "Effectivity": 9.74,
+  "P": "25.89"
 }, {
   "Id": 2436,
   "RaceID": 801,
@@ -24365,7 +25887,8 @@ all_units = [{
   "RealCost": 18,
   "modBS": 1,
   "Power": 1.54,
-  "Effectivity": 12.99
+  "Effectivity": 12.99,
+  "P": "40.92"
 }, {
   "Id": 2531,
   "RaceID": 801,
@@ -24381,7 +25904,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 10,
   "Power": 4.08,
-  "Effectivity": 7.11
+  "Effectivity": 7.11,
+  "P": "58.95"
 }, {
   "Id": 2532,
   "RaceID": 801,
@@ -24397,7 +25921,8 @@ all_units = [{
   "RealCost": 7.5,
   "modBS": 11,
   "Power": 4.32,
-  "Effectivity": 5.79
+  "Effectivity": 5.79,
+  "P": "59.13"
 }, {
   "Id": 2533,
   "RaceID": 801,
@@ -24413,7 +25938,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 8,
   "Power": 3.6,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "38.23"
 }, {
   "Id": 2559,
   "RaceID": 801,
@@ -24429,7 +25955,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 4.55
+  "Effectivity": 4.55,
+  "P": "49.27"
 }, {
   "Id": 2560,
   "RaceID": 801,
@@ -24445,7 +25972,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 7.58
+  "Effectivity": 7.58,
+  "P": "50.15"
 }, {
   "Id": 2561,
   "RaceID": 801,
@@ -24461,7 +25989,8 @@ all_units = [{
   "RealCost": 4.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 4.55
+  "Effectivity": 4.55,
+  "P": "35.21"
 }, {
   "Id": 2562,
   "RaceID": 801,
@@ -24477,7 +26006,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 6,
   "Power": 2.64,
-  "Effectivity": 6.44
+  "Effectivity": 6.44,
+  "P": "54.83"
 }, {
   "Id": 2719,
   "RaceID": 801,
@@ -24493,7 +26023,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 9.66
+  "Effectivity": 9.66,
+  "P": "36.72"
 }, {
   "Id": 2720,
   "RaceID": 801,
@@ -24509,7 +26040,8 @@ all_units = [{
   "RealCost": 16,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 10.23
+  "Effectivity": 10.23,
+  "P": "26.17"
 }, {
   "Id": 2721,
   "RaceID": 801,
@@ -24525,7 +26057,8 @@ all_units = [{
   "RealCost": 12,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 7.95
+  "Effectivity": 7.95,
+  "P": "41.20"
 }, {
   "Id": 2722,
   "RaceID": 801,
@@ -24541,7 +26074,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 8.52
+  "Effectivity": 8.52,
+  "P": "36.63"
 }, {
   "Id": 3204,
   "RaceID": 801,
@@ -24557,7 +26091,8 @@ all_units = [{
   "RealCost": 22,
   "modBS": 2,
   "Power": 1.76,
-  "Effectivity": 13.64
+  "Effectivity": 13.64,
+  "P": "38.35"
 }, {
   "Id": 3036,
   "RaceID": 801,
@@ -24573,7 +26108,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 14,
   "Power": 5.28,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "67.05"
 }, {
   "Id": 3037,
   "RaceID": 801,
@@ -24589,7 +26125,8 @@ all_units = [{
   "RealCost": 15.5,
   "modBS": 14,
   "Power": 5.28,
-  "Effectivity": 6.25
+  "Effectivity": 6.25,
+  "P": "67.09"
 }, {
   "Id": 3038,
   "RaceID": 801,
@@ -24605,7 +26142,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 14,
   "Power": 5.28,
-  "Effectivity": 6.63
+  "Effectivity": 6.63,
+  "P": "74.30"
 }, {
   "Id": 3039,
   "RaceID": 801,
@@ -24621,7 +26159,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 17,
   "Power": 6,
-  "Effectivity": 5.67
+  "Effectivity": 5.67,
+  "P": "72.79"
 }, {
   "Id": 3040,
   "RaceID": 801,
@@ -24637,7 +26176,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 14,
   "Power": 5.28,
-  "Effectivity": 6.82
+  "Effectivity": 6.82,
+  "P": "44.10"
 }, {
   "Id": 3041,
   "RaceID": 801,
@@ -24653,7 +26193,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 14,
   "Power": 5.28,
-  "Effectivity": 6.06
+  "Effectivity": 6.06,
+  "P": "67.14"
 }, {
   "Id": 3043,
   "RaceID": 801,
@@ -24669,7 +26210,8 @@ all_units = [{
   "RealCost": 9.5,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 6.67
+  "Effectivity": 6.67,
+  "P": "37.49"
 }, {
   "Id": 3044,
   "RaceID": 801,
@@ -24685,7 +26227,8 @@ all_units = [{
   "RealCost": 12.5,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 8.33
+  "Effectivity": 8.33,
+  "P": "26.63"
 }, {
   "Id": 3045,
   "RaceID": 801,
@@ -24701,7 +26244,8 @@ all_units = [{
   "RealCost": 11.5,
   "modBS": 6,
   "Power": 2.4,
-  "Effectivity": 7.92
+  "Effectivity": 7.92,
+  "P": "47.93"
 }, {
   "Id": 3046,
   "RaceID": 801,
@@ -24717,7 +26261,8 @@ all_units = [{
   "RealCost": 14.5,
   "modBS": 3,
   "Power": 1.8,
-  "Effectivity": 9.44
+  "Effectivity": 9.44,
+  "P": "41.41"
 }, {
   "Id": 3101,
   "RaceID": 801,
@@ -24733,7 +26278,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 6.54
+  "Effectivity": 6.54,
+  "P": "68.93"
 }, {
   "Id": 3102,
   "RaceID": 801,
@@ -24749,7 +26295,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 15,
   "Power": 5.98,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "65.00"
 }, {
   "Id": 3103,
   "RaceID": 801,
@@ -24765,7 +26312,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 13,
   "Power": 5.46,
-  "Effectivity": 7.33
+  "Effectivity": 7.33,
+  "P": "76.01"
 }, {
   "Id": 3104,
   "RaceID": 801,
@@ -24781,7 +26329,8 @@ all_units = [{
   "RealCost": 17.5,
   "modBS": 12,
   "Power": 5.2,
-  "Effectivity": 6.54
+  "Effectivity": 6.54,
+  "P": "68.61"
 }, {
   "Id": 3105,
   "RaceID": 801,
@@ -24797,7 +26346,8 @@ all_units = [{
   "RealCost": 18.5,
   "modBS": 15,
   "Power": 5.98,
-  "Effectivity": 6.69
+  "Effectivity": 6.69,
+  "P": "65.16"
 }, {
   "Id": 3106,
   "RaceID": 801,
@@ -24813,7 +26363,8 @@ all_units = [{
   "RealCost": 20.5,
   "modBS": 13,
   "Power": 5.46,
-  "Effectivity": 7.33
+  "Effectivity": 7.33,
+  "P": "75.81"
 }, {
   "Id": 3294,
   "RaceID": 801,
@@ -24829,7 +26380,8 @@ all_units = [{
   "RealCost": 28,
   "modBS": 2.5,
   "Power": 7.56,
-  "Effectivity": 6.75
+  "Effectivity": 6.75,
+  "P": "78.23"
 }, {
   "Id": 3349,
   "RaceID": 801,
@@ -24845,7 +26397,8 @@ all_units = [{
   "RealCost": 14,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 8.6
+  "Effectivity": 8.6,
+  "P": "45.17"
 }, {
   "Id": 3371,
   "RaceID": 801,
@@ -24861,7 +26414,8 @@ all_units = [{
   "RealCost": 9,
   "modBS": 0.5,
   "Power": 1.3,
-  "Effectivity": 7.69
+  "Effectivity": 7.69,
+  "P": "37.53"
 }, {
   "Id": 3412,
   "RaceID": 801,
@@ -24877,7 +26431,8 @@ all_units = [{
   "RealCost": 13,
   "modBS": 1.5,
   "Power": 1.5,
-  "Effectivity": 9.33
+  "Effectivity": 9.33,
+  "P": "37.86"
 }, {
   "Id": 3436,
   "RaceID": 801,
@@ -24893,7 +26448,8 @@ all_units = [{
   "RealCost": 15,
   "modBS": 3.5,
   "Power": 2.21,
-  "Effectivity": 9.05
+  "Effectivity": 9.05,
+  "P": "44.77"
 }, {
   "Id": 2406,
   "RaceID": 801,
@@ -24909,5 +26465,6 @@ all_units = [{
   "RealCost": 10,
   "modBS": 0.5,
   "Power": 1.43,
-  "Effectivity": 8.39
+  "Effectivity": 8.39,
+  "P": "41.08"
 }]

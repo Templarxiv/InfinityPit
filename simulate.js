@@ -53,17 +53,20 @@ var weaponClass = (name, range, dmg, burst) => {
   return s;
 }
 var weapons = [];
-
+weapons.push(weaponClass("Flash Pulse", [-100, -100, -100, -100, -100, -100, -100, -100, -100], 13, 1));
+weapons.push(weaponClass("Flamethrower", [6, 6, -100, -100, -100, -100, -100], 14, 1));
 weapons.push(weaponClass("Shotgun", [3, 0, -3, -100, -100, -100], 13, 2));
 weapons.push(weaponClass("Boarding Shotgun", [6, 0, -3, -100, -100, -100], 14, 2));
 weapons.push(weaponClass("Submachine", [3, 0, -3, -6, -100, -100, -100], 13, 3));
 weapons.push(weaponClass("Rifle", [0, 3, -3, -3, -6, -6], 13, 3));
+weapons.push(weaponClass("Chain Rifle", [6, 6, -100, -100, -100, -100, -100], 13, 1));
 weapons.push(weaponClass("CombiRifle", [3, 3, -3, -3, -6, -6], 13, 3));
 weapons.push(weaponClass("Spitfire", [0, 3, 3, -3, -6, -6], 14, 4));
 weapons.push(weaponClass("Sniper", [-3, 0, 3, 3, 3, 3, -3, -3], 15, 2));
+weapons.push(weaponClass("Rocket Launcher", [-3, 0, 3, 3, -3, -3, -100, -100, -100], 15, 2));
+weapons.push(weaponClass("Missile Launcher", [0, 0, 0, 3, 3, 0, 0, 0, 0], 15, 2));
 weapons.push(weaponClass("Mk12", [0, 3, 3, -3, -6, -6, -100, -100, -100], 15, 3));
 weapons.push(weaponClass("HMG", [-3, 0, 3, 3, -3, -3, -100, -100, -100], 15, 4));
-
 
 var activeUnit;
 var reactiveUnit;
@@ -89,8 +92,8 @@ var bsMod = (u1, u2) => {
 }
 
 var turn = (range) => {
-  var weapon1 = weaponClass("Default", [3, 0, -3, -3, -6, -100, -100, -100], 13, 3);
-  var weapon2 = weaponClass("Default", [3, 0, -3, -3, -6, -100, -100, -100], 13, 3);
+  var weapon1 = weaponClass("Default", [-100, -100, -100, -100, -100, -100, -100, -100], 13, 3);
+  var weapon2 = weaponClass("Default", [-100, -100, -100, -100, -100, -100, -100, -100], 13, 3);
 
   weapons.forEach(function (el) {
     if (activeUnit.Name.includes(el.name)) weapon1 = el;
@@ -147,19 +150,21 @@ var turn = (range) => {
 
   if (reactiveUnit.Name.includes("Viral ") || reactiveUnit.Name.includes("Sniper ") &&
     activeUnit.W == 1 && activeUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
-    activeUnit.W = 0;
+    hits = hits * 2;
   }
   if (activeUnit.Name.includes("Viral ") || activeUnit.Name.includes("Sniper ") &&
     reactiveUnit.W == 1 && reactiveUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
-    reactiveUnit.W = 0;
+    hits = hits * 2;
   }
 
-  if (hits > 0) {
+  if (range < 2 && weapon1.name.includes("Chain") || weapon1.name.includes("Flamethrower") || weapon2.name.includes("Chain") || weapon2.name.includes("Flamethrower")) {
+    reactiveUnit.W -= dmg(dmg1, reactiveUnit.ARM);
+    activeUnit.W -= dmg(dmg2, activeUnit.ARM);
+  } else if (hits > 0) {
     for (var i = 0; i < hits; i++) {
       reactiveUnit.W -= dmg(dmg1, reactiveUnit.ARM);
     }
-  }
-  if (hits < 0) activeUnit.W -= dmg(dmg2, activeUnit.ARM);
+  } else if (hits < 0) activeUnit.W -= dmg(dmg2, activeUnit.ARM);
 }
 
 var addWAb = (u) => {
