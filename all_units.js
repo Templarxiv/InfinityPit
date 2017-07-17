@@ -1,4 +1,4 @@
-var all_units = [{
+all_units = [{
   "Id": 1,
   "RaceID": 101,
   "Name": "FUSILIER Combi Rifle",

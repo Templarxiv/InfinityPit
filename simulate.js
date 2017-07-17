@@ -53,15 +53,16 @@ var weaponClass = (name, range, dmg, burst) => {
   return s;
 }
 var weapons = [];
-weapons.push(weaponClass("Spitfire", [0, 3, 3, -3, -6, -6], 14, 4));
-weapons.push(weaponClass("Shotgun", [3, 0, -3, -100, -100, -100], 14, 2));
-weapons.push(weaponClass("BoardingShotgun", [6, 0, -3, -100, -100, -100], 14, 2));
+
+weapons.push(weaponClass("Shotgun", [3, 0, -3, -100, -100, -100], 13, 2));
+weapons.push(weaponClass("Boarding Shotgun", [6, 0, -3, -100, -100, -100], 14, 2));
+weapons.push(weaponClass("Submachine", [3, 0, -3, -6, -100, -100, -100], 13, 3));
 weapons.push(weaponClass("Rifle", [0, 3, -3, -3, -6, -6], 13, 3));
 weapons.push(weaponClass("CombiRifle", [3, 3, -3, -3, -6, -6], 13, 3));
-weapons.push(weaponClass("HMG", [-3, 0, 3, 3, -3, -3], 15, 4));
+weapons.push(weaponClass("Spitfire", [0, 3, 3, -3, -6, -6], 14, 4));
 weapons.push(weaponClass("Sniper", [-3, 0, 3, 3, 3, 3, -3, -3], 15, 2));
-weapons.push(weaponClass("Submachine", [3, 0, -3, -6, -100, -100], 13, 3));
-weapons.push(weaponClass("Mk12", [0, 3, 3, -3, -6, -6], 15, 3));
+weapons.push(weaponClass("Mk12", [0, 3, 3, -3, -6, -6, -100, -100, -100], 15, 3));
+weapons.push(weaponClass("HMG", [-3, 0, 3, 3, -3, -3, -100, -100, -100], 15, 4));
 
 
 var activeUnit;
@@ -88,8 +89,8 @@ var bsMod = (u1, u2) => {
 }
 
 var turn = (range) => {
-  var weapon1 = weaponClass("Default", [3, 0, -3, -3, -6], 13, 3);
-  var weapon2 = weaponClass("Default", [3, 0, -3, -3, -6], 13, 3);
+  var weapon1 = weaponClass("Default", [3, 0, -3, -3, -6, -100, -100, -100], 13, 3);
+  var weapon2 = weaponClass("Default", [3, 0, -3, -3, -6, -100, -100, -100], 13, 3);
 
   weapons.forEach(function (el) {
     if (activeUnit.Name.includes(el.name)) weapon1 = el;
@@ -101,10 +102,18 @@ var turn = (range) => {
   var activeModBS = bsMod(activeUnit, reactiveUnit);
   var reactiveModBS = bsMod(reactiveUnit, activeUnit);
 
-  var bs = activeUnit.BS + weapon1.range[range];
-  var enemyBS = reactiveUnit.BS + weapon2.range[range]
+  var bs = activeUnit.BS + weapon1.range[range] + reactiveModBS;
+  // if (!weapon1.range[range]) bs = 0;
+  var enemyBS = reactiveUnit.BS + weapon2.range[range] + activeModBS;
+  // if (!weapon2.range[range]) enemyBS = 0;
 
-  var hits = shoot(burst, bs + reactiveModBS, enemyBS + activeModBS);
+  if (bs < 1 && enemyBS < 1) {
+    activeUnit.W = 0;
+    reactiveUnit.W = 0;
+    return;
+  };
+
+  var hits = shoot(burst, bs, enemyBS)
 
   var dmg1 = weapon1.dmg;
   var dmg2 = weapon2.dmg;
@@ -136,13 +145,13 @@ var turn = (range) => {
     hits = hits * 2;
   }
 
-  if (reactiveUnit.Name.includes("Plasma ") || reactiveUnit.Name.includes("Viral ") || reactiveUnit.Name.includes("Sniper ") &&
-    activeUnit.w == 1 && activeUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
-    activeUnit.w = 0;
+  if (reactiveUnit.Name.includes("Viral ") || reactiveUnit.Name.includes("Sniper ") &&
+    activeUnit.W == 1 && activeUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
+    activeUnit.W = 0;
   }
-  if (activeUnit.Name.includes("Plasma ") || activeUnit.Name.includes("Viral ") || activeUnit.Name.includes("Sniper ") &&
-    reactiveUnit.w == 1 && reactiveUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
-    reactiveUnit.w = 0;
+  if (activeUnit.Name.includes("Viral ") || activeUnit.Name.includes("Sniper ") &&
+    reactiveUnit.W == 1 && reactiveUnit.AbilityText.includes("NO WOUND INCAPACITATION")) {
+    reactiveUnit.W = 0;
   }
 
   if (hits > 0) {
@@ -159,11 +168,11 @@ var addWAb = (u) => {
   if (u.AbilityText.includes("Symbiont Armor")) u.W += 1;
 }
 
-var simulate = (u1, u2, ranges) => {
+simulate = (u1, u2, ranges, amount, forUi) => {
   var winsU1 = 0;
   var winsU2 = 0;
 
-  var text = u1.Name + " cost=" + u1.COST + " vs " + u2.Name + " cost=" + u2.COST;
+  // var text = u1.Name + " cost=" + u1.COST + " vs " + u2.Name + " cost=" + u2.COST;
 
   var i_ranges = [];
   for (var b = 0; b < ranges.length; b++) {
@@ -172,7 +181,7 @@ var simulate = (u1, u2, ranges) => {
   }
 
   var curRange = 0;
-  for (var i = 0; i < 1000; i++) {
+  for (var i = 0; i < amount / 2; i++) {
     activeUnit = Object.create(u1);
     reactiveUnit = Object.create(u2);
     addWAb(activeUnit);
@@ -188,7 +197,7 @@ var simulate = (u1, u2, ranges) => {
     if (reactiveUnit.W <= 0)
       winsU1++;
   }
-  for (var i = 0; i < 1000; i++) {
+  for (var i = 0; i < amount / 2; i++) {
     activeUnit = Object.create(u2);
     reactiveUnit = Object.create(u1);
     addWAb(activeUnit);
@@ -204,48 +213,13 @@ var simulate = (u1, u2, ranges) => {
     if (reactiveUnit.W <= 0)
       winsU2++;
   }
-  text += winsU1 + "/" + winsU2 + "(" + Math.floor(winsU1 / (winsU1 + winsU2) * 100) + "/" + Math.floor(winsU2 / (winsU1 + winsU2) * 100) + "%)"
-  console.log(text);
-  return winsU1 + "/" + winsU2 + "(" + Math.floor(winsU1 / (winsU1 + winsU2) * 100) + "/" + Math.floor(winsU2 / (winsU1 + winsU2) * 100) + "%)";
+  // text += winsU1 + "/" + winsU2 + "(" + Math.floor(winsU1 / (winsU1 + winsU2) * 100) + "/" + Math.floor(winsU2 / (winsU1 + winsU2) * 100) + "%)"
+  // console.log(text);
+  if (forUi)
+    return winsU1 + "/" + winsU2 + "(" + Math.floor(winsU1 / (winsU1 + winsU2) * 100) + "/" + Math.floor(winsU2 / (winsU1 + winsU2) * 100) + "%)";
+  else return winsU1 / (winsU1 + winsU2);
 }
-
 // var data = fs.readFileSync(json, 'utf8')
-var jsonData = all_units;
-var startSimulation = () => {
-  var ranges = [document.getElementById("8").checked, document.getElementById("16").checked, document.getElementById("24").checked, document.getElementById("32").checked, document.getElementById("48").checked];
-  var u1 = jsonData.find(x => x.Name == document.getElementById("first_unit").value);
-  var u2 = jsonData.find(x => x.Name == document.getElementById("second_unit").value);
-  document.getElementById("stats_first").innerHTML = "BS: " + u1.BS + "\nW: " + u1.W + "\nARM: " + u1.ARM + "\nBTS: " + u1.BTS + "\nAbility: " + u1.AbilityText + "\nCost: " + u1.COST;
-  document.getElementById("stats_second").innerHTML = "BS: " + u2.BS + "\nW: " + u2.W + "\nARM: " + u2.ARM + "\nBTS: " + u2.BTS + "\nAbility: " + u2.AbilityText + "\nCost: " + u2.COST;
-  document.getElementById("status").innerHTML = simulate(u1, u2, ranges);
-}
-
-var finalData = $.map(jsonData, function (item) {
-  return {
-    label: item.Name,
-    value: item.Name
-  }
-});
-
-$(function () {
-  $("#first_unit").autocomplete({
-    minLength: 2,
-    source: function (request, response) {
-      var results = $.ui.autocomplete.filter(finalData, request.term);
-      response(results.slice(0, 10));
-    }
-  })
-});
-
-$(function () {
-  $("#second_unit").autocomplete({
-    minLength: 2,
-    source: function (request, response) {
-      var results = $.ui.autocomplete.filter(finalData, request.term);
-      response(results.slice(0, 10));
-    }
-  })
-});
 
 //2238 sakiel , 2262 Clipsos , 2232 kamael
 //2283 nikoul 2251 Gao-TarosHMG
